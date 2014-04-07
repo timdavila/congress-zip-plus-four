@@ -5,18 +5,22 @@ For the [https://github.com/EFForg/congress-forms/]congress-forms/[https://githu
 
 To make one:
 
-1. Find district-office data
+### 1. Find district-office data
+
 I found a list of congressional offices, saved for posterity in ([congressional-offices.csv](https://github.com/sinak/congress-zip-plus-four/blob/master/congressional-offices.csv)), by doing a google search combining a couple of district office addresses (e.g. "3532 Bee Cave Road" + "300 East Eighth Street").
 
-2. Extract data
+### 2. Extract data
+
 Since I didn't particularly trust that list to be up to date, and since we need Bio IDs for each rep, extract the key data (first line of address and zip+4) to the [https://github.com/sinak/congress-zip-plus-four/blob/master/address%2Bzip4.csv](address+zip4.csv) file.
 
-3. Run lookup.rb
+### 3. Run lookup.rb
+
 Then simply run the lookup.rb script (make sure all dependencies are installed). 
 The script looks up each address with Google's geocoder to get a lat/lng, then runs each lat/lng through Sunlight's Congress API to get the Bio-ID and congressional district.
 The output is just to console, so copy and paste to spreadsheet software (output.csv).
 
-4. Clean up data
+### 4. Clean up data
+
 I cleaned up the data little by hand, then used this Excel Macro to remove duplicate entries for congressional districts.
 ```
 Sub DelRowsColASame()
@@ -37,4 +41,4 @@ End Sub
 ```
 The output from this stage is in the file output-deduped.csv
 
-5. 
+### 5. 
