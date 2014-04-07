@@ -1,0 +1,954 @@
+District,Title,AddressLine2,AddressLine1,AddressLine3,AddressLine4,Telephone,Fax,LastName,
+SD01,US Representative,US House of Representatives,The Honorable Kristi L. Noem,415 South Main Street Suite 203,"Aberdeen, SD 57401-4304",(202) 225-2801,,Noem,57401-4304
+TX19,US Representative,US House of Representatives,The Honorable Randy Neugebauer,500 Chestnut Street Room 819,"Abilene, TX 79602-1453",(325) 675-9779,(325) 675-5038,Neugebauer,79602-1453
+VA09,US Representative,US House of Representatives,The Honorable Morgan Griffith,323 West Main Street ,"Abingdon, VA 24210-2605",(276) 525-1405,(276) 525-1444,Griffith,24210-2605
+VA02,US Representative,US House of Representatives,The Honorable Scott Rigell,23386 Front Street ,"Accomac, VA 23301",(757) 789-5172,(757) 789-5175,Rigell,23301
+MA05,US Representative,US House of Representatives,The Honorable Niki Tsongas,492 Main Street ,"Acton, MA 01720-3939",(978) 263-1951,,Tsongas,01720-3939
+OK04,US Representative,US House of Representatives,The Honorable Tom Cole,100 East 13th Street Suite 213,"Ada, OK 74820-6502",(580) 436-5375,(580) 436-5451,Cole,74820-6502
+SC03,US Representative,US House of Representatives,The Honorable Jeff Duncan,1028 Hayne Avenue SW ,"Aiken, SC 29801-3730",(803) 649-5571,(803) 648-9038,Duncan,29801-3730
+OH13,US Representative,US House of Representatives,The Honorable Betty Sutton,2 South Main Street Suite 380,"Akron, OH 44308-1810",(330) 865-8450,(330) 865-8470,Sutton,44308-1810
+OH17,US Representative,US House of Representatives,The Honorable Tim Ryan,1030 East Tallmadge Avenue ,"Akron, OH 44310-3563",(330) 630-7311,(330) 630-7314,Ryan,44310-3563
+NM02,US Representative,US House of Representatives,The Honorable Steve E. Pearce,1101 New York Avenue Room 115,"Alamogordo, NM 88310-6923",(855) 473-2723,,Pearce,88310-6923
+CO03,US Representative,US House of Representatives,The Honorable Scott R. Tipton,609 Main Street Room 105,"Alamosa, CO 81101-2557",(719) 587-5105,(719) 587-5137,Tipton,81101-2557
+GA02,US Representative,US House of Representatives,The Honorable Sanford D. Bishop,235 Roosevelt Avenue Suite 114,"Albany, GA 31701-5132",(229) 439-8067,(229) 436-2099,Bishop,31701-5132
+NY21,US Representative,US House of Representatives,The Honorable Paul D. Tonko,11a Clinton Avenue Room 827,"Albany, NY 12207-2355",(518) 465-0700,(518) 427-5107,Tonko,12207-2355
+NM01,US Representative,US House of Representatives,The Honorable Martin Heinrich,505 Marquette Avenue Northwest Suite 1605,"Albuquerque, NM 87102-5803",(505) 346-6781,(505) 346-6723,Heinrich,87102-5803
+NM01,US Representative,US House of Representatives,The Honorable Martin Heinrich,3211 Coors Boulevard SW Suite B3,"Albuquerque, NM 87121-5255",(505) 877-4069,(505) 877-4911,Heinrich,87121-5255
+LA05,US Representative,US House of Representatives,The Honorable Rodney Alexander,1412 Centre Court Suite 402,"Alexandria, LA 71301-3449",(318) 445-0818,(318) 445-3776,Alexander,71301-3449
+VA08,US Representative,US House of Representatives,The Honorable Jim P. Moran,333 North Fairfax Street Suite 201,"Alexandria, VA 22314-2632",(703) 971-4700,(703) 922-9436,Moran,22314-2632
+PA04,US Representative,US House of Representatives,The Honorable Jason Altmire,2110 McLean Street ,"Aliquippa, PA 15001-2964",(724) 378-0928,(724) 378-6171,Altmire,15001-2964
+TX13,US Representative,US House of Representatives,The Honorable Mac Thornberry,905 South Fillmore Street Suite 520,"Amarillo, TX 79101-3541",(806) 371-8844,(806) 371-7044,Thornberry,79101-3541
+IA04,US Representative,US House of Representatives,The Honorable Tom Latham,1421 South Bell Avenue Suite 108A,"Ames, IA 50010-7710",(515) 232-2885,(515) 232-2884,Latham,50010-7710
+NY21,US Representative,US House of Representatives,The Honorable Paul D. Tonko,61 Church Street Room 309,"Amsterdam, NY 12010-4424",(518) 843-3400,(518) 843-8874,Tonko,12010-4424
+AK01,US Representative,US House of Representatives,The Honorable Don Young,510 L Street Suite 580,"Anchorage, AK 99501-1959",(907) 271-5978,(907) 271-5950,Young,99501-1959
+AL02,US Representative,US House of Representatives,The Honorable Martha Roby,505 East Three Notch Street Room 322,"Andalusia, AL 63420-3129",(334) 428-1129,(334) 222-3342,Roby,63420-3129
+IN06,US Representative,US House of Representatives,The Honorable Mike Pence,1134 Meridian Plaza ,"Anderson, IN 46016-1713",(765) 640-2919,(765) 640-2922,Pence,46016-1713
+SC03,US Representative,US House of Representatives,The Honorable Jeff Duncan,303 West Beltline Boulevard ,"Anderson, SC 29625-1505",(864) 224-7401,(864) 225-7049,Duncan,29625-1505
+VA11,US Representative,US House of Representatives,The Honorable Gerald E. Connolly,4115 Annandale Road Suite 103,"Annandale, VA 22003-2500",(703) 256-3071,(703) 354-1284,Connolly,22003-2500
+MD03,US Representative,US House of Representatives,The Honorable John P. Sarbanes,44 Calvert Street Suite 349,"Annapolis, MD 21401-1930",(410) 295-1679,(410) 295-1682,Sarbanes,21401-1930
+AL03,US Representative,US House of Representatives,The Honorable Mike D. Rogers,1129 Noble Street Suite 104,"Anniston, AL 36201-4674",(256) 236-5655,(256) 237-9203,Rogers,36201-4674
+CA10,US Representative,US House of Representatives,The Honorable John Garamendi,420 West 3rd Street ,"Antioch, CA 94509-1274",(925) 757-7187,(925) 757-7056,Garamendi,94509-1274
+WI08,US Representative,US House of Representatives,The Honorable Reid J. Ribble,333 West College Avenue ,"Appleton, WI 54911-5898",(920) 380-0061,(920) 380-0051,Ribble,54911-5898
+TX06,US Representative,US House of Representatives,The Honorable Joe Barton,6001 West Ronald Reagan Memorial Highway Suite 200,"Arlington, TX 76017",(817) 543-1000,(817) 548-7029,Barton,76017
+NC06,US Representative,US House of Representatives,The Honorable Howard Coble,222 Sunset Avenue Suite 101,"Asheboro, NC 27203-5658",(336) 626-3060,(336) 629-7819,Coble,27203-5658
+KY04,US Representative,US House of Representatives,The Honorable Geoff Davis,1405 Greenup Avenue Suite 236,"Ashland, KY 41101-7573",(606) 324-9898,(606) 325-9866,Davis,41101-7573
+NC11,US Representative,US House of Representatives,The Honorable Heath Shuler,205 College Street Suite 100,"Ashville, NC 28801-3017",(828) 252-1651,(828) 252-8734,Shuler,28801-3017
+NY14,US Representative,US House of Representatives,The Honorable Carolyn B. Maloney,28-11 Astoria Boulevard ,"Astoria, NY 11102-1933",(718) 932-1804,(718) 932-1805,Maloney,11102-1933
+CA22,US Representative,US House of Representatives,The Honorable Kevin McCarthy,5805 Capistrono Avenue Suite C,"Atascadero, CA 93422-7218",(805) 461-1034,(805) 461-1323,McCarthy,93422-7218
+GA10,US Representative,US House of Representatives,The Honorable Paul Broun,3706 Atlanta Highway Suite 3B,"Athens, GA 30606-7202",(706) 549-9588,,Broun,30606-7202
+TN02,US Representative,US House of Representatives,The Honorable John J. Duncan,6 East Madison Avenue ,"Athens, TN 37303-4297",(423) 745-4671,(423) 745-6025,Duncan,37303-4297
+TX05,US Representative,US House of Representatives,The Honorable Jeb Hensarling,702 East Corsicana Street ,"Athens, TX 75751-2629",(903) 675-8288,(903) 675-8351,Hensarling,75751-2629
+GA05,US Representative,US House of Representatives,The Honorable John Lewis,"100 Peachtree Street, NW Suite 1920","Atlanta, GA 30303-1906",(404) 659-0116,(404) 331-0947,Lewis,30303-1906
+MA03,US Representative,US House of Representatives,The Honorable Jim P. McGovern,8 North Main Street Suite 200,"Attleboro, MA 02703-2282",(508) 431-8025,(508) 431-8017,McGovern,02703-2282
+NY24,US Representative,US House of Representatives,The Honorable Richard L. Hanna,110 Genesee Street Suite 110,"Auburn, NY 13021-3622",(315) 252-6700,(315) 252-6709,Hanna,13021-3622
+GA12,US Representative,US House of Representatives,The Honorable John Barrow,925 Laney Walker Boulevard Suite 300,"Augusta, GA 30901-2959",(706) 722-4494,(706) 722-4496,Barrow,30901-2959
+TX25,US Representative,US House of Representatives,The Honorable Lloyd Doggett,300 East Eighth Street Room 763,"Austin, TX 78701-3224",(512) 916-5921,(512) 916-5108,Doggett,78701-3224
+TX10,US Representative,US House of Representatives,The Honorable Michael T. McCaul,5929 Balcones Drive Suite 305,"Austin, TX 78731-4286",(512) 473-2357,(512) 473-0514,McCaul,78731-4286
+TX21,US Representative,US House of Representatives,The Honorable Lamar S. Smith,3532 Bee Cave Road Suite 100,"Austin, TX 78746-5466",(512) 306-0439,(512) 306-0427,Smith,78746-5466
+FL20,US Representative,US House of Representatives,The Honorable Debbie Wasserman Schultz,19200 West Country Club Drive 3rd Floor,"Aventura, FL 33180-2403",(305) 936-5724,(305) 932-9664,Wasserman Schultz,33180-2403
+CA20,US Representative,US House of Representatives,The Honorable Jim Costa,2700 M Street Suite 225,"Bakersfield, CA 93301-2370",(661) 869-1620,(661) 869-1027,Costa,93301-2370
+CA22,US Representative,US House of Representatives,The Honorable Kevin McCarthy,4100 Empire Drive Suite 150,"Bakersfield, CA 93309-0409",(661) 327-3611,(661) 637-0867,McCarthy,93309-0409
+MO02,US Representative,US House of Representatives,The Honorable Todd Akin,301 Sovereign Court Suite 201,"Ballwin, MO 63011-4442",(314) 590-0029,(314) 590-0037,Akin,63011-4442
+MD07,US Representative,US House of Representatives,The Honorable Elijah E. Cummings,1010 Park Avenue Suite 105,"Baltimore, MD 21201-5600",(410) 685-9199,(410) 685-9399,Cummings,21201-5600
+ME02,US Representative,US House of Representatives,The Honorable Michael H. Michaud,6 State Street Suite 101,"Bangor, ME 04401-6364",(207) 942-6935,(207) 942-5907,Michaud,04401-6364
+OK01,US Representative,US House of Representatives,The Honorable John A. Sullivan,401 South Johnstone Avenue Suite 348,"Bartlesville, OK 74003-6619",(918) 336-6500,(918) 337-4196,Sullivan,74003-6619
+LA06,US Representative,US House of Representatives,The Honorable Bill Cassidy,5555 Hilton Avenue Suite 100,"Baton Rouge, LA 70808-2597",(225) 929-7711,(225) 929-7688,Cassidy,70808-2597
+GA01,US Representative,US House of Representatives,The Honorable Jack Kingston,PO Box 40 ,"Baxley, GA 31515-0040",(912) 367-7403,(912) 367-7404,Kingston,31515-0040
+MI05,US Representative,US House of Representatives,The Honorable Dale E. Kildee,916 Washington Avenue Suite 205,"Bay City, MI 48708-5721",(989) 891-0990,(989) 891-0994,Kildee,48708-5721
+NJ13,US Representative,US House of Representatives,The Honorable Albio Sires,630 Avenue C Room 9,"Bayonne, NJ 07002-3878",(201) 823-2900,(201) 858-7139,Sires,07002-3878
+NY05,US Representative,US House of Representatives,The Honorable Gary L. Ackerman,218-14 Northern Boulevard Suite 204,"Bayside, NY 11361-3505",(718) 423-2154,(718) 423-5053,Ackerman,11361-3505
+TX29,US Representative,US House of Representatives,The Honorable Gene Green,909 Decker Drive Suite 124,"Baytown, TX 77520-4433",(281) 420-0502,(281) 420-0585,Green,77520-4433
+SC02,US Representative,US House of Representatives,The Honorable Joe Wilson,PO Box 1538 ,"Beaufort, SC 29901-1538",(843) 521-2530,(843) 521-2535,Wilson,29901-1538
+TX02,US Representative,US House of Representatives,The Honorable Ted Poe,505 Orleans Street Suite 100,"Beaumont, TX 77701-3224",(409) 212-1997,(409) 212-8711,Poe,77701-3224
+WV03,US Representative,US House of Representatives,The Honorable Nick J. Rahall,109 Main Street ,"Beckley, WV 25801-4610",(304) 252-5000,(304) 252-9803,Rahall,25801-4610
+TX15,US Representative,US House of Representatives,The Honorable Ruben Hinojosa,107 South St. Mary's Street ,"Beeville, TX 78102-5619",(361) 358-8400,(361) 358-8407,Hinojosa,78102-5619
+MD01,US Representative,US House of Representatives,The Honorable Andy Harris,15 East Churchville Road Suite 102B,"Bel Air, MD 21014-3837",(410) 588-5670,(410) 588-5673,Harris,21014-3837
+PA05,US Representative,US House of Representatives,The Honorable Glenn Thompson,3555 Benner Pike Suite 101,"Bellefonte, PA 16823-8474",(814) 353-0215,(814) 353-0218,Thompson,16823-8474
+IL12,US Representative,US House of Representatives,The Honorable Jerry F. Costello,144 Lincoln Place Court Suite 4,"Belleville, IL 62221-5884",(618) 233-8026,(618) 233-8765,Costello,62221-5884
+WA02,US Representative,US House of Representatives,The Honorable Rick Larsen,119 North Commercial Street Suite 1350,"Bellingham, WA 98225-4452",(360) 733-4500,(360) 733-5144,Larsen,98225-4452
+WI02,US Representative,US House of Representatives,The Honorable Tammy Baldwin,400 East Grand Avenue Suite 402,"Beloit, WI 53511-6229",(608) 362-2800,(608) 362-2838,Baldwin,53511-6229
+OR02,US Representative,US House of Representatives,The Honorable Greg Walden,1051 Northwest Bond Street Suite 400,"Bend, OR 97701-2958",(541) 389-4408,(541) 389-4452,Walden,97701-2958
+PA15,US Representative,US House of Representatives,The Honorable Charlie W. Dent,701 West Broad Street Suite 200,"Bethlehem, PA 18018-5229",(610) 861-9734,(610) 861-9308,Dent,18018-5229
+TX19,US Representative,US House of Representatives,The Honorable Randy Neugebauer,1510 Scurry Street Suite B,"Big Spring, TX 79720-4441",(432) 264-0722,(432) 264-1838,Neugebauer,79720-4441
+MT01,US Representative,US House of Representatives,The Honorable Denny Rehberg,1201 Grand Avenue Suite One,"Billings, MT 59102-4281",(406) 256-1019,(406) 256-4934,Rehberg,59102-4281
+NY22,US Representative,US House of Representatives,The Honorable Maurice D. Hinchey,15 Henry Street Room 100-A,"Binghamton, NY 13901-2724",(607) 773-2768,(607) 773-3176,Hinchey,13901-2724
+AL07,US Representative,US House of Representatives,The Honorable Terri A. Sewell,2 20th Street North Suite 1130,"Birmingham, AL 35203-4014",(202) 254-1960,(205) 254-1974,Sewell,35203-4014
+AL06,US Representative,US House of Representatives,The Honorable Spencer T. Bachus,1900 International Park Drive Suite 107,"Birmingham, AL 35243-4217",(205) 969-2296,(205) 969-3958,Bachus,35243-4217
+ND01,US Representative,US House of Representatives,The Honorable Rick Berg,200 East Rosser Avenue Room 328,"Bismarck, ND 58501",(701) 224-0355,(701) 224-0431,Berg,58501
+NJ08,US Representative,US House of Representatives,The Honorable Bill Pascrell,13 Municipal Plaza Room 200-A,"Bloomfield, NJ 07003-3470",(973) 680-1361,(973) 680-1617,Pascrell,07003-3470
+IL06,US Representative,US House of Representatives,The Honorable Peter J. Roskam,150 South Bloomingdale Road Room 200,"Bloomingdale, IL 60108-1494",(630) 893-9670,(630) 893-9735,Roskam,60108-1494
+IL15,US Representative,US House of Representatives,The Honorable Timothy V. Johnson,202 North Prospect Road Suite 203,"Bloomington, IL 61704-7920",(309) 663-7049,(309) 663-9880,Johnson,61704-7920
+IN09,US Representative,US House of Representatives,The Honorable Todd Young,320 West 8th Street Suite 114,"Bloomington, IN 47404-3700",(812) 336-3000,(812) 336-3355,Young,47404-3700
+WV03,US Representative,US House of Representatives,The Honorable Nick J. Rahall,601 Federal Street Room 1005,"Bluefield, WV 24701-3033",(304) 325-6222,(304) 325-0552,Rahall,24701-3033
+FL19,US Representative,US House of Representatives,The Honorable Ted Deutch,2500 North Military Trail ,"Boca Raton, FL 33409-6344",(561) 988-6302,(561) 988-6423,Deutch,33409-6344
+ID02,US Representative,US House of Representatives,The Honorable Mike Simpson,802 West Bannock Street Suite 600,"Boise, ID 83702-5843",(208) 334-1953,(208) 334-9533,Simpson,83702-5843
+NC07,US Representative,US House of Representatives,The Honorable Mike McIntyre,"310 Government Center Drive, NE Unit 1","Bolivia, NC 28422-9010",(910) 253-0158,(910) 253-0159,McIntyre,28422-9010
+MS02,US Representative,US House of Representatives,The Honorable Bennie G. Thompson,107 West Madison Street ,"Bolton, MS 39041-3208",(601) 866-9003,(601) 866-9036,Thompson,39041-3208
+NC05,US Representative,US House of Representatives,The Honorable Virginia Foxx,240 Highway 105 Extension Suite 200,"Boone, NC 28607-4291",(828) 265-0240,(828) 265-0390,Foxx,28607-4291
+LA04,US Representative,US House of Representatives,The Honorable John Fleming,700 Benton Road ,"Bossier City, LA 71111-3705",(318) 549-1712,,Fleming,71111-3705
+MA09,US Representative,US House of Representatives,The Honorable Stephen F. Lynch,88 Black Falcon Avenue Suite 340,"Boston, MA 02210-2433",(617) 428-2000,(617) 428-2011,Lynch,02210-2433
+CO02,US Representative,US House of Representatives,The Honorable Jared Polis,4770 Baseline Road Suite 220,"Boulder, CO 80303-2668",(303) 484-9596,(303) 568-9007,Polis,80303-2668
+KY02,US Representative,US House of Representatives,The Honorable Brett Guthrie,1001 Center Street Suite 300,"Bowling Green, KY 42101-2192",(270) 842-9896,(270) 842-9081,Guthrie,42101-2192
+OH05,US Representative,US House of Representatives,The Honorable Bob Latta,1045 North Main Street Suite 6,"Bowling Green, OH 43402-1361",(419) 354-8700,(419) 344-8702,Latta,43402-1361
+FL13,US Representative,US House of Representatives,The Honorable Vern Buchanan,2424 Manatee Avenue West Suite 104,"Bradenton, FL 34205-4954",(941) 747-9081,(941) 748-1564,Buchanan,34205-4954
+CA42,US Representative,US House of Representatives,The Honorable Gary G. Miller,1800 East Lambert Road Suite 150,"Brea, CA 92821-4396",(714) 257-1142,(714) 257-9242,Miller,92821-4396
+WA06,US Representative,US House of Representatives,The Honorable Norm Dicks,345 6th Street Suite 500,"Bremerton, WA 98337-1870",(360) 479-4011,(360) 479-2126,Dicks,98337-1870
+TX10,US Representative,US House of Representatives,The Honorable Michael T. McCaul,2000 South Market Street Suite 303,"Brenham, TX 77833-5800",(979) 830-8497,(979) 830-1984,McCaul,77833-5800
+CT04,US Representative,US House of Representatives,The Honorable Jim A. Himes,211 State Street 2nd Floor,"Bridgeport, CT 06604-4808",(866) 453-0028,(203) 333-6655,Himes,06604-4808
+UT01,US Representative,US House of Representatives,The Honorable Rob W. Bishop,Six North Main Street ,"Brigham City, UT 84302-2116",(435) 734-2270,(435) 734-2290,Bishop,84302-2116
+IL07,US Representative,US House of Representatives,The Honorable Danny K. Davis,2301 Roosevelt Road ,"Broadview, IL 60155-3854",(708) 345-6857,(708) 345-6715,Davis,60155-3854
+MA09,US Representative,US House of Representatives,The Honorable Stephen F. Lynch,155 West Elm Street Suite 200,"Brockton, MA 02301-4326",(508) 586-5555,(508) 580-4692,Lynch,02301-4326
+NY17,US Representative,US House of Representatives,The Honorable Eliot L. Engel,3655 Johnson Avenue ,"Bronx, NY 10463-1671",(718) 796-9700,(718) 796-5134,Engel,10463-1671
+NY07,US Representative,US House of Representatives,The Honorable Joseph Crowley,2800 Bruckner Boulevard Suite 301,"Bronx, NY 10465-1972",(718) 931-1400,(718) 931-1340,Crowley,10465-1972
+NY16,US Representative,US House of Representatives,The Honorable Jose E. Serrano,1231 Lafayette Avenue 4th Floor,"Bronx, NY 10474-5331",(718) 620-0084,(718) 620-0658,Serrano,10474-5331
+NY07,US Representative,US House of Representatives,The Honorable Joseph Crowley,177 Dreiser Loop ,"Bronx, NY 10475-2705",(718) 320-2314,,Crowley,10475-2705
+WI05,US Representative,US House of Representatives,The Honorable Jim Sensenbrenner,120 Bishops Way Room 154,"Brookfield, WI 53005-6294",(262) 784-1111,(262) 784-9437,Sensenbrenner,53005-6294
+MS03,US Representative,US House of Representatives,The Honorable Gregg Harper,230 South Whitworth Street ,"Brookhaven, MS 39601-3343",(601) 823-3400,(601) 823-5512,Harper,39601-3343
+NY10,US Representative,US House of Representatives,The Honorable Edolphus Towns,186 Joralemon Street Suite 1102,"Brooklyn, NY 11201-4326",(718) 855-8018,(718) 858-4542,Towns,11201-4326
+NY12,US Representative,US House of Representatives,The Honorable Nydia M. Velazquez,266 Broadway Suite 201,"Brooklyn, NY 11211-6125",(718) 599-3658,(718) 599-4537,Velazquez,11211-6125
+NY08,US Representative,US House of Representatives,The Honorable Jerrold Nadler,445 Neptune Avenue ,"Brooklyn, NY 11224-4561",(718) 373-3198,(718) 996-0039,Nadler,11224-4561
+NY11,US Representative,US House of Representatives,The Honorable Yvette D. Clarke,"123 Linden Boulevard 4th Floor, Suite 200","Brooklyn, NY 11226-3888",(718) 287-1142,(718) 287-1223,Clarke,11226-3888
+NY13,US Representative,US House of Representatives,The Honorable Michael G. Grimm,7308 13th Avenue ,"Brooklyn, NY 11228-2011",(718) 630-5277,(718) 630-5388,Grimm,11228-2011
+NY09,US Representative,US House of Representatives,The Honorable Anthony D. Weiner,1800 Sheepshead Bay Road ,"Brooklyn, NY 11235-2719",(718) 743-0441,,Weiner,11235-2719
+NY10,US Representative,US House of Representatives,The Honorable Edolphus Towns,10408 Flatlands Avenue Store 5,"Brooklyn, NY 11236-2806",(718) 272-1175,(718) 272-1178,Towns,11236-2806
+NY12,US Representative,US House of Representatives,The Honorable Nydia M. Velazquez,16 Court Street Suite 1006,"Brooklyn, NY 11241-1010",(718) 222-5819,(718) 222-5830,Velazquez,11241-1010
+FL05,US Representative,US House of Representatives,The Honorable Richard B. Nugent,16224 Spring Hill Drive ,"Brooksville, FL 34604-8326",(352) 799-8354,(352) 799-8776,Nugent,34604-8326
+TX27,US Representative,US House of Representatives,The Honorable Blake Farenthold,1805 Ruben Torres Suite B-27,"Brownsville, TX 78521-1115",(956) 544-8800,(956) 544-8800,Farenthold,78521-1115
+TX11,US Representative,US House of Representatives,The Honorable Mike Conaway,501 Center Avenue ,"Brownwood, TX 76801-2809",(325) 646-1950,(325) 646-2979,Conaway,76801-2809
+GA01,US Representative,US House of Representatives,The Honorable Jack Kingston,805 Gloucester Street Room 304,"Brunswick, GA 31520-7073",(912) 265-9010,(912) 265-9013,Kingston,31520-7073
+TX17,US Representative,US House of Representatives,The Honorable Bill Flores,4001 29th Street Suite 116,"Bryan, TX 77802-4211",(979) 703-4037,,Flores,77802-4211
+WA08,US Representative,US House of Representatives,The Honorable Dave G. Reichert,811 Main Street ,"Buckley, WA 98321-8259",(206) 498-8103,,Reichert,98321-8259
+CO05,US Representative,US House of Representatives,The Honorable Doug Lamborn,415 Main Street ,"Buena Vista, CO 81211-8106",(719) 520-0055,(719) 520-0840,Lamborn,81211-8106
+NY28,US Representative,US House of Representatives,The Honorable Louise M. Slaughter,465 Main Street Suite 105,"Buffalo, NY 14203-1717",(716) 853-5813,(716) 853-6347,Slaughter,14203-1717
+NY27,US Representative,US House of Representatives,The Honorable Brian Higgins,726 Exchange Street Suite 601,"Buffalo, NY 14210-1484",(716) 852-3501,(716) 852-3929,Higgins,14210-1484
+VT01,US Representative,US House of Representatives,The Honorable Peter F. Welch,"30 Main Street Third Floor, Suite 350","Burlington, VT 05401-8438",(802) 652-2450,,Welch,05401-8438
+MN02,US Representative,US House of Representatives,The Honorable John Kline,101 West Burnsville Parkway Suite 201,"Burnsville, MN 55337-2572",(952) 808-1213,(952) 808-1261,Kline,55337-2572
+PA03,US Representative,US House of Representatives,The Honorable Mike Kelly,108 East Diamond Street 1st Floor,"Butler, PA 16001-5947",(724) 282-2557,(724) 282-3682,Kelly,16001-5947
+AR01,US Representative,US House of Representatives,The Honorable Rick A. Crawford,112 South First Street ,"Cabot, AR 72023-3007",,(501) 843-4955,Crawford,72023-3007
+MI02,US Representative,US House of Representatives,The Honorable Bill Huizenga,210 1/2 North Mitchell Street ,"Cadillac, MI 49601-1835",(231) 775-0050,(231) 775-0298,Huizenga,49601-1835
+ID01,US Representative,US House of Representatives,The Honorable Raul R. Labrador,1115 Albany Street ,"Caldwell, ID 83605-3522",(208) 454-5518,,Labrador,83605-3522
+CA24,US Representative,US House of Representatives,The Honorable Elton Gallegly,5051 Verdugo Suite 120,"Camarillo, CA 93012-8690",(805) 482-2424,(805) 482-0024,Gallegly,93012-8690
+MA08,US Representative,US House of Representatives,The Honorable Michael E. Capuano,110 First Street ,"Cambridge, MA 02141-2109",(617) 621-6208,(617) 621-8628,Capuano,02141-2109
+CA15,US Representative,US House of Representatives,The Honorable Mike Honda,1999 South Bascom Avenue Suite 815,"Campbell, CA 95008-2200",(408) 558-8085,(408) 558-8086,Honda,95008-2200
+GA06,US Representative,US House of Representatives,The Honorable Tom Price,100 North Street Suite 150,"Canton, GA 30114-2779",(678) 493-6176,(678) 493-6161,Price,30114-2779
+OH16,US Representative,US House of Representatives,The Honorable Jim B. Renacci,4150 Belden Village Street Suite 408,"Canton, OH 44718-2553",(330) 489-4414,(380) 493-9265,Renacci,44718-2553
+FL14,US Representative,US House of Representatives,The Honorable Connie Mack,"804 Nicholas Parkway, East Suite 1","Cape Coral, FL 33990-2811",(239) 573-5837,(239) 573-9125,Mack,33990-2811
+MO08,US Representative,US House of Representatives,The Honorable Jo Ann Emerson,555 Independence Street Suite 1400,"Cape Girardeau, MO 63703-6235",(573) 335-0101,(573) 335-1931,Emerson,63703-6235
+IL12,US Representative,US House of Representatives,The Honorable Jerry F. Costello,250 West Cherry Street ,"Carbondale, IL 62901-2856",(618) 529-3791,(618) 549-3768,Costello,62901-2856
+PA19,US Representative,US House of Representatives,The Honorable Todd Russell Platts,59 West Louther Street ,"Carlisle, PA 17013-2936",(717) 249-0190,(717) 218-0190,Platts,17013-2936
+NY19,US Representative,US House of Representatives,The Honorable Nan Hayworth,47 Gleneida Avenue ,"Carmel, NY 10512",(845) 704-2767,(845) 705-1383,Hayworth,10512
+NJ13,US Representative,US House of Representatives,The Honorable Albio Sires,100 Cooke Avenue 2nd Floor,"Carteret, NJ 07008-3065",(732) 969-9160,(732) 969-9167,Sires,07008-3065
+AZ01,US Representative,US House of Representatives,The Honorable Paul A. Gosar,211 North Florence Street Unit #3,"Casa Grande, AZ 85122-4414",(520) 836-5289,(520) 836-9831,Gosar,85122-4414
+WY01,US Representative,US House of Representatives,The Honorable Cynthia M. Lummis,100 East B Street Suite 4003,"Casper, WY 82602-1969",(307) 261-6595,(307) 261-6597,Lummis,82602-1969
+MD07,US Representative,US House of Representatives,The Honorable Elijah E. Cummings,754 Frederick Road ,"Catonsville, MD 21228-4504",(410) 719-8777,(410) 455-0110,Cummings,21228-4504
+IA02,US Representative,US House of Representatives,The Honorable Dave Loebsack,150 1st Avenue NE Suite 375,"Cedar Rapids, IA 52401-1133",(319) 364-2288,(319) 364-2994,Loebsack,52401-1133
+IL19,US Representative,US House of Representatives,The Honorable John M. Shimkus,221 East Broadway Suite 102,"Centralia, IL 62801-3250",(618) 532-9676,(618) 532-1896,Shimkus,62801-3250
+CA39,US Representative,US House of Representatives,The Honorable Linda T. Sanchez,17906 Crusader Avenue Suite 100,"Cerritos, CA 90703-2694",(562) 860-5050,(562) 924-2914,Sanchez,90703-2694
+PA09,US Representative,US House of Representatives,The Honorable Bill Shuster,100 Lincoln Way East Suite B,"Chambersburg, PA 17201-2274",(717) 264-8308,(717) 264-0269,Shuster,17201-2274
+IL15,US Representative,US House of Representatives,The Honorable Timothy V. Johnson,2004 Fox Drive ,"Champaign, IL 61820-7336",(217) 403-4690,(217) 403-4691,Johnson,61820-7336
+NC04,US Representative,US House of Representatives,The Honorable David E. Price,88 Vilcom Circle Suite 140,"Chapel Hill, NC 27514-1665",(919) 967-7924,(919) 967-8324,Price,27514-1665
+IL15,US Representative,US House of Representatives,The Honorable Timothy V. Johnson,655 West Lincoln Avenue Unit 8,"Charleston, IL 61920-2426",(217) 348-6759,(217) 348-6761,Johnson,61920-2426
+SC01,US Representative,US House of Representatives,The Honorable Tim Scott,2000 Sam Rittenberg Boulevard Suite 3007,"Charleston, SC 29407-4631",(843) 852-2222,(843) 852-2909,Scott,29407-4631
+WV02,US Representative,US House of Representatives,The Honorable Shelley Moore Capito,"4815 McCorkle Avenue, SE ","Charleston, WV 25304-1948",(304) 925-5964,(304) 926-8912,Capito,25304-1948
+NC12,US Representative,US House of Representatives,The Honorable Mel Watt,1230 West Morehead Street Suite 306,"Charlotte, NC 28208-5214",(704) 344-9950,(704) 334-9971,Watt,28208-5214
+NC09,US Representative,US House of Representatives,The Honorable Sue Wilkins Myrick,6525 Morrison Boulevard Suite 100,"Charlotte, NC 28211-0501",(704) 362-1060,(704) 367-0852,Myrick,28211-0501
+VA05,US Representative,US House of Representatives,The Honorable Robert Hurt,686 Berkmar Circle ,"Charlottesville, VA 22901-1464",(434) 973-9631,(434) 973-9635,Hurt,22901-1464
+TN03,US Representative,US House of Representatives,The Honorable Chuck Fleischmann,900 Georgia Avenue Suite 126,"Chattanooga, TN 37402-2282",,(423) 756-6613,Fleischmann,37402-2282
+VA04,US Representative,US House of Representatives,The Honorable J. Randy Forbes,505 Independence Parkway Suite 104,"Chesapeake, VA 23320-5178",(757) 382-0080,(757) 382-0780,Forbes,23320-5178
+IL12,US Representative,US House of Representatives,The Honorable Jerry F. Costello,1330 Swanwick Street ,"Chester, IL 62233-1314",(618) 826-3043,(618) 826-1923,Costello,62233-1314
+MD01,US Representative,US House of Representatives,The Honorable Andy Harris,100 Olde Point Village Suite 101,"Chester, MD 21619-2140",(410) 643-5425,(410) 643-5429,Harris,21619-2140
+PA01,US Representative,US House of Representatives,The Honorable Robert A. Brady,511-13 Welsh Street First Floor,"Chester, PA 19013-4453",(610) 874-7094,(610) 874-7193,Brady,19013-4453
+VA04,US Representative,US House of Representatives,The Honorable J. Randy Forbes,9401 Courthouse Road Suite 201,"Chesterfield, VA 23832-6685",(804) 318-1363,(804) 318-1013,Forbes,23832-6685
+WY01,US Representative,US House of Representatives,The Honorable Cynthia M. Lummis,2120 Capitol Avenue Suite 8005,"Cheyenne, WY 82001-3631",(307) 772-2595,(307) 772-2597,Lummis,82001-3631
+IL05,US Representative,US House of Representatives,The Honorable Mike Quigley,3742 West Irving Park Road ,"Chicago, IL 60618-3116",(773) 267-5926,(773) 267-6583,Quigley,60618-3116
+IL01,US Representative,US House of Representatives,The Honorable Bobby L. Rush,700-706 East 79th Street ,"Chicago, IL 60619-3036",(773) 224-6500,(773) 224-9624,Rush,60619-3036
+IL07,US Representative,US House of Representatives,The Honorable Danny K. Davis,3333 West Arthington Street Suite 130,"Chicago, IL 60624-4102",(773) 533-7520,(773) 533-7530,Davis,60624-4102
+IL03,US Representative,US House of Representatives,The Honorable Daniel W. Lipinski,6245 South Archer Avenue ,"Chicago, IL 60638-2609",(312) 886-0481,(773) 767-9395,Lipinski,60638-2609
+IL09,US Representative,US House of Representatives,The Honorable Jan D. Schakowsky,5533 North Broadway Street Suite Two,"Chicago, IL 60640-1405",(773) 506-7100,(773) 506-9202,Schakowsky,60640-1405
+IL04,US Representative,US House of Representatives,The Honorable Luis V. Gutierrez,2201 West North Avenue ,"Chicago, IL 60647-5429",(773) 342-0774,(773) 342-0776,Gutierrez,60647-5429
+IL02,US Representative,US House of Representatives,The Honorable Jesse L. Jackson,7121 South Yates Boulevard ,"Chicago, IL 60649-2529",(773) 734-9660,(773) 734-9661,Jackson,60649-2529
+IL05,US Representative,US House of Representatives,The Honorable Mike Quigley,1057 West Belmont Avenue ,"Chicago, IL 60657-3327",,,Quigley,60657-3327
+CA02,US Representative,US House of Representatives,The Honorable Wally Herger,2635 Forest Avenue Suite 100,"Chico, CA 95928-4425",(530) 893-8363,(530) 893-8619,Herger,95928-4425
+CA51,US Representative,US House of Representatives,The Honorable Bob Filner,333 F Street Suite A,"Chula Vista, CA 91910-2624",(619) 422-5963,(619) 422-7290,Filner,91910-2624
+OH01,US Representative,US House of Representatives,The Honorable Steve Chabot,441 Vine Street Suite 3003,"Cincinnati, OH 45202-3003",(513) 684-2723,(513) 421-8722,Chabot,45202-3003
+OH02,US Representative,US House of Representatives,The Honorable Jean Schmidt,8044 Montgomery Road Suite 170,"Cincinnati, OH 45236-2926",(513) 791-0381,(513) 791-1696,Schmidt,45236-2926
+AL06,US Representative,US House of Representatives,The Honorable Spencer T. Bachus,PO Box 502 ,"Clanton, AL 35046-0502",(205) 280-0704,(205) 280-3060,Bachus,35046-0502
+OK02,US Representative,US House of Representatives,The Honorable Dan Boren,309 West First Street ,"Claremore, OK 74017-8005",(918) 341-9336,(918) 342-4806,Boren,74017-8005
+TN07,US Representative,US House of Representatives,The Honorable Marsha Blackburn,1850 Memorial Drive ,"Clarksville, TN 37043-4603",(931) 503-0391,(931) 503-0393,Blackburn,37043-4603
+IA04,US Representative,US House of Representatives,The Honorable Tom Latham,PO Box 532 ,"Clear Lake, IA 50428-0532",(641) 357-5225,(641) 357-5226,Latham,50428-0532
+TX17,US Representative,US House of Representatives,The Honorable Bill Flores,115 South Main Street Suite 202,"Cleburne, TX 76033-5501",(817) 744-2551,,Flores,76033-5501
+NC05,US Representative,US House of Representatives,The Honorable Virginia Foxx,6000 Meadowbrook Mall Court Suite 3,"Clemmons, NC 27012-8775",(336) 778-0211,(336) 778-2290,Foxx,27012-8775
+CA21,US Representative,US House of Representatives,The Honorable Devin G. Nunes,264 Clovis Avenue Suite 206,"Clovis, CA 93612-1115",(559) 323-5235,(559) 323-5528,Nunes,93612-1115
+ID01,US Representative,US House of Representatives,The Honorable Raul R. Labrador,1250 Ironwood Drive #243,"Coeur d'Alene, ID 83814-2723",(208) 667-0127,(208) 667-0310,Labrador,83814-2723
+IL19,US Representative,US House of Representatives,The Honorable John M. Shimkus,240 Regency Centre ,"Collinsville, IL 62234-3019",(618) 344-3065,(618) 344-4215,Shimkus,62234-3019
+CO05,US Representative,US House of Representatives,The Honorable Doug Lamborn,1271 Kelly Johnson Boulevard Suite 110,"Colorado Springs, CO 80920-3965",(719) 520-0055,(719) 520-0840,Lamborn,80920-3965
+MO09,US Representative,US House of Representatives,The Honorable Blaine Luetkemeyer,3609 South Providence Road Suite A,"Columbia, MO 65201-3721",(573) 443-1041,(573) 443-1050,Luetkemeyer,65201-3721
+SC06,US Representative,US House of Representatives,The Honorable James E. Clyburn,1225 Lady Street Suite 200,"Columbia, SC 29201-3347",(803) 799-1100,(803) 799-9060,Clyburn,29201-3347
+TN04,US Representative,US House of Representatives,The Honorable Scott DesJarlais,807 Garden Street ,"Columbia, TN 38401-3262",(931) 381-9920,(931) 381-9945,DesJarlais,38401-3262
+GA02,US Representative,US House of Representatives,The Honorable Sanford D. Bishop,18 Ninth Street Suite 201,"Columbus, GA 31901-2778",(706) 320-9477,(706) 320-9479,Bishop,31901-2778
+OH15,US Representative,US House of Representatives,The Honorable Steve Stivers,1299 Olentangy River Road Suite 200,"Columbus, OH 43212-3129",(614) 299-6415,(614) 299-9601,Stivers,43212-3129
+OH12,US Representative,US House of Representatives,The Honorable Patrick J. Tiberi,3000 Corporate Exchange Drive Suite 310,"Columbus, OH 43231-4054",(614) 523-2555,(614) 818-0887,Tiberi,43231-4054
+WA05,US Representative,US House of Representatives,The Honorable Cathy McMorris Rodgers,555 South Main Street ,"Colville, WA 99114-2503",(509) 684-3481,(509) 353-2412,McMorris Rodgers,99114-2503
+CA07,US Representative,US House of Representatives,The Honorable George Miller,1333 Willow Pass Road Suite 203,"Concord, CA 94520-7931",(925) 602-1880,(925) 674-0983,Miller,94520-7931
+NC08,US Representative,US House of Representatives,The Honorable Larry Kissell,325 McGill Avenue Suite 500,"Concord, NC 28027-6194",(704) 786-1612,(704) 782-1004,Kissell,28027-6194
+NH02,US Representative,US House of Representatives,The Honorable Charles F. Bass,114 North Main Street Suite 200,"Concord, NH 03301-4962",(603) 226-0064,(603) 226-0085,Bass,03301-4962
+TX08,US Representative,US House of Representatives,The Honorable Kevin Brady,200 River Pointe Drive Suite 304,"Conroe, TX 77304-2817",(936) 441-5700,(936) 441-5757,Brady,77304-2817
+OR04,US Representative,US House of Representatives,The Honorable Peter A. DeFazio,PO Box 1557 ,"Coos Bay, OR 97420-0333",(541) 269-2609,(541) 269-5760,DeFazio,97420-0333
+NY01,US Representative,US House of Representatives,The Honorable Tim H. Bishop,3680 Route 112 Suite C,"Coram, NY 11727-4140",(631) 696-6500,(631) 696-4520,Bishop,11727-4140
+PA14,US Representative,US House of Representatives,The Honorable Mike F. Doyle,1350 Fifth Avenue ,"Coraopolis, PA 15108-2024",(412) 264-3460,,Doyle,15108-2024
+NY29,US Representative,US House of Representatives,The Honorable Tom W. Reed,89 West Market Street ,"Corning, NY 14830-2526",,(607) 654-7568,Reed,14830-2526
+TX27,US Representative,US House of Representatives,The Honorable Blake Farenthold,1718 South Alameda ,"Corpus Christi, TX 78404-2931",(361) 883-5868,(361) 884-9201,Farenthold,78404-2931
+NY24,US Representative,US House of Representatives,The Honorable Richard L. Hanna,18 Tompkins Street ,"Cortland, NY 13045-2541",(607) 756-2470,(607) 756-2472,Hanna,13045-2541
+IA05,US Representative,US House of Representatives,The Honorable Steve A. King,40 Pearl Street ,"Council Bluffs, IA 51503-0817",(712) 325-1404,(712) 325-1405,King,51503-0817
+IA05,US Representative,US House of Representatives,The Honorable Steve A. King,PO Box 601 ,"Creston, IA 50801-0601",(641) 782-2495,(641) 782-2497,King,50801-0601
+TX06,US Representative,US House of Representatives,The Honorable Joe Barton,303 North 6th Street ,"Crockett, TX 75835-1611",(936) 544-8488,,Barton,75835-1611
+TN04,US Representative,US House of Representatives,The Honorable Scott DesJarlais,62 East Second Street ,"Crossville, TN 38555-4564",(931) 707-9091,(931) 707-9100,DesJarlais,38555-4564
+MO03,US Representative,US House of Representatives,The Honorable Russ Carnahan,517 Bailey Road ,"Crystal City, MO 63019-1701",(636) 937-8039,(636) 937-7138,Carnahan,63019-1701
+IL16,US Representative,US House of Representatives,The Honorable Donald A. Manzullo,101 North Virginia Street Suite 170,"Crystal Lake, IL 60014-3456",(815) 356-9800,(815) 356-9803,Manzullo,60014-3456
+AL04,US Representative,US House of Representatives,The Honorable Robert B. Aderholt,"205 Fourth Avenue, NE Suite 104","Cullman, AL 35055-1965",(256) 734-6043,(256) 737-0885,Aderholt,35055-1965
+VA07,US Representative,US House of Representatives,The Honorable Eric Cantor,763 Madison Road Suite 207,"Culpeper, VA 22701-3342",(540) 825-8960,(540) 825-8964,Cantor,22701-3342
+MD06,US Representative,US House of Representatives,The Honorable Roscoe G. Bartlett,1 Frederick Street Suite 2,"Cumberland, MD 21502-2309",(301) 724-3105,(301) 724-3538,Bartlett,21502-2309
+TX30,US Representative,US House of Representatives,The Honorable Eddie Bernice Johnson,3102 Maple Avenue Suite 600,"Dallas, TX 75201-1236",(214) 922-8885,(214) 922-7028,Johnson,75201-1236
+TX05,US Representative,US House of Representatives,The Honorable Jeb Hensarling,6510 Abrams Road Suite 243,"Dallas, TX 75231-7278",(214) 349-9996,(214) 349-0738,Hensarling,75231-7278
+TX32,US Representative,US House of Representatives,The Honorable Pete Sessions,12750 Merit Drive Suite 1434,"Dallas, TX 75251-1229",(972) 392-0505,(972) 392-0615,Sessions,75251-1229
+GA09,US Representative,US House of Representatives,The Honorable Tom Graves,702 Glenwood Ave ,"Dalton, GA 30721-2624",(706) 226-5320,(706) 278-0840,Graves,30721-2624
+CT05,US Representative,US House of Representatives,The Honorable Chris S. Murphy,198 Main Street ,"Danbury, CT 06810-6662",(203) 798-2072,,Murphy,06810-6662
+VA05,US Representative,US House of Representatives,The Honorable Robert Hurt,308 Craghead Street Suite 102-D,"Danville, VA 24541-1468",(434) 791-2596,(434) 791-4619,Hurt,24541-1468
+IA01,US Representative,US House of Representatives,The Honorable Bruce L. Braley,209 West 4th Street Suite 104,"Davenport, IA 52801-1307",(563) 323-5988,(563) 323-5231,Braley,52801-1307
+OH03,US Representative,US House of Representatives,The Honorable Michael R. Turner,120 West Third Street Suite 305,"Dayton, OH 45402-1819",(937) 225-2843,(937) 225-2752,Turner,45402-1819
+MI15,US Representative,US House of Representatives,The Honorable John D. Dingell,19855 West Outer Drive Suite 103-E,"Dearborn, MI 48124-2028",(313) 278-2936,(313) 278-3914,Dingell,48124-2028
+AL05,US Representative,US House of Representatives,The Honorable Mo Brooks,302 Lee Street Room 86,"Decatur, AL 35601-1926",(256) 335-9400,(256) 335-9406,Brooks,35601-1926
+AL04,US Representative,US House of Representatives,The Honorable Robert B. Aderholt,PO Box 668 ,"Decatur, AL 35602-0668",(256) 350-4093,(256) 350-5056,Aderholt,35602-0668
+OH05,US Representative,US House of Representatives,The Honorable Bob Latta,101 Clinton Street Suite 1200,"Defiance, OH 43512-2165",(419) 782-1996,(419) 784-9808,Latta,43512-2165
+TX23,US Representative,US House of Representatives,The Honorable Francisco R. Canseco,309 Mills Street ,"Del Rio, TX 78840-5165",,,Canseco,78840-5165
+FL07,US Representative,US House of Representatives,The Honorable John L. Mica,840 Deltona Boulevard Suite G,"Deltona, FL 32725-7162",(386) 860-1499,(386) 860-5730,Mica,32725-7162
+AL07,US Representative,US House of Representatives,The Honorable Terri A. Sewell,186 Field of Dreams Drive ,"Demopolis, AL 36732",(334) 287-0860,(334) 877-4489,Sewell,36732
+CO01,US Representative,US House of Representatives,The Honorable Diana DeGette,600 Grant Street Suite 202,"Denver, CO 80203-3525",(303) 844-4988,(303) 844-4996,DeGette,80203-3525
+CT03,US Representative,US House of Representatives,The Honorable Rosa L. DeLauro,12 Main Street Conference Room,"Derby, CT 06418-1931",(203) 735-5005,,DeLauro,06418-1931
+IA03,US Representative,US House of Representatives,The Honorable Leonard L. Boswell,300 East Locust Street Suite 320,"Des Monies, IA 50309-1825",(515) 282-1909,(515) 282-1785,Boswell,50309-1825
+MN07,US Representative,US House of Representatives,The Honorable Collin C. Peterson,714 Lake Avenue Suite 107,"Detroit Lakes, MN 56501-3057",(218) 847-5056,(218) 847-5109,Peterson,56501-3057
+MI14,US Representative,US House of Representatives,The Honorable John Conyers,231 West Lafayette Boulevard Room 669,"Detroit, MI 48226-2766",(313) 961-5670,(313) 226-2085,Conyers,48226-2766
+MI13,US Representative,US House of Representatives,The Honorable Hansen Clarke,400 Monroe Street Suite 290,"Detroit, MI 48226-2944",(313) 962-7700,,Clarke,48226-2944
+IL14,US Representative,US House of Representatives,The Honorable Randy Hultgren,119 West First Street ,"Dixon, IL 61021-3056",(815) 288-1174,(815) 288-1175,Hultgren,61021-3056
+KS01,US Representative,US House of Representatives,The Honorable Tim Huelskamp,100 Military Avenue Suite 204,"Dodge City, KS 67801-4945",(620) 225-0172,(620) 225-0297,Huelskamp,67801-4945
+FL21,US Representative,US House of Representatives,The Honorable Mario Diaz-Balart,8669 NW 36th Street Suite 100,"Doral, FL 33166-6640",(305) 470-8555,(305) 470-8575,Diaz-Balart,33166-6640
+AL02,US Representative,US House of Representatives,The Honorable Martha Roby,188 North Foster Street Suite 105,"Dothan, AL 36303-4568",(334) 794-9680,(334) 671-1480,Roby,36303-4568
+IA01,US Representative,US House of Representatives,The Honorable Bruce L. Braley,350 West 6th Street Suite 222,"Dubuque, IA 52001-4648",(563) 557-7789,(563) 557-1324,Braley,52001-4648
+OK02,US Representative,US House of Representatives,The Honorable Dan Boren,112 North 12th Avenue ,"Durant, OK 74701-4718",(580) 931-0333,(580) 920-0041,Boren,74701-4718
+NC04,US Representative,US House of Representatives,The Honorable David E. Price,411 West Chapel Hill Street Ninth Floor,"Durham, NC 27701-3616",(919) 688-3004,(919) 688-0940,Price,27701-3616
+TX23,US Representative,US House of Representatives,The Honorable Francisco R. Canseco,100 South Monroe ,"Eagle Pass, TX 78852-4830",(830) 758-0398,,Canseco,78852-4830
+PA15,US Representative,US House of Representatives,The Honorable Charlie W. Dent,206 Main Street ,"East Greenville, PA 18041-1405",(215) 541-4106,(215) 541-4109,Dent,18041-1405
+IL12,US Representative,US House of Representatives,The Honorable Jerry F. Costello,8787 State Street Suite 102,"East St. Louis, IL 62203-2026",(618) 397-8833,(618) 397-7065,Costello,62203-2026
+WI03,US Representative,US House of Representatives,The Honorable Ron Kind,131 South Barstow Street Suite 301,"Eau Claire, WI 54701-2625",(715) 831-9214,(715) 831-9272,Kind,54701-2625
+MN03,US Representative,US House of Representatives,The Honorable Erik Paulsen,250 Prairie Center Drive Suite 230,"Eden Prairie, MN 55344-7904",(952) 405-8510,(952) 405-8514,Paulsen,55344-7904
+TX15,US Representative,US House of Representatives,The Honorable Ruben Hinojosa,2864 West Trenton Road ,"Edinburg, TX 78539-9232",(956) 682-5545,(956) 682-0141,Hinojosa,78539-9232
+CA52,US Representative,US House of Representatives,The Honorable Duncan D. Hunter,1870 Cordell Court Suite 206,"El Cajon, CA 92020-0916",(619) 448-5201,(619) 449-2251,Hunter,92020-0916
+AR04,US Representative,US House of Representatives,The Honorable Mike A. Ross,101 North Washington Street Suite 406,"El Dorado, AR 71730-5669",(870) 881-0681,(870) 881-0683,Ross,71730-5669
+CA32,US Representative,US House of Representatives,The Honorable Judy Chu,4401 Santa Anita Avenue Suite 211,"El Monte, CA 91731-1611",(626) 448-1271,(626) 448-8062,Chu,91731-1611
+TX16,US Representative,US House of Representatives,The Honorable Silvestre Reyes,310 North Mesa Street Suite 400,"El Paso, TX 79901-1301",(915) 534-4400,(915) 534-7426,Reyes,79901-1301
+NJ10,US Representative,US House of Representatives,The Honorable Donald M. Payne,333 North Broad Street ,"Elizabeth, NJ 07208-3706",(908) 629-0222,(908) 629-0221,Payne,07208-3706
+NV02,US Representative,US House of Representatives,The Honorable Dean Heller,405 Idaho Street Suite 214,"Elko, NV 89801-3753",(775) 777-7920,(775) 777-8974,Heller,89801-3753
+MD07,US Representative,US House of Representatives,The Honorable Elijah E. Cummings,8267 Main Street Room 102,"Ellicott City, MD 21043-9903",(410) 465-8259,(410) 465-8740,Cummings,21043-9903
+VA04,US Representative,US House of Representatives,The Honorable J. Randy Forbes,425 South Main Street Suite H,"Emporia, VA 23847-2300",(434) 634-5575,(434) 634-0511,Forbes,23847-2300
+CT02,US Representative,US House of Representatives,The Honorable Joe Courtney,77 Hazard Avenue Unit J,"Enfield, CT 06082-3890",(860) 741-6011,(860) 741-6036,Courtney,06082-3890
+TX06,US Representative,US House of Representatives,The Honorable Joe Barton,2106-A West Ennis Avenue ,"Ennis, TX 75119-3624",(972) 875-8488,(972) 875-1907,Barton,75119-3624
+PA03,US Representative,US House of Representatives,The Honorable Mike Kelly,208 East Bayfront Parkway Suite 102,"Erie, PA 16507-2405",(814) 454-8190,(814) 454-0163,Kelly,16507-2405
+OR04,US Representative,US House of Representatives,The Honorable Peter A. DeFazio,405 East Eighth Avenue Suite 2030,"Eugene, OR 97401-2716",(541) 465-6732,(541) 465-6458,DeFazio,97401-2716
+CA01,US Representative,US House of Representatives,The Honorable Mike C. Thompson,317 Third Street Suite One,"Eureka, CA 95501-0487",(707) 269-9595,(707) 269-9598,Thompson,95501-0487
+GA10,US Representative,US House of Representatives,The Honorable Paul Broun,4246 Washington Road Suite 6,"Evans, GA 30809-3087",(706) 447-3857,(706) 868-8756,Broun,30809-3087
+IL09,US Representative,US House of Representatives,The Honorable Jan D. Schakowsky,820 Davis Street Suite 105,"Evanston, IL 60201-4400",(847) 328-3409,(847) 328-3425,Schakowsky,60201-4400
+IN08,US Representative,US House of Representatives,The Honorable Larry Bucshon,101 NW Martin Luther King Jr. Boulevard Room 124,"Evansville, IN 47708-1951",(812) 465-6484,(812) 422-4761,Bucshon,47708-1951
+WA02,US Representative,US House of Representatives,The Honorable Rick Larsen,2930 Wetmore Avenue Suite 9F,"Everett, WA 98201-4070",(425) 252-3188,(425) 252-6606,Larsen,98201-4070
+PA06,US Representative,US House of Representatives,The Honorable Jim Gerlach,111 East Uwchlan Avenue ,"Exton, PA 19341-1206",(610) 594-1415,(610) 594-1419,Gerlach,19341-1206
+AK01,US Representative,US House of Representatives,The Honorable Don Young,101 12th Avenue Room 10,"Fairbanks, AK 99701-6275",(907) 456-0210,(907) 456-0279,Young,99701-6275
+CA10,US Representative,US House of Representatives,The Honorable John Garamendi, Suite 201,"Fairfield, CA 94533-5556",(707) 438-1822,(707) 438-0523,Garamendi,94533-5556
+MA03,US Representative,US House of Representatives,The Honorable Jim P. McGovern,371 South Main Street Suite 102,"Fall River, MA 02721-5304",(508) 677-0140,(508) 677-0992,McGovern,02721-5304
+NY06,US Representative,US House of Representatives,The Honorable Gregory W. Meeks,1931 Mott Avenue Room 305,"Far Rockaway, NY 11691-4103",(718) 327-9791,(718) 327-4722,Meeks,11691-4103
+ND01,US Representative,US House of Representatives,The Honorable Rick Berg,3003 32 Avenue South Suite 6,"Fargo, ND 58103-6163",(701) 235-9760,(701) 235-9767,Berg,58103-6163
+MO08,US Representative,US House of Representatives,The Honorable Jo Ann Emerson,22 East Columbia Street ,"Farmington, MO 63640-3101",(573) 756-9755,(573) 756-9762,Emerson,63640-3101
+NM03,US Representative,US House of Representatives,The Honorable Ben Ray Lujan,800 Municipal Drive ,"Farmington, NM 87401-2663",(505) 324-1005,(505) 324-1026,Lujan,87401-2663
+NC07,US Representative,US House of Representatives,The Honorable Mike McIntyre,301 Green Street Room 218,"Fayetteville, NC 28301-5048",(910) 323-0260,(910) 323-0069,McIntyre,28301-5048
+NC08,US Representative,US House of Representatives,The Honorable Larry Kissell,6257 Raeford Road Suite 2,"Fayetteville, NC 28304-2450",(910) 920-2070,(910) 920-2069,Kissell,28304-2450
+OH04,US Representative,US House of Representatives,The Honorable Jim Jordan,100 East Main Cross Suite 101,"Findlay, OH 45840-4888",(419) 423-3210,(419) 423-3233,Jordan,45840-4888
+NY19,US Representative,US House of Representatives,The Honorable Nan Hayworth,2 Summit Court Suite 103,"Fishkill, NY 12524",(845) 206-4600,(866) 921-3842,Hayworth,12524
+MA01,US Representative,US House of Representatives,The Honorable John W. Olver,463 Main Street ,"Fitchburg, MA 01420-8045",(978) 342-8722,(978) 343-8156,Olver,01420-8045
+AZ01,US Representative,US House of Representatives,The Honorable Paul A. Gosar,15115 East Cedar Avenue Unit #A6,"Flagstaff, AZ 86004",(928) 214-6055,(928) 214-6124,Gosar,86004
+NJ07,US Representative,US House of Representatives,The Honorable Leonard Lance,23 Royal Road Suite 101,"Flemington, NJ 08822-6001",(908) 788-6900,(908) 788-2869,Lance,08822-6001
+MI05,US Representative,US House of Representatives,The Honorable Dale E. Kildee,432 North Saginaw Street Suite 410,"Flint, MI 48502-2018",(810) 239-1437,(810) 239-1439,Kildee,48502-2018
+SC06,US Representative,US House of Representatives,The Honorable James E. Clyburn,181 East Evans Street Suite 314,"Florence, SC 29506-2511",(843) 662-1212,(843) 662-8474,Clyburn,29506-2511
+AL01,US Representative,US House of Representatives,The Honorable Jo Bonner,1302 North McKenzie Street ,"Foley, AL 36535-2232",(251) 943-2073,(251) 943-2093,Bonner,36535-2232
+WI06,US Representative,US House of Representatives,The Honorable Tom E. Petri,490 West Rolling Meadows Drive Suite B,"Fond du Lac, WI 54937-8609",(920) 922-1180,(920) 922-4498,Petri,54937-8609
+IA04,US Representative,US House of Representatives,The Honorable Tom Latham,1426 Central Avenue Suite A,"Fort Dodge, IA 50501-4258",(515) 573-2738,(515) 576-7141,Latham,50501-4258
+FL22,US Representative,US House of Representatives,The Honorable Allen B. West,6300 Northeast First Avenue Suite 100,"Fort Lauderdale, FL 33301-1941",(866) 713-7303,,West,33301-1941
+FL23,US Representative,US House of Representatives,The Honorable Alcee L. Hastings,2701 West Oakland Park Boulevard Suite 200,"Fort Lauderdale, FL 33311-1363",(954) 733-2800,(954) 735-9444,Hastings,33311-1363
+KY04,US Representative,US House of Representatives,The Honorable Geoff Davis,300 Buttermilk Pike Suite 314,"Fort Mitchell, KY 41017-2136",(859) 426-0080,(859) 426-0061,Davis,41017-2136
+FL16,US Representative,US House of Representatives,The Honorable Thomas J. Rooney,2300 Virginia Avenue Suite 208,"Fort Pierce, FL 34982-5632",(772) 461-3933,(772) 461-1594,Rooney,34982-5632
+AR03,US Representative,US House of Representatives,The Honorable Steve Womack,423 North 6th Street ,"Fort Smith, AR 72902-2003",(479) 782-7787,(479) 783-7662,Womack,72902-2003
+TX23,US Representative,US House of Representatives,The Honorable Francisco R. Canseco,103 West Callaghan ,"Fort Stockton, TX 79735-7104",(434) 336-8314,(432) 336-8517,Canseco,79735-7104
+FL01,US Representative,US House of Representatives,The Honorable Jeff B. Miller,348 SW Miracle Strip Parkway Suite 24,"Fort Walton Beach, FL 32548-5263",(850) 664-1266,(850) 664-0851,Miller,32548-5263
+IN03,US Representative,US House of Representatives,The Honorable Marlin A. Stutzman,1300 South Harrison Street Room 3105,"Fort Wayne, IN 46802-3446",(260) 424-3041,(260) 424-4042,Stutzman,46802-3446
+TX12,US Representative,US House of Representatives,The Honorable Kay Granger,1701 River Run Road Suite 407,"Fort Worth, TX 76107-6548",(817) 338-0909,(817) 335-5852,Granger,76107-6548
+TX26,US Representative,US House of Representatives,The Honorable Michael C. Burgess,1100 Circle Drive Suite 200,"Fort Worth, TX 76119-8111",(817) 531-8454,(817) 531-4570,Burgess,76119-8111
+IL08,US Representative,US House of Representatives,The Honorable Joe Walsh,50 East Grand Avenue ,"Fox Lake, IL 60073-1430",(847) 973-9341,(847) 973-9451,Walsh,60073-1430
+MA07,US Representative,US House of Representatives,The Honorable Edward J. Markey,188 Concord Street Suite 102,"Framingham, MA 01702-8315",(508) 875-2900,(508) 370-8165,Markey,01702-8315
+TN07,US Representative,US House of Representatives,The Honorable Marsha Blackburn,198 Third Avenue South Suite 1,"Franklin, TN 37064-2518",(615) 591-5161,(615) 599-2916,Blackburn,37064-2518
+MD06,US Representative,US House of Representatives,The Honorable Roscoe G. Bartlett,7360 Guilford Drive Suite 101,"Frederick, MD 21704-5128",(301) 694-3030,(301) 694-6674,Bartlett,21704-5128
+VA01,US Representative,US House of Representatives,The Honorable Rob Wittman,3504 Plank Road Suite 203,"Fredericksburg, VA 22407-6896",(540) 548-1086,(540) 548-1658,Wittman,22407-6896
+CA13,US Representative,US House of Representatives,The Honorable Pete Stark,39300 Civic Center Drive Suite 220,"Fremont, CA 94538-2324",(510) 494-1388,(510) 494-5852,Stark,94538-2324
+NE01,US Representative,US House of Representatives,The Honorable Jeff Fortenberry,PO Box 377 ,"Fremont, NE 68026-0377",(402) 727-0888,(402) 727-9130,Fortenberry,68026-0377
+CA19,US Representative,US House of Representatives,The Honorable Jeff Denham,1040 East Herndon Avenue Room 201,"Fresno, CA 93720-3158",(559) 449-2490,(559) 449-2499,Denham,93720-3158
+CA20,US Representative,US House of Representatives,The Honorable Jim Costa,855 M Street Suite 940,"Fresno, CA 93721-2757",(559) 495-1620,(559) 495-1027,Costa,93721-2757
+CO02,US Representative,US House of Representatives,The Honorable Jared Polis,PO Box 1453 ,"Frisco, CO 80443-1453",(970) 668-3240,(970) 668-9830,Polis,80443-1453
+CA01,US Representative,US House of Representatives,The Honorable Mike C. Thompson,PO Box 2208 ,"Ft. Bragg, CA 95437-2208",(707) 962-0933,(707) 962-0934,Thompson,95437-2208
+CO04,US Representative,US House of Representatives,The Honorable Cory Gardner,123 North College Avenue Suite 220,"Ft. Collins, CO 80524-2489",(970) 221-7110,(970) 221-7240,Gardner,80524-2489
+AL04,US Representative,US House of Representatives,The Honorable Robert B. Aderholt,600 Broad Street Suite 107,"Gadsden, AL 35901-3745",(256) 546-0201,(256) 546-8778,Aderholt,35901-3745
+FL06,US Representative,US House of Representatives,The Honorable Cliff B. Stearns,5700 Southwest 34th Street Suite 425,"Gainesville, FL 32608-5329",(352) 337-0003,(352) 337-0034,Stearns,32608-5329
+GA09,US Representative,US House of Representatives,The Honorable Tom Graves,PO Box 1015 ,"Gainesville, GA 30503",(770) 535-2592,(770) 535-2765,Graves,30503
+NM03,US Representative,US House of Representatives,The Honorable Ben Ray Lujan,110 West Aztec Avenue ,"Gallup, NM 87301-6202",(505) 863-0582,(505) 863-0678,Lujan,87301-6202
+TX14,US Representative,US House of Representatives,The Honorable Ron Paul,601 25th Street Suite 216,"Galveston, TX 77550-1738",(409) 766-7013,(409) 765-7036,Paul,77550-1738
+NY04,US Representative,US House of Representatives,The Honorable Carolyn McCarthy,300 Garden City Plaza Suite 200,"Garden City, NY 11530-3338",(516) 739-3008,(516) 739-2973,McCarthy,11530-3338
+CA47,US Representative,US House of Representatives,The Honorable Loretta Sanchez,12397 Lewis Street Suite 101,"Garden Grove, CA 92840-4695",(714) 621-0102,(714) 621-0401,Sanchez,92840-4695
+NC09,US Representative,US House of Representatives,The Honorable Sue Wilkins Myrick,197 West Main Street ,"Gastonia, NC 28052-4154",(704) 861-1976,(704) 864-2445,Myrick,28052-4154
+MI01,US Representative,US House of Representatives,The Honorable Dan J. Benishek,810 Otsego Avenue Suite 105,"Gaylord, MI 49770-1780",(989) 448-8811,(989) 448-8858,Benishek,49770-1780
+IL14,US Representative,US House of Representatives,The Honorable Randy Hultgren,100 West Main Street ,"Geneseo, IL 61254",(815) 288-1174,,Hultgren,61254
+IL14,US Representative,US House of Representatives,The Honorable Randy Hultgren,1797 State Street Suite A,"Geneva, IL 60134-4710",(630) 232-7104,(630) 232-7104,Hultgren,60134-4710
+PA19,US Representative,US House of Representatives,The Honorable Todd Russell Platts,22 Chambersburg Street ,"Gettysburg, PA 17325-1101",(717) 338-1919,(717) 334-6314,Platts,17325-1101
+VA07,US Representative,US House of Representatives,The Honorable Eric Cantor,4201 Dominion Boulevard Suite 110,"Glen Allen, VA 23060-6149",(804) 747-4073,(804) 747-5308,Cantor,23060-6149
+NJ05,US Representative,US House of Representatives,The Honorable Scott Garrett,266 Harristown Road Suite 104,"Glen Rock, NJ 07452-3321",(201) 444-5454,(201) 444-5488,Garrett,07452-3321
+AZ02,US Representative,US House of Representatives,The Honorable Trent Franks,7121 West Bell Road Suite 200,"Glendale, AZ 85308-8549",(623) 776-7911,(623) 776-7832,Franks,85308-8549
+NY20,US Representative,US House of Representatives,The Honorable Chris P. Gibson,136 Glen Street ,"Glens Falls, NY 12801-4415",(518) 743-0964,(518) 743-1391,Gibson,12801-4415
+CA03,US Representative,US House of Representatives,The Honorable Dan E. Lungren,2339 Gold Meadow Way Suite 220,"Gold River, CA 95670-6307",(916) 859-9906,(916) 859-9976,Lungren,95670-6307
+IN03,US Representative,US House of Representatives,The Honorable Marlin A. Stutzman,320 North Chicago Avenue Suite 9B,"Goshen, IN 46528-2331",(574) 533-5802,(574) 534-2669,Stutzman,46528-2331
+NY19,US Representative,US House of Representatives,The Honorable Nan Hayworth,225 Main Street Suite 3232G,"Goshen, NY 10924-2195",(845) 291-4100,(845) 291-4164,Hayworth,10924-2195
+NC06,US Representative,US House of Representatives,The Honorable Howard Coble,PO Box 812 ,"Graham, NC 27253-0812",(336) 229-0159,(336) 228-7974,Coble,27253-0812
+NE03,US Representative,US House of Representatives,The Honorable Adrian M. Smith,1811 West Second Street Suite 105,"Grand Island, NE 68803-5400",(308) 384-3900,(308) 384-3902,Smith,68803-5400
+CO03,US Representative,US House of Representatives,The Honorable Scott R. Tipton,225 North 5th Street Suite 702,"Grand Junction, CO 81501-2658",(970) 241-2499,(970) 241-3053,Tipton,81501-2658
+MI03,US Representative,US House of Representatives,The Honorable Justin Amash,110 Michigan Street Suite 166,"Grand Rapids, MI 49503-2313",(616) 451-8383,(616) 454-5630,Amash,49503-2313
+CA04,US Representative,US House of Representatives,The Honorable Tom McClintock,8700 Auburn-Folsom Road Suite 100,"Granite Bay, CA 95746-8501",(916) 786-5560,(916) 786-6364,McClintock,95746-8501
+IL12,US Representative,US House of Representatives,The Honorable Jerry F. Costello,2060 Delmar Avenue Suite B,"Granite City, IL 62040-4625",(618) 451-7065,(618) 451-2126,Costello,62040-4625
+NC06,US Representative,US House of Representatives,The Honorable Howard Coble,PO BOX 807 ,"Granite Quarry, NC 28072-0807",(704) 209-0426,(704) 209-0428,Coble,28072-0807
+MT01,US Representative,US House of Representatives,The Honorable Denny Rehberg,"105 Smelter Avenue, NE Suite 116","Great Falls, MT 59404-1953",(406) 454-1066,(406) 454-1130,Rehberg,59404-1953
+CO04,US Representative,US House of Representatives,The Honorable Cory Gardner,822 Seventh Street ,"Greeley, CO 80631-3933",(970) 931-6007,(970) 351-6068,Gardner,80631-3933
+MD05,US Representative,US House of Representatives,The Honorable Steny H. Hoyer,6500 Cherrywood Lane Suite 310,"Greenbelt, MD 20770-1287",(301) 474-0119,(301) 474-4697,Hoyer,20770-1287
+NC13,US Representative,US House of Representatives,The Honorable Brad Miller,125 South Elm Street Suite 504,"Greensboro, NC 27401-2246",(336) 574-2909,(336) 574-0607,Miller,27401-2246
+NC12,US Representative,US House of Representatives,The Honorable Mel Watt,301 South Green Street Suite 210,"Greensboro, NC 27401-2615",(336) 275-9950,(336) 379-9951,Watt,27401-2615
+NC06,US Representative,US House of Representatives,The Honorable Howard Coble,2102 North Elm Street Suite B,"Greensboro, NC 27408-5100",(336) 333-5005,(336) 333-5048,Coble,27408-5100
+PA18,US Representative,US House of Representatives,The Honorable Tim Murphy,2040 Frederickson Place ,"Greensburg, PA 15601-9688",(724) 850-7312,(724) 850-7315,Murphy,15601-9688
+MS02,US Representative,US House of Representatives,The Honorable Bennie G. Thompson,910 Courthouse Lane ,"Greenville, MS 38701-3764",(662) 335-9003,(662) 334-1304,Thompson,38701-3764
+NC03,US Representative,US House of Representatives,The Honorable Walter B. Jones,1105-C Corporate Drive ,"Greenville, NC 27858-4211",(252) 931-1003,(252) 931-1002,Jones,27858-4211
+SC04,US Representative,US House of Representatives,The Honorable Trey Gowdy,104 South Main Street Suite 801,"Greenville, SC 29601-2742",(864) 241-0175,(864) 241-0982,Gowdy,29601-2742
+LA02,US Representative,US House of Representatives,The Honorable Cedric L. Richmond,200 Derbigny Street Suite 3200,"Gretna, LA 70053-5876",(504) 483-2325,(504) 483-7944,Richmond,70053-5876
+MS04,US Representative,US House of Representatives,The Honorable Steven M. Palazzo,1325 25th Avenue ,"Gulfport, MS 39501",(228) 864-7670,,Palazzo,39501
+NJ09,US Representative,US House of Representatives,The Honorable Steve R. Rothman,25 Main Street Suite 101,"Hackensack, NJ 07601-7089",(201) 646-0808,(201) 646-1944,Rothman,07601-7089
+NJ01,US Representative,US House of Representatives,The Honorable Robert E. Andrews,515 Grove Street Suite 3C,"Haddon Heights, NJ 08035-1733",(856) 546-5100,(856) 546-9529,Andrews,08035-1733
+GU01,US Representative,US House of Representatives,The Honorable Madeleine Z. Bordallo,120 Father Duenas Avenue Suite 107,"Hagatna, GU 96910-5058",(671) 477-4272,(671) 477-2587,Bordallo,96910-5058
+MD06,US Representative,US House of Representatives,The Honorable Roscoe G. Bartlett,1800 Dual Highway Suite 301,"Hagerstown, MD 21742-6646",(301) 797-6043,(301) 797-2385,Bartlett,21742-6646
+NJ04,US Representative,US House of Representatives,The Honorable Chris Smith,1540 Kuser Road Suite A-9,"Hamilton, NJ 08619-3828",(609) 585-7878,(609) 585-9155,Smith,08619-3828
+LA01,US Representative,US House of Representatives,The Honorable Steve Scalise,112 South Cate Street ,"Hammond, LA 70403",(985) 340-2185,(985) 340-3122,Scalise,70403
+MO09,US Representative,US House of Representatives,The Honorable Blaine Luetkemeyer,201 North 3rd Street Suite 120,"Hannibal, MO 63401-3550",(573) 231-1012,(573) 231-1014,Luetkemeyer,63401-3550
+IL19,US Representative,US House of Representatives,The Honorable John M. Shimkus,110 East Locust Street Room 12,"Harrisburg, IL 62946-1557",(618) 252-8271,(618) 252-8317,Shimkus,62946-1557
+PA17,US Representative,US House of Representatives,The Honorable Tim Holden,1721 North Front Street Suite 105,"Harrisburg, PA 17102-2391",(717) 234-5904,(717) 234-5918,Holden,17102-2391
+AR03,US Representative,US House of Representatives,The Honorable Steve Womack,303 North Main Street Suite 102,"Harrison, AR 72601-3508",(870) 741-6900,(870) 741-7741,Womack,72601-3508
+VA06,US Representative,US House of Representatives,The Honorable Bob Goodlatte,"Two South Main Street 1st Floor, Suite A","Harrisonburg, VA 22801-3728",(540) 432-2391,(540) 432-6593,Goodlatte,22801-3728
+MO04,US Representative,US House of Representatives,The Honorable Vicky Hartzler,1909 North Commercial Street ,"Harrisonville, MO 64701-1252",(816) 884-3411,,Hartzler,64701-1252
+CT01,US Representative,US House of Representatives,The Honorable John B. Larson,221 Main Street Second Floor,"Hartford, CT 06106-1864",(860) 278-8888,(860) 278-2111,Larson,06106-1864
+MS04,US Representative,US House of Representatives,The Honorable Steven M. Palazzo,701 Main Street Suite 215,"Hattiesburg, MS 39401-3478",(601) 582-3246,,Palazzo,39401-3478
+NY02,US Representative,US House of Representatives,The Honorable Steve Israel,150 Motor Parkway Suite 108,"Hauppauge, NY 11788-5152",(631) 951-2210,(631) 951-3308,Israel,11788-5152
+MA05,US Representative,US House of Representatives,The Honorable Niki Tsongas,10 Welcome Street ,"Haverhill, MA 01830-5631",,,Tsongas,01830-5631
+KY05,US Representative,US House of Representatives,The Honorable Hal Rogers,601 Main Street ,"Hazard, KY 41701-1354",(606) 439-0794,(606) 439-4647,Rogers,41701-1354
+PA11,US Representative,US House of Representatives,The Honorable Lou Barletta,1 South Church Street Suite 100,"Hazleton, PA 18201-6200",(570) 751-0050,(570) 751-0054,Barletta,18201-6200
+MT01,US Representative,US House of Representatives,The Honorable Denny Rehberg,950 North Montana Avenue ,"Helena, MT 59601-3858",(406) 443-7878,(406) 443-8890,Rehberg,59601-3858
+CA45,US Representative,US House of Representatives,The Honorable Mary Bono Mack,1600 East Florida Avenue Suite 301,"Hemet, CA 92544-8639",(951) 658-2312,(951) 652-2562,Bono Mack,92544-8639
+KY01,US Representative,US House of Representatives,The Honorable Ed Whitfield,222 First Street Suite 224,"Henderson, KY 42420-3821",(270) 826-4180,(270) 826-6783,Whitfield,42420-3821
+MS01,US Representative,US House of Representatives,The Honorable Alan Nunnelee,133 East Commerce Street ,"Hernando, MS 38632-2343",(662) 449-3090,(662) 449-4836,Nunnelee,38632-2343
+VA10,US Representative,US House of Representatives,The Honorable Frank R. Wolf,13873 Park Center Road Suite 130,"Herndon, VA 20171-3248",(703) 709-5800,(703) 709-5802,Wolf,20171-3248
+NC10,US Representative,US House of Representatives,The Honorable Patrick T. McHenry,"87 Fourth Street, NW Suite A","Hickory, NC 28603-6142",(828) 327-6100,(828) 327-8311,McHenry,28603-6142
+NC06,US Representative,US House of Representatives,The Honorable Howard Coble,1634 North Main Street Suite 101,"High Point, NC 27262-2644",(336) 886-5106,(336) 886-8740,Coble,27262-2644
+NM02,US Representative,US House of Representatives,The Honorable Steve E. Pearce,200 East Broadway Suite 200,"Hobbs, NM 88240-8425",(855) 473-2723,,Pearce,88240-8425
+MI02,US Representative,US House of Representatives,The Honorable Bill Huizenga,184 South River Avenue ,"Holland, MI 49423-2848",(616) 395-0030,(616) 395-0271,Huizenga,49423-2848
+PA09,US Representative,US House of Representatives,The Honorable Bill Shuster,310 Penn Street Suite 200,"Hollidaysburg, PA 16648-2004",(814) 696-6318,(814) 696-6726,Shuster,16648-2004
+MA01,US Representative,US House of Representatives,The Honorable John W. Olver,57 Suffolk Street Suite 310,"Holyoke, MA 01040-5055",(413) 532-7010,(413) 532-6543,Olver,01040-5055
+IL02,US Representative,US House of Representatives,The Honorable Jesse L. Jackson,17926 South Halsted Street ,"Homewood, IL 60430-2029",(708) 798-6000,(708) 798-6160,Jackson,60430-2029
+HI01,US Representative,US House of Representatives,The Honorable Colleen W. Hanabusa,300 Ala Moana Boulevard Room 4-104,"Honolulu, HI 96850-4104",(808) 541-2570,(808) 533-0133,Hanabusa,96850-4104
+HI02,US Representative,US House of Representatives,The Honorable Mazie K. Hirono,300 Ala Moana Boulevard Room 5104,"Honolulu, HI 96850-5104",(808) 541-1986,(808) 538-0233,Hirono,96850-5104
+KY01,US Representative,US House of Representatives,The Honorable Ed Whitfield,1403 South Main Street ,"Hopkinsville, KY 42240-2107",(270) 885-8079,(270) 885-8598,Whitfield,42240-2107
+AR04,US Representative,US House of Representatives,The Honorable Mike A. Ross,300 Exchange Street Suite A,"Hot Springs, AR 71901-4034",(501) 520-5892,(501) 520-5873,Ross,71901-4034
+LA03,US Representative,US House of Representatives,The Honorable Jeffrey M. Landry,423 Lafayette Street Suite 107,"Houma, LA 70360-4802",(985) 879-2300,(985) 879-2306,Landry,70360-4802
+TX18,US Representative,US House of Representatives,The Honorable Sheila Jackson Lee,1919 Smith Street Suite 1180,"Houston, TX 77002-8098",(713) 655-0050,(713) 655-1612,Jackson Lee,77002-8098
+TX18,US Representative,US House of Representatives,The Honorable Sheila Jackson Lee,420 West 19th Street ,"Houston, TX 77008-3914",(713) 861-4070,(713) 861-4323,Jackson Lee,77008-3914
+TX18,US Representative,US House of Representatives,The Honorable Sheila Jackson Lee,3300 Lyons Avenue Suite 301,"Houston, TX 77020-8254",(713) 227-7740,(713) 227-7707,Jackson Lee,77020-8254
+TX07,US Representative,US House of Representatives,The Honorable John Abney Culberson,10000 Memorial Drive Suite 620,"Houston, TX 77024-3490",(713) 682-8828,(713) 680-8070,Culberson,77024-3490
+TX29,US Representative,US House of Representatives,The Honorable Gene Green,11811 I-10 East Suite 430,"Houston, TX 77029-1951",(713) 330-0761,(713) 330-0807,Green,77029-1951
+TX09,US Representative,US House of Representatives,The Honorable Al Green,3003 South Loop West Suite 460,"Houston, TX 77054-1301",(713) 383-9234,(713) 383-9202,Green,77054-1301
+TX22,US Representative,US House of Representatives,The Honorable Pete Olson,17225 El Camino Real Suite 447,"Houston, TX 77058-2778",(281) 486-1095,(281) 486-1479,Olson,77058-2778
+TX29,US Representative,US House of Representatives,The Honorable Gene Green,256 North Sam Houston Parkway East Suite 29,"Houston, TX 77060-2028",(281) 999-5879,(281) 999-5716,Green,77060-2028
+TX10,US Representative,US House of Representatives,The Honorable Michael T. McCaul,1550 Foxlake Drive Suite 120,"Houston, TX 77084-6043",(281) 398-1247,(281) 579-3401,McCaul,77084-6043
+TX18,US Representative,US House of Representatives,The Honorable Sheila Jackson Lee,6719 West Montgomery Road Suite 204,"Houston, TX 77091-3105",(713) 691-4882,(713) 699-8292,Jackson Lee,77091-3105
+CA46,US Representative,US House of Representatives,The Honorable Dana Rohrabacher,101 Main Street Room 380,"Huntington Beach, CA 92648-8149",(714) 960-6483,(714) 960-7806,Rohrabacher,92648-8149
+WV03,US Representative,US House of Representatives,The Honorable Nick J. Rahall,845 Fifth Avenue Room 145,"Huntington, WV 25701-2086",(304) 522-6425,(304) 529-5716,Rahall,25701-2086
+AL05,US Representative,US House of Representatives,The Honorable Mo Brooks,2101 West Clinton Avenue Suite 302,"Huntsville, AL 35805-3109",(256) 551-0190,(256) 551-0194,Brooks,35805-3109
+TX08,US Representative,US House of Representatives,The Honorable Kevin Brady,1202 Sam Houston Avenue Suite 8,"Huntsville, TX 77340-4638",(936) 439-9532,(936) 439-9546,Brady,77340-4638
+KS01,US Representative,US House of Representatives,The Honorable Tim Huelskamp,One North Main Street Suite 525,"Hutchinson, KS 67504-5228",(620) 665-6138,(620) 665-6360,Huelskamp,67504-5228
+MA10,US Representative,US House of Representatives,The Honorable William R. Keating,297 North Street Suite 312,"Hyannis, MA 02061-5134",(508) 771-0666,(508) 790-1959,Keating,02061-5134
+MD08,US Representative,US House of Representatives,The Honorable Chris Van Hollen,6475 New Hampshire Avenue Suite C-201,"Hyattsville, MD 20783-3281",(301) 891-6982,(301) 891-6985,Van Hollen,20783-3281
+ID02,US Representative,US House of Representatives,The Honorable Mike Simpson,410 Memorial Drive Suite 203,"Idaho Falls, ID 83402-3600",(208) 523-6701,(208) 523-2384,Simpson,83402-3600
+CA51,US Representative,US House of Representatives,The Honorable Bob Filner,1101 Airport Road Suite D,"Imperial, CA 92215-1800",(760) 355-8800,(780) 355-8802,Filner,92215-1800
+MO05,US Representative,US House of Representatives,The Honorable Emanuel Cleaver,211 West Maple Avenue ,"Independence, MO 64050-2815",(816) 833-4545,(816) 833-2991,Cleaver,64050-2815
+PA09,US Representative,US House of Representatives,The Honorable Bill Shuster,827 Water Street Suite 3,"Indiana, PA 15701-3923",(724) 463-0516,(724) 463-0518,Shuster,15701-3923
+IN07,US Representative,US House of Representatives,The Honorable Andre Carson,300 East Fall Creek Parkway North Drive Suite 300,"Indianapolis, IN 46205-4258",(317) 283-6516,(317) 283-6567,Carson,46205-4258
+IN05,US Representative,US House of Representatives,The Honorable Dan Burton,8900 Keystone at the Crossing Suite 1050,"Indianapolis, IN 46240-7646",(317) 848-0201,(317) 846-7306,Burton,46240-7646
+IA02,US Representative,US House of Representatives,The Honorable Dave Loebsack,125 South Dubuque Street ,"Iowa City, IA 52240-4003",(319) 351-0789,(319) 351-5789,Loebsack,52240-4003
+MI01,US Representative,US House of Representatives,The Honorable Dan J. Benishek,500 South Stephenson Suite 500,"Iron Mountain, MI 49920-3420",(906) 875-3751,(906) 875-4744,Benishek,49920-3420
+TX24,US Representative,US House of Representatives,The Honorable Kenny Marchant,9901 East Valley Ranch Parkway Suite 3035,"Irving, TX 75063-7186",(972) 556-0162,(972) 409-9704,Marchant,75063-7186
+FL18,US Representative,US House of Representatives,The Honorable Ileana Ros-Lehtinen,87000 Overseas Highway ,"Islamorada, FL 33036-3110",(305) 304-7789,,Ros-Lehtinen,33036-3110
+NY22,US Representative,US House of Representatives,The Honorable Maurice D. Hinchey,123 South Cayuga Street Suite 201,"Ithaca, NY 14850-5582",(607) 273-1388,(607) 273-8847,Hinchey,14850-5582
+NY07,US Representative,US House of Representatives,The Honorable Joseph Crowley,74-09 37th Avenue Suite 306-B,"Jackson Heights, NY 11372-6303",(718) 799-1400,(718) 505-0156,Crowley,11372-6303
+MI07,US Representative,US House of Representatives,The Honorable Tim Walberg,800 West Ganson Street ,"Jackson, MI 49202-4203",(517) 780-9075,,Walberg,49202-4203
+MS02,US Representative,US House of Representatives,The Honorable Bennie G. Thompson,3607 Medgar Evers Boulevard ,"Jackson, MS 39213-6364",(601) 946-9003,(601) 982-5337,Thompson,39213-6364
+TN08,US Representative,US House of Representatives,The Honorable Stephen Lee Fincher,109 South Highland B-7,"Jackson, TN 38301-6123",(731) 423-4848,(731) 427-1537,Fincher,38301-6123
+FL03,US Representative,US House of Representatives,The Honorable Corrine Brown,101 East Union Street Suite 202,"Jacksonville, FL 32202-6002",(904) 354-1652,(904) 354-2721,Brown,32202-6002
+FL04,US Representative,US House of Representatives,The Honorable Ander Crenshaw,1061 Riverside Avenue Suite 100,"Jacksonville, FL 32204-4151",(904) 598-0481,(904) 598-0486,Crenshaw,32204-4151
+IL18,US Representative,US House of Representatives,The Honorable Aaron Schock,209 West State Street ,"Jacksonville, IL 62650-2001",(217) 245-1431,(217) 243-6852,Schock,62650-2001
+NY06,US Representative,US House of Representatives,The Honorable Gregory W. Meeks,153-01 Jamaica Avenue 2nd Floor,"Jamaica, NY 11432-3870",(718) 725-6000,(718) 725-9868,Meeks,11432-3870
+NY27,US Representative,US House of Representatives,The Honorable Brian Higgins,Two East Second Street Suite 300,"Jamestown, NY 14701-5206",(716) 484-0729,(716) 484-1049,Higgins,14701-5206
+WI01,US Representative,US House of Representatives,The Honorable Paul D. Ryan,20 South Main Street Suite 10,"Janesville, WI 53545-3959",(608) 752-4050,(608) 752-4711,Ryan,53545-3959
+AL04,US Representative,US House of Representatives,The Honorable Robert B. Aderholt,1710 Alabama Avenue Suite 247,"Jasper, AL 35501-5400",(205) 221-2310,(205) 221-9035,Aderholt,35501-5400
+MO04,US Representative,US House of Representatives,The Honorable Vicky Hartzler,2409 Hyde Park Road ,"Jefferson City, MO 65109-4732",,(573) 634-4177,Hartzler,65109-4732
+IN09,US Representative,US House of Representatives,The Honorable Todd Young,279 Quartermaster Court ,"Jeffersonville, IN 47130-3669",(812) 288-3999,(812) 288-3873,Young,47130-3669
+PA13,US Representative,US House of Representatives,The Honorable Allyson Y. Schwartz,706 West Avenue ,"Jenkintown, PA 19046-2710",(215) 517-6572,(215) 517-6575,Schwartz,19046-2710
+NJ10,US Representative,US House of Representatives,The Honorable Donald M. Payne,253 Martin Luther King Jr. Drive ,"Jersey City, NJ 07305-3427",(201) 369-0392,(201) 369-0395,Payne,07305-3427
+NJ09,US Representative,US House of Representatives,The Honorable Steve R. Rothman,130 Central Avenue ,"Jersey City, NJ 07306-2118",(201) 798-1366,(201) 798-1725,Rothman,07306-2118
+NJ13,US Representative,US House of Representatives,The Honorable Albio Sires,35 Journal Square Suite 906,"Jersey City, NJ 07306-4317",(201) 222-2828,(201) 222-0188,Sires,07306-4317
+PA12,US Representative,US House of Representatives,The Honorable Mark S. Critz,647 Main Street Suite 401,"Johnstown, PA 15901-2140",(814) 535-2642,(814) 539-6229,Critz,15901-2140
+IL11,US Representative,US House of Representatives,The Honorable Adam Kinzinger,2701 Black Road Suite 201,"Joliet, IL 60435-8412",(815) 729-2308,(815) 729-2734,Kinzinger,60435-8412
+AR01,US Representative,US House of Representatives,The Honorable Rick A. Crawford,2400 Highland Drive Suite 300,"Jonesboro, AR 72401-6229",(870) 203-0540,(870) 203-0542,Crawford,72401-6229
+GA13,US Representative,US House of Representatives,The Honorable David A. Scott,173 North Main Street ,"Jonesboro, GA 30236-3567",(770) 210-5073,(770) 210-5673,Scott,30236-3567
+MO07,US Representative,US House of Representatives,The Honorable Billy Long,2727 East 32nd Street Suite 2,"Joplin, MO 64804-3156",(417) 781-1041,(417) 781-2832,Long,64804-3156
+AK01,US Representative,US House of Representatives,The Honorable Don Young,PO Box 21247 ,"Juneau, AK 99802-1247",(907) 586-7400,(907) 586-8922,Young,99802-1247
+MI06,US Representative,US House of Representatives,The Honorable Fred Upton,157 South Kalamazoo Mall Suite 180,"Kalamazoo, MI 49007-4861",(269) 385-0039,(269) 385-2888,Upton,49007-4861
+KS03,US Representative,US House of Representatives,The Honorable Kevin W. Yoder,500 State Avenue Room 176,"Kansas City, KS 66101-2409",(913) 621-0832,(913) 621-1533,Yoder,66101-2409
+MO05,US Representative,US House of Representatives,The Honorable Emanuel Cleaver,101 West 31st Street ,"Kansas City, MO 64108-3318",(816) 842-4545,(816) 471-5215,Cleaver,64108-3318
+AK01,US Representative,US House of Representatives,The Honorable Don Young,805 Frontage Road Suite 110,"Kenai, AK 99611-9104",(907) 283-7701,,Young,99611-9104
+IN03,US Representative,US House of Representatives,The Honorable Marlin A. Stutzman,874 North Lima Road Suite B,"Kendallville, IN 46755-1152",(260) 599-0554,(260) 599-0557,Stutzman,46755-1152
+WI01,US Representative,US House of Representatives,The Honorable Paul D. Ryan,5455 Sheridan Road Suite 125,"Kenosha, WI 53140-4129",(262) 654-1901,(262) 654-2156,Ryan,53140-4129
+TX21,US Representative,US House of Representatives,The Honorable Lamar S. Smith,301 Junction Highway Suite 346-C,"Kerrville, TX 78029-4273",(830) 896-0154,(830) 896-0168,Smith,78029-4273
+AK01,US Representative,US House of Representatives,The Honorable Don Young,540 Water Street Suite 101,"Ketchikan, AK 99901-6378",(907) 225-6880,(907) 225-0390,Young,99901-6378
+NY09,US Representative,US House of Representatives,The Honorable Anthony D. Weiner,80-02 Kew Gardens Road Suite 5000,"Kew Gardens, NY 11415-3605",(718) 520-9001,(718) 520-9010,Weiner,11415-3605
+FL18,US Representative,US House of Representatives,The Honorable Ileana Ros-Lehtinen,1100 Simonton Street Suite 205,"Key West, FL 33040-3110",(305) 304-7789,,Ros-Lehtinen,33040-3110
+NY20,US Representative,US House of Representatives,The Honorable Chris P. Gibson,PO Box 775 ,"Kinderhook, NY 12106-0774",(518) 610-8133,(518) 610-8135,Gibson,12106-0774
+TN01,US Representative,US House of Representatives,The Honorable Phil Roe,PO Box 1728 ,"Kingsport, TN 37662-1728",(423) 247-8161,(423) 247-0119,Roe,37662-1728
+NY22,US Representative,US House of Representatives,The Honorable Maurice D. Hinchey,291 Wall Street ,"Kingston, NY 12401-3849",(845) 331-4466,(845) 331-7456,Hinchey,12401-3849
+TX02,US Representative,US House of Representatives,The Honorable Ted Poe,1801 Kingwood Drive Suite 240,"Kingwood, TX 77339-3058",(281) 446-0242,(281) 446-0252,Poe,77339-3058
+TN02,US Representative,US House of Representatives,The Honorable John J. Duncan,800 Market Street Suite 110,"Knoxville, TN 37902-2303",(865) 523-3772,(865) 544-0728,Duncan,37902-2303
+IN02,US Representative,US House of Representatives,The Honorable Joe Donnelly,100 South Union Street ,"Kokomo, IN 46901-4608",,,Donnelly,46901-4608
+WI03,US Representative,US House of Representatives,The Honorable Ron Kind,205 Fifth Avenue South Suite 400,"La Crosse, WI 54601-4059",(608) 782-2558,(608) 782-4588,Kind,54601-4059
+OR02,US Representative,US House of Representatives,The Honorable Greg Walden,1211 Washington Avenue ,"La Grande, OR 97850-2535",(541) 624-2400,(541) 624-2402,Walden,97850-2535
+IL03,US Representative,US House of Representatives,The Honorable Daniel W. Lipinski,26 South LaGrange Road Suite 204,"La Grange, IL 60525-2015",(708) 352-0524,(708) 352-0927,Lipinski,60525-2015
+IN02,US Representative,US House of Representatives,The Honorable Joe Donnelly,813 Lincolnway Suite 100,"La Porte, IN 46350-3400",(219) 326-6808,,Donnelly,46350-3400
+GA09,US Representative,US House of Representatives,The Honorable Tom Graves,108 West LaFayette Square Suite 102,"LaFayette, GA 30728-3507",(706) 638-7042,(706) 638-7049,Graves,30728-3507
+LA07,US Representative,US House of Representatives,The Honorable Charles Boustany,800 Lafayette Street Suite 1400,"Lafayette, LA 70501-6800",(337) 235-6322,(337) 235-6072,Boustany,70501-6800
+LA07,US Representative,US House of Representatives,The Honorable Charles Boustany,One Lakeshore Drive Suite 1775,"Lake Charles, LA 70629-0114",(337) 433-1747,(337) 433-0974,Boustany,70629-0114
+FL04,US Representative,US House of Representatives,The Honorable Ander Crenshaw,212 North Marion Avenue Suite 209,"Lake City, FL 32055-3917",(386) 365-3316,,Crenshaw,32055-3917
+TX14,US Representative,US House of Representatives,The Honorable Ron Paul,122 West Way Street Suite 301,"Lake Jackson, TX 77566-5245",(979) 285-0231,(979) 285-0271,Paul,77566-5245
+FL12,US Representative,US House of Representatives,The Honorable Dennis A. Ross,170 Fitzgerald Road Suite 1,"Lakeland, FL 33813-2607",(863) 644-8215,(863) 648-0749,Ross,33813-2607
+CO07,US Representative,US House of Representatives,The Honorable Ed G. Perlmutter,12600 West Colfax Avenue Suite B400,"Lakewood, CO 80215-3779",(303) 274-7944,(303) 274-6455,Perlmutter,80215-3779
+OH10,US Representative,US House of Representatives,The Honorable Dennis J. Kucinich,14400 Detroit Avenue ,"Lakewood, OH 44107-4408",(216) 228-8850,(216) 228-6465,Kucinich,44107-4408
+CO04,US Representative,US House of Representatives,The Honorable Cory Gardner,301 South Fifth Street ,"Lamar, CO 81052-2711",(719) 931-4003,(719) 931-4005,Gardner,81052-2711
+OH07,US Representative,US House of Representatives,The Honorable Steve Austria,207 South Broad Street ,"Lancaster, OH 43130-4307",(740) 654-5149,(740) 654-7825,Austria,43130-4307
+PA16,US Representative,US House of Representatives,The Honorable Joe R. Pitts,150 North Queen Street Suite 716,"Lancaster, PA 17603-3562",(717) 393-0667,(717) 393-0924,Pitts,17603-3562
+PA08,US Representative,US House of Representatives,The Honorable Mike G. Fitzpatrick,1717 Langhorne Newtown Suite 400,"Langhorne, PA 19047-1086",(215) 579-8102,(215) 579-8109,Fitzpatrick,19047-1086
+MI08,US Representative,US House of Representatives,The Honorable Mike J. Rogers,1000 West St. Joseph Street Suite 300,"Lansing, MI 48915-2552",(517) 702-8000,(517) 702-8642,Rogers,48915-2552
+TX28,US Representative,US House of Representatives,The Honorable Henry Cuellar,602 East Calton Road Suite 2,"Laredo, TX 78041-3693",(956) 725-0639,(956) 424-3936,Cuellar,78041-3693
+NM02,US Representative,US House of Representatives,The Honorable Steve E. Pearce,570 North Telshor Boulevard ,"Las Cruces, NM 88011-8223",(855) 473-2723,,Pearce,88011-8223
+CA44,US Representative,US House of Representatives,The Honorable Ken Calvert,26111 Antonio Parkway Suite 300,"Las Flores, CA 92688-5597",(949) 888-8498,(949) 888-8524,Calvert,92688-5597
+NM03,US Representative,US House of Representatives,The Honorable Ben Ray Lujan,PO Box 1368 ,"Las Vegas, NM 87701-1368",(505) 454-3038,(505) 454-3265,Lujan,87701-1368
+NV02,US Representative,US House of Representatives,The Honorable Dean Heller,600 Las Vegas Boulevard South Room 680,"Las Vegas, NV 89101-6646",(702) 255-1651,(702) 255-1927,Heller,89101-6646
+NV01,US Representative,US House of Representatives,The Honorable Shelley Berkley,2340 Paseo Del Prado Suite D-106,"Las Vegas, NV 89102-4340",(702) 220-9823,(702) 220-9841,Berkley,89102-4340
+NV03,US Representative,US House of Representatives,The Honorable Joe Heck,8485 West Sunset Road Suite 300,"Las Vegas, NV 89113-2251",(702) 387-4941,(702) 837-0728,Heck,89113-2251
+SC03,US Representative,US House of Representatives,The Honorable Jeff Duncan,200 Courthouse Public Square ,"Laurens, SC 29360",(864) 224-7401,(864) 225-7049,Duncan,29360
+MA05,US Representative,US House of Representatives,The Honorable Niki Tsongas,305 Essex Street 4th Floor,"Lawrence, MA 01840-1445",(978) 681-6200,(978) 682-6070,Tsongas,01840-1445
+GA07,US Representative,US House of Representatives,The Honorable Rob Woodall,75 Langley Drive ,"Lawrenceville, GA 30046-6935",(770) 232-3005,(770) 232-2909,Woodall,30046-6935
+OK04,US Representative,US House of Representatives,The Honorable Tom Cole,711 SW D Avenue Suite 201,"Lawton, OK 73501-4561",(580) 357-2131,(580) 357-7477,Cole,73501-4561
+KY04,US Representative,US House of Representatives,The Honorable Geoff Davis,108 West Jefferson Street ,"Le Grange, KY 40031-1108",(502) 222-2233,(502) 222-4060,Davis,40031-1108
+MO04,US Representative,US House of Representatives,The Honorable Vicky Hartzler,219 North Adams Street ,"Lebanon, MO 65536-3029",(417) 532-5582,(417) 532-3886,Hartzler,65536-3029
+PA17,US Representative,US House of Representatives,The Honorable Tim Holden,758 Cumberland Street ,"Lebanon, PA 17042-5247",(717) 270-1395,(717) 270-1095,Holden,17042-5247
+LA04,US Representative,US House of Representatives,The Honorable John Fleming,103 North 3rd Street ,"Leesville, LA 71446-4013",(337) 238-0778,(337) 238-0566,Fleming,71446-4013
+ID01,US Representative,US House of Representatives,The Honorable Raul R. Labrador,310 Main Street ,"Lewiston, ID 83501-1820",(208) 743-1388,(208) 743-0247,Labrador,83501-1820
+ME02,US Representative,US House of Representatives,The Honorable Michael H. Michaud,179 Lisbon Street Ground Floor,"Lewiston, ME 04240-7248",(207) 782-3704,(207) 782-5330,Michaud,04240-7248
+TX26,US Representative,US House of Representatives,The Honorable Michael C. Burgess,1660 South Stemmons Freeway Suite 230,"Lewisville, TX 75067-0600",(972) 434-9700,(972) 434-9705,Burgess,75067-0600
+KY06,US Representative,US House of Representatives,The Honorable Ben Chandler,1010 Monarch Street Suite 310,"Lexington, KY 40513-1866",(859) 219-1366,(859) 219-3437,Chandler,40513-1866
+MO06,US Representative,US House of Representatives,The Honorable Sam Graves,113 Blue Jay Drive Suite 100,"Liberty, MO 64068-1963",(816) 792-3976,(816) 792-0694,Graves,64068-1963
+NC02,US Representative,US House of Representatives,The Honorable Renee L. Ellmers,609 North First Street ,"Lillington, NC 27546-6693",(910) 814-0335,,Ellmers,27546-6693
+OH04,US Representative,US House of Representatives,The Honorable Jim Jordan,3121 West Elm Plaza ,"Lima, OH 45805-2516",(419) 999-6455,(419) 999-4238,Jordan,45805-2516
+NE01,US Representative,US House of Representatives,The Honorable Jeff Fortenberry,301 South 13th Street Suite 100,"Lincoln, NE 68508-2532",(402) 438-1598,(402) 438-1604,Fortenberry,68508-2532
+GA04,US Representative,US House of Representatives,The Honorable Hank C. Johnson,5700 Hillandale Drive Suite 110,"Lithonia, GA 30058-4104",(770) 987-2291,(770) 987-8721,Johnson,30058-4104
+AR02,US Representative,US House of Representatives,The Honorable Tim Griffin,1501 North University Avenue Suite 150,"Little Rock, AR 72207",(501) 324-5941,(501) 324-6029,Griffin,72207
+NH02,US Representative,US House of Representatives,The Honorable Charles F. Bass,32 North Main Street Room 110,"Littleton, NH 03561-4072",(603) 444-5505,,Bass,03561-4072
+AL07,US Representative,US House of Representatives,The Honorable Terri A. Sewell,40 Webb Hall Room 236-237,"Livingston, AL 35470-2099",(205) 652-5834,(205) 652-5935,Sewell,35470-2099
+LA06,US Representative,US House of Representatives,The Honorable Bill Cassidy,PO Box 426 ,"Livingston, LA 70754-0426",(225) 686-4413,(225) 929-7688,Cassidy,70754-0426
+MI11,US Representative,US House of Representatives,The Honorable Thaddeus G. McCotter,17197 North Laurel Park Drive Suite 216,"Livonia, MI 48152-7919",(734) 632-0314,(734) 632-0373,McCotter,48152-7919
+TX11,US Representative,US House of Representatives,The Honorable Mike Conaway,104 West Sandstone Street ,"Llano, TX 78643-2319",(325) 247-2826,(325) 247-2676,Conaway,78643-2319
+WV03,US Representative,US House of Representatives,The Honorable Nick J. Rahall,220 Dingess Street ,"Logan, WV 25601-3626",(304) 752-4934,(304) 752-8797,Rahall,25601-3626
+IN02,US Representative,US House of Representatives,The Honorable Joe Donnelly,300 East Broadway Suite 102,"Logansport, IN 46747-3182",(574) 753-2671,(574) 753-7615,Donnelly,46747-3182
+CO06,US Representative,US House of Representatives,The Honorable Mike Coffman,9220 Kimmer Drive Suite 220,"Lone Tree, CO 80124-2884",(720) 283-9772,(720) 283-9776,Coffman,80124-2884
+CA37,US Representative,US House of Representatives,The Honorable Laura Richardson,100 West Broadway Suite 600,"Long Beach, CA 90802-4486",(562) 436-3828,(562) 437-6434,Richardson,90802-4486
+NJ06,US Representative,US House of Representatives,The Honorable Frank Pallone,504 Broadway ,"Long Branch, NJ 07740-5951",(732) 571-1140,(732) 870-3890,Pallone,07740-5951
+TX01,US Representative,US House of Representatives,The Honorable Louie Gohmert,101 East Methvin Street Suite 302,"Longview, TX 75601-7200",(903) 236-8597,(903) 553-1972,Gohmert,75601-7200
+OH13,US Representative,US House of Representatives,The Honorable Betty Sutton,205 West 20th Street Room M-230,"Lorain, OH 44052-3777",(440) 245-5350,(440) 245-5355,Sutton,44052-3777
+CA35,US Representative,US House of Representatives,The Honorable Maxine Waters,10124 South Broadway Suite 1,"Los Angeles, CA 90003-4353",(323) 757-8900,(323) 757-9506,Waters,90003-4353
+CA33,US Representative,US House of Representatives,The Honorable Karen Bass,4322 Wilshire Boulevard Suite 301,"Los Angeles, CA 90010-3794",(323) 965-1422,(323) 965-1113,Bass,90010-3794
+CA34,US Representative,US House of Representatives,The Honorable Lucille Roybal-Allard,255 East Temple Street Suite 1860,"Los Angeles, CA 90012-3334",(213) 628-9230,(213) 628-8578,Roybal-Allard,90012-3334
+CA32,US Representative,US House of Representatives,The Honorable Judy Chu,4716 East Cesar E Chavez Avenue ,"Los Angeles, CA 90022-1210",(323) 307-9904,(323) 307-9906,Chu,90022-1210
+CA31,US Representative,US House of Representatives,The Honorable Xavier Becerra,1910 West Sunset Boulevard Suite 810,"Los Angeles, CA 90026-3445",(213) 483-1425,(213) 483-1429,Becerra,90026-3445
+CA30,US Representative,US House of Representatives,The Honorable Henry A. Waxman,8436 West Third Street Suite 600,"Los Angeles, CA 90048-4183",(310) 652-3095,(323) 655-0502,Waxman,90048-4183
+NM02,US Representative,US House of Representatives,The Honorable Steve E. Pearce,"3445 Lambros Loop, NE ","Los Lunas, NM 87031-6472",(855) 473-2723,,Pearce,87031-6472
+KY03,US Representative,US House of Representatives,The Honorable John A. Yarmuth,600 Martin Luther King Jr. Place Suite 216,"Louisville, KY 40202-2285",(502) 582-5129,(502) 582-5897,Yarmuth,40202-2285
+KY03,US Representative,US House of Representatives,The Honorable John A. Yarmuth,7219 Dixie Highway ,"Louisville, KY 40258-3756",(502) 933-5863,(502) 935-6934,Yarmuth,40258-3756
+MA05,US Representative,US House of Representatives,The Honorable Niki Tsongas,11 Kearney Square 3rd Floor,"Lowell, MA 01852-1941",(978) 459-0101,(978) 459-1907,Tsongas,01852-1941
+TX19,US Representative,US House of Representatives,The Honorable Randy Neugebauer,611 University Avenue Suite 220,"Lubbock, TX 79401-2206",(806) 763-1611,(806) 767-9168,Neugebauer,79401-2206
+TX01,US Representative,US House of Representatives,The Honorable Louie Gohmert,300 East Shepard Avenue Suite 210,"Lufkin, TX 75901-3252",(936) 632-3180,,Gohmert,75901-3252
+NC07,US Representative,US House of Representatives,The Honorable Mike McIntyre,500 North Cedar Street ,"Lumberton, NC 28358-4891",(910) 735-0610,(910) 739-5085,McIntyre,28358-4891
+VA06,US Representative,US House of Representatives,The Honorable Bob Goodlatte,916 Main Street Suite 300,"Lynchburg, VA 24504-1600",(434) 845-8306,(434) 845-8245,Goodlatte,24504-1600
+MA06,US Representative,US House of Representatives,The Honorable John F. Tierney, Room 412,"Lynn, MA 01902-1019",(781) 595-7375,(781) 595-7492,Tierney,01902-1019
+WI02,US Representative,US House of Representatives,The Honorable Tammy Baldwin,10 East Doty Street Suite 405,"Madison, WI 53703-5103",(608) 258-9800,(608) 258-9808,Baldwin,53703-5103
+FL07,US Representative,US House of Representatives,The Honorable John L. Mica,100 East Sybelia Avenue Suite 340,"Maitland, FL 32751-4700",(407) 657-8080,(407) 657-5353,Mica,32751-4700
+NH01,US Representative,US House of Representatives,The Honorable Frank C. Guinta,33 Lowell Street ,"Manchester, NH 03101-1641",(603) 641-9536,(603) 641-9561,Guinta,03101-1641
+LA01,US Representative,US House of Representatives,The Honorable Steve Scalise,21454 Koop Drive Suite 1-E,"Mandeville, LA 70471-7513",(985) 893-9064,(985) 893-9707,Scalise,70471-7513
+MN01,US Representative,US House of Representatives,The Honorable Tim Walz,227 East Main Street Suite 220,"Mankato, MN 56001-3573",(507) 388-2149,,Walz,56001-3573
+OH04,US Representative,US House of Representatives,The Honorable Jim Jordan,24 West Third Street Suite 314,"Mansfield, OH 44902-1243",(419) 522-5757,(419) 525-2805,Jordan,44902-1243
+FL18,US Representative,US House of Representatives,The Honorable Ileana Ros-Lehtinen,490 63rd Street Ocean East Suite 149,"Marathon, FL 33050-4720",(305) 304-7789,,Ros-Lehtinen,33050-4720
+FL19,US Representative,US House of Representatives,The Honorable Ted Deutch,5790 Margate Boulevard ,"Margate, FL 33063-3614",(954) 972-6454,(954) 974-3191,Deutch,33063-3614
+GA11,US Representative,US House of Representatives,The Honorable Phil Gingrey,"219 Roswell Street, NE ","Marietta, GA 30060-2063",(770) 429-1776,(770) 795-9551,Gingrey,30060-2063
+GA06,US Representative,US House of Representatives,The Honorable Tom Price,3730 Roswell Road Suite 50,"Marietta, GA 30062-8818",(770) 565-4990,(770) 565-7570,Price,30062-8818
+OH06,US Representative,US House of Representatives,The Honorable Bill Johnson,258 Front Street ,"Marietta, OH 45750-2908",(740) 376-0868,(740) 376-0886,Johnson,45750-2908
+IN05,US Representative,US House of Representatives,The Honorable Dan Burton,209 South Washington Street ,"Marion, IN 46952-3803",(765) 662-6770,(765) 662-6775,Burton,46952-3803
+MS02,US Representative,US House of Representatives,The Honorable Bennie G. Thompson,PO Box 356 ,"Marks, MS 38646-0356",(662) 326-9003,,Thompson,38646-0356
+MA03,US Representative,US House of Representatives,The Honorable Jim P. McGovern,255 Main Street Room 104,"Marlborough, MA 01752-5505",(508) 460-9292,(508) 460-6869,McGovern,01752-5505
+MI01,US Representative,US House of Representatives,The Honorable Dan J. Benishek,307 South Front Street Suite 120,"Marquette, MI 49855-4613",(906) 828-1581,(906) 273-1663,Benishek,49855-4613
+MN07,US Representative,US House of Representatives,The Honorable Collin C. Peterson,1420 East College Drive ,"Marshall, MN 56258-2065",(507) 537-2299,(507) 537-2298,Peterson,56258-2065
+TX01,US Representative,US House of Representatives,The Honorable Louie Gohmert,102 West Huston Street ,"Marshall, TX 75670-4038",(903) 938-8386,,Gohmert,75670-4038
+WV02,US Representative,US House of Representatives,The Honorable Shelley Moore Capito,300 Foxcroft Avenue Suite 102,"Martinsburg, WV 25401-5341",(304) 264-8810,(304) 264-8815,Capito,25401-5341
+TN02,US Representative,US House of Representatives,The Honorable John J. Duncan,200 East Broadway Suite 414,"Maryville, TN 37804-5782",(865) 984-5464,(865) 984-0521,Duncan,37804-5782
+NY03,US Representative,US House of Representatives,The Honorable Peter T. King,1003 Park Boulevard Suite Seven,"Massapequa Park, NY 11762-2758",(516) 541-4225,(516) 541-6602,King,11762-2758
+NJ02,US Representative,US House of Representatives,The Honorable Frank A. LoBiondo,5914 Main Street Suite 103,"Mays Landing, NJ 08330-1746",(609) 625-5008,(609) 625-5071,LoBiondo,08330-1746
+KY04,US Representative,US House of Representatives,The Honorable Geoff Davis,201 Government Street Suite 102,"Maysville, KY 41056-1385",(606) 564-6004,(606) 564-9355,Davis,41056-1385
+OK02,US Representative,US House of Representatives,The Honorable Dan Boren,118 East Carl Albert Parkway ,"McAlester, OK 74501-5040",(918) 423-5951,(918) 423-1940,Boren,74501-5040
+PA14,US Representative,US House of Representatives,The Honorable Mike F. Doyle,627 Lysle Boulevard ,"McKeesport, PA 15132-2524",(412) 664-4049,(412) 664-4053,Doyle,15132-2524
+TX04,US Representative,US House of Representatives,The Honorable Ralph M. Hall,1800 North Graves Street Suite 101,"McKinney, TX 75069-3322",(214) 726-9949,(214) 726-9363,Hall,75069-3322
+MA07,US Representative,US House of Representatives,The Honorable Edward J. Markey,5 High Street Suite 101,"Medford, MA 02155-3800",(781) 396-2900,(781) 396-3220,Markey,02155-3800
+OR02,US Representative,US House of Representatives,The Honorable Greg Walden,843 East Main Street Suite 400,"Medford, OR 97504-7137",(541) 776-4646,(541) 779-0204,Walden,97504-7137
+FL15,US Representative,US House of Representatives,The Honorable Bill Posey,2725 Judge Fran Jamieson Way ,"Melbourne, FL 32940-6605",(321) 632-1776,(321) 639-8595,Posey,32940-6605
+TN09,US Representative,US House of Representatives,The Honorable Steve Cohen,167 North Main Street Suite 369,"Memphis, TN 38103-1822",(901) 544-4131,(901) 544-4329,Cohen,38103-1822
+TN07,US Representative,US House of Representatives,The Honorable Marsha Blackburn,7975 Stage Hills Boulevard Suite One,"Memphis, TN 38133-4036",(901) 382-5811,(901) 373-8215,Blackburn,38133-4036
+CA18,US Representative,US House of Representatives,The Honorable Dennis A. Cardoza,2222 M Street Suite 305,"Merced, CA 95340-3729",(209) 383-4455,(209) 726-1065,Cardoza,95340-3729
+WA08,US Representative,US House of Representatives,The Honorable Dave G. Reichert,"2737 78th Avenue, SE Suite 202","Mercer Island, WA 98040-2843",(206) 275-3438,(206) 275-3437,Reichert,98040-2843
+CT05,US Representative,US House of Representatives,The Honorable Chris S. Murphy,22-26 West Main Street ,"Meriden, CT 06450-4109",(203) 630-0815,,Murphy,06450-4109
+ID01,US Representative,US House of Representatives,The Honorable Raul R. Labrador,33 East Broadway Avenue Suite 251,"Meridian, ID 83642-2619",(208) 888-3188,(208) 888-0894,Labrador,83642-2619
+MS03,US Representative,US House of Representatives,The Honorable Gregg Harper,1901 Front Street Suite A,"Meridian, MS 39301-5006",(601) 693-6681,(601) 693-1801,Harper,39301-5006
+IN01,US Representative,US House of Representatives,The Honorable Pete J. Visclosky,7895 Broadway Suite A,"Merrillville, IN 46410-5529",(219) 795-1844,(219) 795-1850,Visclosky,46410-5529
+AZ06,US Representative,US House of Representatives,The Honorable Jeff Flake,1640 South Stapley Drive Suite 215,"Mesa, AZ 85204-6666",(480) 833-0092,(480) 833-6314,Flake,85204-6666
+LA01,US Representative,US House of Representatives,The Honorable Steve Scalise,110 Veterans Memorial Boulevard Suite 500,"Metairie, LA 70005-4970",(504) 837-1259,(504) 837-4239,Scalise,70005-4970
+FL18,US Representative,US House of Representatives,The Honorable Ileana Ros-Lehtinen,777 17th Street ,"Miami Beach, FL 33139-1895",(305) 934-9441,,Ros-Lehtinen,33139-1895
+FL17,US Representative,US House of Representatives,The Honorable Frederica S. Wilson,18425 NW Second Avenue Suite 310,"Miami Gardens, FL 33169-4532",(305) 690-5905,(305) 690-5951,Wilson,33169-4532
+FL18,US Representative,US House of Representatives,The Honorable Ileana Ros-Lehtinen,4960 SW 72 Avenue Suite 208,"Miami, FL 33155-5544",(305) 668-2285,(305) 668-5970,Ros-Lehtinen,33155-5544
+FL25,US Representative,US House of Representatives,The Honorable David Rivera,12851 Southwest 42nd Street Suite 131,"Miami, FL 33175",(305) 222-0160,(305) 228-9397,Rivera,33175
+IN02,US Representative,US House of Representatives,The Honorable Joe Donnelly,100 East Michigan Boulevard ,"Michigan City, IN 46360-3271",(219) 873-1403,(574) 288-2825,Donnelly,46360-3271
+CT03,US Representative,US House of Representatives,The Honorable Rosa L. DeLauro,245 Dekoven Drive Room B-20,"Middletown, CT 06457-3460",(860) 344-1159,,DeLauro,06457-3460
+NY22,US Representative,US House of Representatives,The Honorable Maurice D. Hinchey,16 James Street 3rd Floor,"Middletown, NY 10940-5787",(845) 344-3211,(845) 342-2070,Hinchey,10940-5787
+MI04,US Representative,US House of Representatives,The Honorable Dave Camp,135 Ashman Street ,"Midland, MI 48640-5103",(989) 631-2552,(989) 631-6271,Camp,48640-5103
+TX11,US Representative,US House of Representatives,The Honorable Mike Conaway,6 Desta Drive Suite 2000,"Midland, TX 79705-5520",(432) 687-2390,(432) 687-0277,Conaway,79705-5520
+IL01,US Representative,US House of Representatives,The Honorable Bobby L. Rush,3235 147th Street ,"Midlothian, IL 60445-3656",(708) 385-9550,(708) 385-3860,Rush,60445-3656
+MA02,US Representative,US House of Representatives,The Honorable Richard E. Neal,2 Congress Street ,"Milford, MA 01757-4128",(508) 634-8198,(508) 634-8398,Neal,01757-4128
+MI11,US Representative,US House of Representatives,The Honorable Thaddeus G. McCotter,213 West Huron Street ,"Milford, MI 48381-2252",(248) 685-9495,(248) 685-9484,McCotter,48381-2252
+GA12,US Representative,US House of Representatives,The Honorable John Barrow,127 East Hancock Street ,"Milledgeville, GA 31061-3413",(478) 452-4611,(478) 451-0717,Barrow,31061-3413
+WI04,US Representative,US House of Representatives,The Honorable Gwen Moore,219 North Milwaukee Street Suite 3A,"Milwaukee, WI 53202-5818",(414) 297-1140,(414) 297-1086,Moore,53202-5818
+MN05,US Representative,US House of Representatives,The Honorable Keith Ellison,2100 Plymouth Avenue North ,"Minneapolis, MN 55411-3675",(612) 522-1212,(612) 522-9915,Ellison,55411-3675
+TX28,US Representative,US House of Representatives,The Honorable Henry Cuellar,117 East Tom Landry ,"Mission City, TX 78572-4610",(956) 424-3942,(956) 631-4251,Cuellar,78572-4610
+CA42,US Representative,US House of Representatives,The Honorable Gary G. Miller,200 Civic Center Drive ,"Mission Viejo, CA 92691-5519",(949) 470-8484,,Miller,92691-5519
+MT01,US Representative,US House of Representatives,The Honorable Denny Rehberg,301 East Broadway Suite 2,"Missoula, MT 59802-4478",(406) 543-9550,(406) 543-0663,Rehberg,59802-4478
+AL01,US Representative,US House of Representatives,The Honorable Jo Bonner,11 North Water Street Suite 15290,"Mobile, AL 36602-5000",(251) 690-2811,(251) 690-2815,Bonner,36602-5000
+CA18,US Representative,US House of Representatives,The Honorable Dennis A. Cardoza,1010 10th Street Suite 5800,"Modesto, CA 95354-0877",(209) 527-1914,(209) 527-5748,Cardoza,95354-0877
+CA19,US Representative,US House of Representatives,The Honorable Jeff Denham,3509 Coffee Road Suite D3,"Modesto, CA 95355-1356",(209) 579-5458,(209) 579-5028,Denham,95355-1356
+IL17,US Representative,US House of Representatives,The Honorable Bobby T. Schilling,3000 41st Street Suite 2,"Moline, IL 61265-7859",(309) 757-7630,,Schilling,61265-7859
+LA05,US Representative,US House of Representatives,The Honorable Rodney Alexander,1900 Stubbs Avenue Suite B,"Monroe, LA 71201-5751",(318) 322-3500,(318) 322-3577,Alexander,71201-5751
+MI15,US Representative,US House of Representatives,The Honorable John D. Dingell,23 East Front Street Suite 103,"Monroe, MI 48161-2256",(734) 243-1849,(734) 243-5559,Dingell,48161-2256
+MN07,US Representative,US House of Representatives,The Honorable Collin C. Peterson,100 North First Street ,"Montevideo, MN 56265",(320) 269-8888,,Peterson,56265
+AL02,US Representative,US House of Representatives,The Honorable Martha Roby,22 Monroe Street Suite 1-B,"Montgomery, AL 36104-3617",(334) 277-9113,(334) 277-8534,Roby,36104-3617
+AL03,US Representative,US House of Representatives,The Honorable Mike D. Rogers,7550 Halcyon Summit Drive ,"Montgomery, AL 36117-7008",(334) 277-4210,(334) 277-4257,Rogers,36117-7008
+NY22,US Representative,US House of Representatives,The Honorable Maurice D. Hinchey,18 Anawana Lake Road ,"Monticello, NY 12701-3200",(845) 791-7116,(607) 498-5379,Hinchey,12701-3200
+NJ11,US Representative,US House of Representatives,The Honorable Rodney P. Frelinghuysen,30 Schulyer Place Second Floor,"Morristown, NJ 07960-5128",(973) 984-0711,(973) 292-1569,Frelinghuysen,07960-5128
+TN01,US Representative,US House of Representatives,The Honorable Phil Roe,1609 College Park Drive Suite 4,"Morristown, TN 37813-1659",(423) 254-1400,(423) 254-1403,Roe,37813-1659
+MS02,US Representative,US House of Representatives,The Honorable Bennie G. Thompson,106 West Green Avenue Suite 106,"Mound Bayou, MS 38762-9594",(662) 741-9003,(662) 741-9002,Thompson,38762-9594
+IL15,US Representative,US House of Representatives,The Honorable Timothy V. Johnson,1001 North Market Street Suite 102,"Mount Carmel, IL 62863-1948",(618) 262-8719,(618) 262-8859,Johnson,62863-1948
+NJ03,US Representative,US House of Representatives,The Honorable Jon D. Runyan,4167 Church Road ,"Mount Laurel, NJ 08054-2220",(856) 780-6436,(856) 780-6440,Runyan,08054-2220
+NY17,US Representative,US House of Representatives,The Honorable Eliot L. Engel,6 Gramatan Avenue Suite 205,"Mount Vernon, NY 10550-3208",(914) 699-4100,(914) 699-3646,Engel,10550-3208
+IN06,US Representative,US House of Representatives,The Honorable Mike Pence,107 West Charles Street ,"Muncie, IN 47305-2804",(765) 747-5566,(765) 747-5586,Pence,47305-2804
+TN06,US Representative,US House of Representatives,The Honorable Diane L. Black,305 West Main Street ,"Murfreesboro, TN 37130-3547",,(615) 896-8218,Black,37130-3547
+NC11,US Representative,US House of Representatives,The Honorable Heath Shuler,75 Peachtree Street Suite 100,"Murphy, NC 28906-2947",(828) 835-4981,,Shuler,28906-2947
+MI02,US Representative,US House of Representatives,The Honorable Bill Huizenga,900 Third Street Suite 203,"Muskegon, MI 49440-1135",(231) 722-8386,(231) 722-0176,Huizenga,49440-1135
+OK02,US Representative,US House of Representatives,The Honorable Dan Boren,431 West Broadway Street ,"Muskogee, OK 74401-6614",(918) 687-2533,(918) 686-0128,Boren,74401-6614
+SC01,US Representative,US House of Representatives,The Honorable Tim Scott,1800 North Oak Street Room C,"Myrtle Beach, SC 29577-3141",(843) 445-6459,(843) 445-6418,Scott,29577-3141
+TX01,US Representative,US House of Representatives,The Honorable Louie Gohmert,101 West Main Suite 160,"Nacogdoches, TX 75961-4830",(936) 715-9514,,Gohmert,75961-4830
+CA01,US Representative,US House of Representatives,The Honorable Mike C. Thompson,1040 Main Street Suite 101,"Napa, CA 94559-2605",(707) 226-9898,(707) 251-9800,Thompson,94559-2605
+FL14,US Representative,US House of Representatives,The Honorable Connie Mack,3301 East Tamiami Trail Suite 105,"Naples, FL 34112-3969",(239) 252-6225,(239) 252-8065,Mack,34112-3969
+FL25,US Representative,US House of Representatives,The Honorable David Rivera,4715 Golden Gate Parkway Suite 1,"Naples, FL 34116",(239) 348-1620,(239) 348-3569,Rivera,34116
+NH02,US Representative,US House of Representatives,The Honorable Charles F. Bass,221 Main Street Suite 201,"Nashua, NH 03060-2913",(603) 595-7701,,Bass,03060-2913
+TN05,US Representative,US House of Representatives,The Honorable Jim Cooper,605 Church Street Suite 101,"Nashville, TN 37219-2314",(615) 736-5295,(615) 736-7479,Cooper,37219-2314
+PA04,US Representative,US House of Representatives,The Honorable Jason Altmire,2124 Freeport Road ,"Natrona Heights, PA 15065-1527",(724) 226-1304,(724) 226-1308,Altmire,15065-1527
+CT03,US Representative,US House of Representatives,The Honorable Rosa L. DeLauro,229 Church Street 4th Floor,"Naugatuck, CT 06770-4145",(203) 729-0204,,DeLauro,06770-4145
+MA04,US Representative,US House of Representatives,The Honorable Barney Frank,558 Pleasant Street Room 309,"New Bedford, MA 02740-6246",(508) 999-6462,(508) 999-6468,Frank,02740-6246
+TX04,US Representative,US House of Representatives,The Honorable Ralph M. Hall,710 James Bowie Drive ,"New Boston, TX 75570-2328",(903) 628-8309,(903) 628-8320,Hall,75570-2328
+CT05,US Representative,US House of Representatives,The Honorable Chris S. Murphy,114 West Main Street Suite 206,"New Britain, CT 06051-4223",(860) 223-8412,(860) 827-9009,Murphy,06051-4223
+NJ06,US Representative,US House of Representatives,The Honorable Frank Pallone,67-69 Church Street ,"New Brunswick, NJ 08901-1242",(732) 249-8892,(732) 249-1335,Pallone,08901-1242
+CT03,US Representative,US House of Representatives,The Honorable Rosa L. DeLauro,59 Elm Street Suite 205,"New Haven, CT 06510-2036",(203) 562-3718,(203) 772-2260,DeLauro,06510-2036
+LA03,US Representative,US House of Representatives,The Honorable Jeffrey M. Landry,301 East Saint Peter Street Suite 102,"New Iberia, LA 70560-3787",(337) 359-9080,(337) 359-9090,Landry,70560-3787
+LA02,US Representative,US House of Representatives,The Honorable Cedric L. Richmond,2021 Lakeshore Drive Suite 309,"New Orleans, LA 70122-3501",(504) 288-3777,(504) 288-4090,Richmond,70122-3501
+NY12,US Representative,US House of Representatives,The Honorable Nydia M. Velazquez,173 Avenue B ,"New York, NY 10009-4656",(212) 673-3997,(212) 473-5242,Velazquez,10009-4656
+NY08,US Representative,US House of Representatives,The Honorable Jerrold Nadler,201 Varick Street Room 669,"New York, NY 10014-7069",(212) 367-7350,(212) 367-7356,Nadler,10014-7069
+NY15,US Representative,US House of Representatives,The Honorable Charles B. Rangel,163 West 125th Street Suite 737,"New York, NY 10027-4404",(212) 663-3900,(212) 663-4277,Rangel,10027-4404
+NY14,US Representative,US House of Representatives,The Honorable Carolyn B. Maloney,1651 Third Avenue Suite 311,"New York, NY 10128-3679",(212) 860-0606,(212) 860-0704,Maloney,10128-3679
+NJ10,US Representative,US House of Representatives,The Honorable Donald M. Payne,50 Walnut Street Suite 1016,"Newark, NJ 07102-3596",(973) 645-3213,(973) 645-5902,Payne,07102-3596
+GA03,US Representative,US House of Representatives,The Honorable Lynn A. Westmoreland,1601 Highway 34 East Suite B,"Newnan, GA 30265-1325",(770) 683-2033,(770) 683-2042,Westmoreland,30265-1325
+CA48,US Representative,US House of Representatives,The Honorable John Campbell,610 Newport Center Drive Suite 330,"Newport Beach, CA 92660-8034",(949) 756-2244,(949) 251-9309,Campbell,92660-8034
+VA03,US Representative,US House of Representatives,The Honorable Bobby C. Scott,2600 Washington Avenue Suite 1010,"Newport News, VA 23607-4333",(757) 380-1000,(757) 928-6694,Scott,23607-4333
+MA04,US Representative,US House of Representatives,The Honorable Barney Frank,29 Crafts Street ,"Newton, MA 02458-1275",(617) 332-3920,(617) 332-2822,Frank,02458-1275
+NJ05,US Representative,US House of Representatives,The Honorable Scott Garrett,93 Main Street ,"Newton, NJ 07860-2056",(973) 300-2000,(973) 300-1051,Garrett,07860-2056
+NY28,US Representative,US House of Representatives,The Honorable Louise M. Slaughter,1910 Pine Avenue ,"Niagara Falls, NY 14301-2310",(716) 282-1274,(716) 282-2479,Slaughter,14301-2310
+NE01,US Representative,US House of Representatives,The Honorable Jeff Fortenberry,125 South 4th Street Suite 101,"Norfolk, NE 68701-5200",(402) 379-2064,(402) 379-2101,Fortenberry,68701-5200
+OK04,US Representative,US House of Representatives,The Honorable Tom Cole,2420 Springer Drive Suite 120,"Norman, OK 73069-3965",(405) 329-6500,(405) 321-7369,Cole,73069-3965
+MN08,US Representative,US House of Representatives,The Honorable Chip Cravaack,6448 Main Street Suite 6,"North Branch, MN 55056-7068",(651) 237-8220,(651) 237-8225,Cravaack,55056-7068
+SC06,US Representative,US House of Representatives,The Honorable James E. Clyburn,1362 McMillan Avenue Suite 100,"North Charleston, SC 29405-2049",(843) 529-2708,,Clyburn,29405-2049
+IL10,US Representative,US House of Representatives,The Honorable Bob Dold,650 Dundee Road Suite 380,"Northbrook, IL 60062-2757",(847) 940-0202,(847) 940-7143,Dold,60062-2757
+OH05,US Representative,US House of Representatives,The Honorable Bob Latta,11 East Main Street ,"Norwalk, OH 44857-1512",(419) 668-0206,(419) 663-1361,Latta,44857-1512
+CT02,US Representative,US House of Representatives,The Honorable Joe Courtney,101 Water Street Suite 301,"Norwich, CT 06360-5730",(860) 886-0139,(860) 886-2974,Courtney,06360-5730
+IL03,US Representative,US House of Representatives,The Honorable Daniel W. Lipinski,5309 West 95th Street ,"Oak Lawn, IL 60453-2444",(708) 424-0853,(708) 424-1855,Lipinski,60453-2444
+TN03,US Representative,US House of Representatives,The Honorable Chuck Fleischmann,200 Administration Road Suite 100,"Oak Ridge, TN 37839-8823",(865) 576-1976,(865) 576-3221,Fleischmann,37839-8823
+CA09,US Representative,US House of Representatives,The Honorable Barbara J. Lee,1301 Clay Street Suite 1000 North,"Oakland, CA 94612-5233",(510) 763-0370,(510) 763-6538,Lee,94612-5233
+FL06,US Representative,US House of Representatives,The Honorable Cliff B. Stearns,115 Southeast 25th Avenue ,"Ocala, FL 34471-9179",(352) 351-8777,(352) 351-8011,Stearns,34471-9179
+TX11,US Representative,US House of Representatives,The Honorable Mike Conaway,411 West Eight Street Fifth Floor,"Odessa, TX 79761-4422",(432) 331-9667,(432) 332-6538,Conaway,79761-4422
+UT01,US Representative,US House of Representatives,The Honorable Rob W. Bishop,324 25th Street Room 1017,"Ogden, UT 84401-2361",(801) 625-0107,(801) 625-0124,Bishop,84401-2361
+OK05,US Representative,US House of Representatives,The Honorable James Lankford,1015 North Broadway Suite 310,"Oklahoma City, OK 73102-5849",(405) 234-9900,(405) 234-9909,Lankford,73102-5849
+IL19,US Representative,US House of Representatives,The Honorable John M. Shimkus,120 South Fair ,"Olney, IL 62450-2258",(618) 392-7737,(618) 395-8178,Shimkus,62450-2258
+NE02,US Representative,US House of Representatives,The Honorable Lee Terry,11717 Burt Street Suite 106,"Omaha, NE 68154-1500",(402) 397-9944,(402) 397-8787,Terry,68154-1500
+NY23,US Representative,US House of Representatives,The Honorable Bill L. Owens,131 Main Street Suite 106,"Oneida, NY 13421-1641",(315) 367-0041,(315) 367-0046,Owens,13421-1641
+AL03,US Representative,US House of Representatives,The Honorable Mike D. Rogers,1819 Pepperell Parkway Suite 203,"Opelika, AL 36801-5476",(334) 745-6221,(334) 742-0109,Rogers,36801-5476
+FL06,US Representative,US House of Representatives,The Honorable Cliff B. Stearns,"1726 Kingsley Avenue, SE Suite 8","Orange Park, FL 32073-4411",(904) 269-3203,(904) 269-3343,Stearns,32073-4411
+CA40,US Representative,US House of Representatives,The Honorable Ed R. Royce,1110 East Chapman Avenue Suite 207,"Orange, CA 92866-2145",(714) 744-4130,(714) 744-4056,Royce,92866-2145
+TX08,US Representative,US House of Representatives,The Honorable Kevin Brady,420 Green Avenue ,"Orange, TX 77630-5803",(409) 883-4197,(409) 883-6550,Brady,77630-5803
+OR05,US Representative,US House of Representatives,The Honorable Kurt Schrader,621 High Street ,"Oregon City, OR 97045-2240",(503) 557-1324,,Schrader,97045-2240
+FL03,US Representative,US House of Representatives,The Honorable Corrine Brown,219 Lime Avenue ,"Orlando, FL 32805-2248",(407) 872-0656,(407) 872-5763,Brown,32805-2248
+FL07,US Representative,US House of Representatives,The Honorable John L. Mica,770 West Granada Boulevard Suite 315,"Ormond Beach, FL 32174-5180",(386) 676-7750,(386) 676-7748,Mica,32174-5180
+WI06,US Representative,US House of Representatives,The Honorable Tom E. Petri,2390 State Road 44 Suite B,"Oshkosh, WI 54904-6438",(920) 231-6333,(920) 231-0464,Petri,54904-6438
+FL24,US Representative,US House of Representatives,The Honorable Sandy Adams,2461 West SR 426 Suite 1041,"Oviedo, FL 32765-4508",(407) 977-7601,(407) 977-7601,Adams,32765-4508
+KY02,US Representative,US House of Representatives,The Honorable Brett Guthrie,2200 Airport Road ,"Owensboro, KY 42301-9488",(270) 842-9896,(270) 842-9081,Guthrie,42301-9488
+KY01,US Representative,US House of Representatives,The Honorable Ed Whitfield,100 Fountain Avenue Room 104,"Paducah, KY 42001-2771",(270) 442-6901,(270) 442-6805,Whitfield,42001-2771
+AS01,US Representative,US House of Representatives,The Honorable Eni F. H. Faleomavaega,PO Box X ,"Pago Pago, AS 96799-0230",(684) 633-1372,(684) 633-2680,Faleomavaega,96799-0230
+OH14,US Representative,US House of Representatives,The Honorable Steven C. LaTourette,One Victoria Place Room 320,"Painesville, OH 44077-3406",(440) 352-3939,(440) 352-3622,LaTourette,44077-3406
+FL07,US Representative,US House of Representatives,The Honorable John L. Mica,613 St. Johns Avenue Room 107,"Palatka, FL 32177-4643",(386) 328-1622,(386) 246-6042,Mica,32177-4643
+FL07,US Representative,US House of Representatives,The Honorable John L. Mica,1 Florida Park Drive South Room 100,"Palm Coast, FL 32137-3801",(386) 246-6042,(386) 328-1622,Mica,32137-3801
+FL09,US Representative,US House of Representatives,The Honorable Gus M. Bilirakis,35111 US Highway 19 North Suite 301,"Palm Harbor, FL 34684-1934",(727) 773-2871,(727) 784-6471,Bilirakis,34684-1934
+CA45,US Representative,US House of Representatives,The Honorable Mary Bono Mack,707 East Tahquitz Canyon Way Suite 9,"Palm Springs, CA 92262-0101",(760) 320-1076,(760) 320-0596,Bono Mack,92262-0101
+CA25,US Representative,US House of Representatives,The Honorable Buck McKeon,"1008 West Avenue, M-14 Suite E-1","Palmdale, CA 93551-1441",(661) 274-9688,(661) 274-8744,McKeon,93551-1441
+CA14,US Representative,US House of Representatives,The Honorable Anna G. Eshoo,698 Emerson Street ,"Palo Alto, CA 94301-1609",(650) 323-2984,(650) 323-3498,Eshoo,94301-1609
+FL02,US Representative,US House of Representatives,The Honorable Steve Southerland,840 West 11th Street Suite 2250,"Panama City, FL 32401-2336",(850) 785-0812,(850) 763-3764,Southerland,32401-2336
+OH10,US Representative,US House of Representatives,The Honorable Dennis J. Kucinich,7904 Day Drive ,"Parma, OH 44129-5637",(440) 845-2707,(440) 845-2743,Kucinich,44129-5637
+CA29,US Representative,US House of Representatives,The Honorable Adam B. Schiff,87 North Raymond Avenue Suite 800,"Pasadena, CA 91103-3966",(626) 304-2727,(626) 304-0572,Schiff,91103-3966
+WA04,US Representative,US House of Representatives,The Honorable Doc Hastings,2715 St. Andrews Loop Suite D,"Pasco, WA 99301-3386",(509) 543-9396,(509) 545-1972,Hastings,99301-3386
+NJ08,US Representative,US House of Representatives,The Honorable Bill Pascrell,330 Passaic Street ,"Passaic, NJ 07055-5815",(973) 472-4510,,Pascrell,07055-5815
+NJ08,US Representative,US House of Representatives,The Honorable Bill Pascrell,200 Federal Plaza Suite 500,"Paterson, NJ 07505-1953",(973) 523-5152,(973) 523-0637,Pascrell,07505-1953
+RI01,US Representative,US House of Representatives,The Honorable David N. Cicilline,249 Roosevelt Avenue Suite 200,"Pawtucket, RI 02860-2134",(401) 729-5600,(401) 729-5608,Cicilline,02860-2134
+MA06,US Representative,US House of Representatives,The Honorable John F. Tierney,17 Peabody Square ,"Peabody, MA 01960-5646",(978) 531-1669,(978) 531-1996,Tierney,01960-5646
+MS03,US Representative,US House of Representatives,The Honorable Gregg Harper,2507A Old Brandon Road ,"Pearl, MS 39208-4604",(601) 932-2410,(601) 965-4598,Harper,39208-4604
+FL20,US Representative,US House of Representatives,The Honorable Debbie Wasserman Schultz,10100 Pines Boulevard ,"Pembroke Pines, FL 33026-6040",(954) 437-3936,(954) 437-4776,Wasserman Schultz,33026-6040
+PA14,US Representative,US House of Representatives,The Honorable Mike F. Doyle,11 Duff Road ,"Penn Hills, PA 15235-3263",(412) 241-6055,(412) 241-6820,Doyle,15235-3263
+FL01,US Representative,US House of Representatives,The Honorable Jeff B. Miller,4300 Bayou Boulevard Suite 13,"Pensacola, FL 32503-2679",(850) 479-1183,(850) 479-9394,Miller,32503-2679
+IL18,US Representative,US House of Representatives,The Honorable Aaron Schock,100 North East Monroe Room 100,"Peoria, IL 61602-1047",(309) 671-7027,(309) 671-7309,Schock,61602-1047
+NJ13,US Representative,US House of Representatives,The Honorable Albio Sires,1 Olive Street 2nd Floor,"Perth Amboy, NJ 08861-4517",(732) 442-0610,(732) 442-0671,Sires,08861-4517
+MI01,US Representative,US House of Representatives,The Honorable Dan J. Benishek,200 Division Street Suite 178,"Petoskey, MI 49770-2465",(231) 348-0657,(231) 348-0653,Benishek,49770-2465
+PA02,US Representative,US House of Representatives,The Honorable Chaka Fattah,4104 Walnut Street ,"Philadelphia, PA 19104-3598",(215) 387-6404,(215) 387-6407,Fattah,19104-3598
+PA02,US Representative,US House of Representatives,The Honorable Chaka Fattah,6632 Germantown Avenue ,"Philadelphia, PA 19119-2250",(215) 848-9386,(215) 848-3884,Fattah,19119-2250
+PA01,US Representative,US House of Representatives,The Honorable Robert A. Brady,2630 Memphis Street ,"Philadelphia, PA 19125-2344",(215) 426-4616,(215) 426-7741,Brady,19125-2344
+PA01,US Representative,US House of Representatives,The Honorable Robert A. Brady,2637 East Clearfield Street ,"Philadelphia, PA 19134-5023",(267) 519-2252,(267) 519-2262,Brady,19134-5023
+PA13,US Representative,US House of Representatives,The Honorable Allyson Y. Schwartz,7219 Frankford Avenue ,"Philadelphia, PA 19135-1010",(215) 335-3355,(215) 333-4508,Schwartz,19135-1010
+PA01,US Representative,US House of Representatives,The Honorable Robert A. Brady,1907-09 South Broad Street ,"Philadelphia, PA 19148-2116",(215) 389-4627,(215) 389-4636,Brady,19148-2116
+AZ04,US Representative,US House of Representatives,The Honorable Ed Pastor,411 North Central Avenue Suite 150,"Phoenix, AZ 85004-2120",(602) 256-0551,(602) 257-9103,Pastor,85004-2120
+AZ03,US Representative,US House of Representatives,The Honorable Benjamin Quayle,2400 East Arizona Biltmore Circle Suite 1290,"Phoenix, AZ 85016-2195",(602) 263-5300,(602) 248-7733,Quayle,85016-2195
+AR04,US Representative,US House of Representatives,The Honorable Mike A. Ross,100 East 8th Avenue Room 2521,"Pine Bluff, AR 71601-5070",(870) 536-3376,(870) 536-4058,Ross,71601-5070
+KS02,US Representative,US House of Representatives,The Honorable Lynn Jenkins,1001 North Broadway Street Suite C,"Pittsburg, KS 66762-3905",(620) 231-5966,(620) 231-5972,Jenkins,66762-3905
+PA14,US Representative,US House of Representatives,The Honorable Mike F. Doyle,225 Ross Street Fifth Floor,"Pittsburgh, PA 15219-2024",(412) 261-5091,(412) 261-1983,Doyle,15219-2024
+PA18,US Representative,US House of Representatives,The Honorable Tim Murphy,504 Washington Road ,"Pittsburgh, PA 15228-2817",(412) 344-5583,(412) 429-5092,Murphy,15228-2817
+MA01,US Representative,US House of Representatives,The Honorable John W. Olver,78 Center Street Suite 205,"Pittsfield, MA 01201-6172",(413) 442-0946,(413) 443-2792,Olver,01201-6172
+NY29,US Representative,US House of Representatives,The Honorable Tom W. Reed,1 Grove Street Suite 101,"Pittsford, NY 14534-1328",(585) 218-0040,(585) 218-0053,Reed,14534-1328
+IN04,US Representative,US House of Representatives,The Honorable Todd Rokita,2680 East Main Street Suite 332,"Plainfield, IN 46167-2829",(317) 838-0404,,Rokita,46167-2829
+FL09,US Representative,US House of Representatives,The Honorable Gus M. Bilirakis,110 West Reynolds Street Suite 101,"Plant City, FL 33563-3377",(813) 752-9849,(813) 752-9017,Bilirakis,33563-3377
+NY23,US Representative,US House of Representatives,The Honorable Bill L. Owens,14 Durkee Street Suite 320,"Plattsburgh, NY 12901-2998",(518) 563-1406,(518) 561-9723,Owens,12901-2998
+CA11,US Representative,US House of Representatives,The Honorable Jerry McNerney,5776 Stoneridge Mall Road Room 175,"Pleasanton, CA 94588-2836",(925) 737-0727,(925) 737-0734,McNerney,94588-2836
+ID02,US Representative,US House of Representatives,The Honorable Mike Simpson,275 South Fifth Avenue Suite 275,"Pocatello, ID 83201-3392",(208) 233-2222,(208) 233-2095,Simpson,83201-3392
+WA06,US Representative,US House of Representatives,The Honorable Norm Dicks,332 East 5th Street ,"Port Angeles, WA 98362-3207",(360) 452-3370,(360) 452-3502,Dicks,98362-3207
+CA23,US Representative,US House of Representatives,The Honorable Lois Capps,2675 North Ventura Road Suite 105,"Port Hueneme, CA 93041-2045",(805) 985-6807,(805) 985-6875,Capps,93041-2045
+FL24,US Representative,US House of Representatives,The Honorable Sandy Adams,1000 City Center Circle 2nd Floor,"Port Orange, FL 32129-4144",(386) 756-9798,(386) 756-9903,Adams,32129-4144
+ME01,US Representative,US House of Representatives,The Honorable Chellie Pingree,2 Portland Fish Pier Suite 304,"Portland, ME 04101-4633",(207) 774-5019,(207) 871-0720,Pingree,04101-4633
+OR01,US Representative,US House of Representatives,The Honorable David Wu,620 SW Main Street Suite 606,"Portland, OR 97205-3024",(503) 326-2901,(503) 326-5066,Wu,97205-3024
+OR03,US Representative,US House of Representatives,The Honorable Earl Blumenauer,729 NE Oregon Street Suite 115,"Portland, OR 97232-2184",(503) 231-2300,(503) 230-5413,Blumenauer,97232-2184
+OH02,US Representative,US House of Representatives,The Honorable Jean Schmidt,602 Chillicothe Street Suite 304,"Portsmouth, OH 45662-4262",(740) 354-1440,(740) 354-1144,Schmidt,45662-4262
+PA17,US Representative,US House of Representatives,The Honorable Tim Holden,101 North Centre Street Room 303,"Pottsville, PA 17901-2972",(570) 622-4212,(570) 628-2561,Holden,17901-2972
+WA01,US Representative,US House of Representatives,The Honorable Jay Inslee,"17791 Fjord Drive, NE Door 112","Poulsbo, WA 98370-8481",(360) 598-2342,(360) 598-3650,Inslee,98370-8481
+AR04,US Representative,US House of Representatives,The Honorable Mike A. Ross,221 West Main Street ,"Prescott, AR 71857-3608",(870) 887-6787,(870) 887-6799,Ross,71857-3608
+AZ01,US Representative,US House of Representatives,The Honorable Paul A. Gosar,240 South Montezuma Street Unit #101,"Prescott, AZ 86303-4712",(928) 445-1683,(928) 445-3414,Gosar,86303-4712
+ME02,US Representative,US House of Representatives,The Honorable Michael H. Michaud,445 Main Street ,"Presque Isle, ME 04769-2651",(207) 764-1036,(207) 764-1060,Michaud,04769-2651
+KY05,US Representative,US House of Representatives,The Honorable Hal Rogers,110 Resource Court Suite A,"Prestonsburg, KY 41653-7851",(606) 886-0844,(606) 889-0371,Rogers,41653-7851
+UT02,US Representative,US House of Representatives,The Honorable Jim Matheson,120 East Main Street ,"Price, UT 84501-3050",(435) 636-3722,(435) 636-3721,Matheson,84501-3050
+UT03,US Representative,US House of Representatives,The Honorable Jason Chaffetz,51 South University Avenue Suite 318,"Provo, UT 84601-4491",(801) 851-2500,(801) 851-2509,Chaffetz,84601-4491
+CO03,US Representative,US House of Representatives,The Honorable Scott R. Tipton,503 North Main Street Suite 658,"Pueblo, CO 81003-3132",(719) 542-1073,(719) 542-1127,Tipton,81003-3132
+FL16,US Representative,US House of Representatives,The Honorable Thomas J. Rooney,226 Taylor Street Suite 200,"Punta Gorda, FL 33950-4459",(941) 575-9101,(941) 575-9103,Rooney,33950-4459
+MA10,US Representative,US House of Representatives,The Honorable William R. Keating,1250 Hancock Street Suite 802-N,"Quincy, MA 02169-4331",(508) 771-0666,(508) 790-1959,Keating,02169-4331
+WI01,US Representative,US House of Representatives,The Honorable Paul D. Ryan,216 6th Street ,"Racine, WI 53403-1216",(262) 637-0510,(262) 637-5689,Ryan,53403-1216
+KY02,US Representative,US House of Representatives,The Honorable Brett Guthrie,411 West Lincoln Trail Boulevard ,"Radcliff, KY 40160-2046",(270) 842-9896,(270) 842-9081,Guthrie,40160-2046
+NC13,US Representative,US House of Representatives,The Honorable Brad Miller,1300 St. Mary's Street Suite 504,"Raleigh, NC 27605-1276",(919) 836-1313,(919) 836-1314,Miller,27605-1276
+NC04,US Representative,US House of Representatives,The Honorable David E. Price,5400 Trinity Road Suite 205,"Raleigh, NC 27607-3815",(919) 859-5999,(919) 859-5998,Price,27607-3815
+SD01,US Representative,US House of Representatives,The Honorable Kristi L. Noem,343 Quincy Street ,"Rapid City, SD 57701-3797",(605) 791-4673,(605) 791-4679,Noem,57701-3797
+MN07,US Representative,US House of Representatives,The Honorable Collin C. Peterson,2603 Wheat Drive ,"Red Lake Falls, MN 56750-4800",(218) 253-4356,(218) 253-4373,Peterson,56750-4800
+CA02,US Representative,US House of Representatives,The Honorable Wally Herger,280 Hemsted Drive Suite 105,"Redding, CA 96002-0164",(530) 223-5898,(530) 223-5897,Herger,96002-0164
+CA41,US Representative,US House of Representatives,The Honorable Jerry Lewis,1150 Brookside Avenue Suite J-5,"Redlands, CA 92373-6314",(909) 862-6030,(909) 335-9155,Lewis,92373-6314
+MN07,US Representative,US House of Representatives,The Honorable Collin C. Peterson,PO Box 50 ,"Redwood Falls, MN 56283-0050",(507) 637-2270,,Peterson,56283-0050
+NV02,US Representative,US House of Representatives,The Honorable Dean Heller,400 South Virginia Street Suite 502,"Reno, NV 89501-2116",(775) 686-5760,(775) 686-5711,Heller,89501-2116
+TX03,US Representative,US House of Representatives,The Honorable Sam Johnson,2929 North Central Expressway Suite 240,"Richardson, TX 75080-2000",(972) 470-0892,(972) 470-9937,Johnson,75080-2000
+CA07,US Representative,US House of Representatives,The Honorable George Miller,3220 Blume Drive Suite 160,"Richmond, CA 94806-5741",(510) 262-6500,,Miller,94806-5741
+IN06,US Representative,US House of Representatives,The Honorable Mike Pence,50 North Fifth Street Second Floor,"Richmond, IN 47374-4247",(765) 962-2883,(765) 962-3225,Pence,47374-4247
+VA03,US Representative,US House of Representatives,The Honorable Bobby C. Scott,400 North 8th Street Suite 430,"Richmond, VA 23219-1321",(804) 644-4845,(804) 648-6026,Scott,23219-1321
+TX28,US Representative,US House of Representatives,The Honorable Henry Cuellar,100 North F.M. 3167 ,"Rio Grande City, TX 78582-6688",(956) 487-5603,(956) 488-0952,Cuellar,78582-6688
+NM03,US Representative,US House of Representatives,The Honorable Ben Ray Lujan,"3200 Civic Center, NE Suite 330","Rio Rancho, NM 87144-4503",(505) 994-0499,(505) 994-0550,Lujan,87144-4503
+CA44,US Representative,US House of Representatives,The Honorable Ken Calvert,3400 Central Avenue Suite 200,"Riverside, CA 92506-2163",(951) 784-4300,(951) 784-5255,Calvert,92506-2163
+VA06,US Representative,US House of Representatives,The Honorable Bob Goodlatte,"Ten Franklin Road, SE Suite 540","Roanoke, VA 24011-2121",(540) 857-2672,(540) 857-2675,Goodlatte,24011-2121
+MN01,US Representative,US House of Representatives,The Honorable Tim Walz,1134 7th Street Northwest ,"Rochester, MN 55901-1732",(507) 206-0643,,Walz,55901-1732
+NY28,US Representative,US House of Representatives,The Honorable Louise M. Slaughter,100 State Street Room 3120,"Rochester, NY 14614-1309",(585) 232-4850,(585) 232-1954,Slaughter,14614-1309
+NY25,US Representative,US House of Representatives,The Honorable Ann Marie Buerkle,1280 Titus Avenue ,"Rochester, NY 14617-4125",(585) 336-7291,(585) 336-7274,Buerkle,14617-4125
+SC05,US Representative,US House of Representatives,The Honorable Mick Mulvaney,1456 Ebenezer Road ,"Rock Hill, SC 29732-2339",(803) 327-1114,(803) 327-4330,Mulvaney,29732-2339
+WY01,US Representative,US House of Representatives,The Honorable Cynthia M. Lummis,404 N Street Suite 204,"Rock Springs, WY 82901-5474",(307) 362-4095,(307) 362-4097,Lummis,82901-5474
+NY09,US Representative,US House of Representatives,The Honorable Anthony D. Weiner,90-16 Rockaway Beach Boulevard ,"Rockaway, NY 11693-1530",(718) 318-9255,,Weiner,11693-1530
+IL16,US Representative,US House of Representatives,The Honorable Donald A. Manzullo,415 South Mulford Road ,"Rockford, IL 61108-3011",(815) 394-1231,(815) 394-3930,Manzullo,61108-3011
+NC08,US Representative,US House of Representatives,The Honorable Larry Kissell,230 East Franklin Street ,"Rockingham, NC 28379-3627",(910) 997-2070,(910) 997-7987,Kissell,28379-3627
+MD08,US Representative,US House of Representatives,The Honorable Chris Van Hollen,51 Monroe Street Suite 507,"Rockville, MD 20850-2406",(301) 424-3501,(301) 424-5992,Van Hollen,20850-2406
+TX04,US Representative,US House of Representatives,The Honorable Ralph M. Hall,104 North San Jacinto Street ,"Rockwall, TX 75087-2508",(972) 771-9118,(972) 722-0907,Hall,75087-2508
+AR03,US Representative,US House of Representatives,The Honorable Steve Womack,3333 Pinnacle Hills Suite 120,"Rogers, AR 72758-8979",(479) 464-0446,(479) 464-0063,Womack,72758-8979
+MO08,US Representative,US House of Representatives,The Honorable Jo Ann Emerson,1301 Kings Highway ,"Rolla, MO 65401-3136",(573) 364-2455,(573) 364-1053,Emerson,65401-3136
+GA11,US Representative,US House of Representatives,The Honorable Phil Gingrey,600 East First Street Suite 301,"Rome, GA 30161-3149",(706) 290-1776,(706) 232-7864,Gingrey,30161-3149
+OR04,US Representative,US House of Representatives,The Honorable Peter A. DeFazio,PO Box 2460 ,"Roseburg, OR 97470-0511",(541) 440-3523,(541) 440-3525,DeFazio,97470-0511
+MI12,US Representative,US House of Representatives,The Honorable Sandy Levin,27085 Gratiot Avenue ,"Roseville, MI 48066-2947",(586) 498-7122,(586) 498-7123,Levin,48066-2947
+NM02,US Representative,US House of Representatives,The Honorable Steve E. Pearce,1717 West Second Street Suite 100,"Roswell, NM 88201-2029",(855) 473-2723,,Pearce,88201-2029
+MP01,US Representative,US House of Representatives,The Honorable Gregorio Kilili Camacho Sablan,PO Box 1361 ,"Rota, MP 96951-1361",(670) 532-2647,,Sablan,96951-1361
+TX31,US Representative,US House of Representatives,The Honorable John R. Carter,1717 North IH 35 Suite 303,"Round Rock, TX 78664-2901",(512) 246-1600,(512) 246-1620,Carter,78664-2901
+MA08,US Representative,US House of Representatives,The Honorable Michael E. Capuano,Roxbury Community College Room 211,"Roxbury, MA 02120-3400",(617) 621-6208,(617) 621-8628,Capuano,02120-3400
+CA05,US Representative,US House of Representatives,The Honorable Doris O. Matsui,501 I Street Room 12-600,"Sacramento, CA 95814-4778",(916) 498-5600,(916) 444-6117,Matsui,95814-4778
+MI05,US Representative,US House of Representatives,The Honorable Dale E. Kildee,515 North Washington Avenue Suite 401,"Saginaw, MI 48607-1378",(989) 755-8904,(989) 755-8908,Kildee,48607-1378
+MP01,US Representative,US House of Representatives,The Honorable Gregorio Kilili Camacho Sablan,PO Box 504879 ,"Saipan, MP 96950-4310",(670) 323-2647,(670) 323-2649,Sablan,96950-4310
+OR05,US Representative,US House of Representatives,The Honorable Kurt Schrader,494 State Street Suite 210,"Salem, OR 97301-3830",(503) 588-9100,(503) 588-5517,Schrader,97301-3830
+KS01,US Representative,US House of Representatives,The Honorable Tim Huelskamp,"119 West Iron Avenue 4th Floor, Suite A","Salina, KS 67402",(785) 309-0572,(785) 827-6957,Huelskamp,67402
+CA17,US Representative,US House of Representatives,The Honorable Sam Farr,100 West Alisal Street ,"Salinas, CA 93901-2687",(831) 424-2229,(831) 424-7099,Farr,93901-2687
+MD01,US Representative,US House of Representatives,The Honorable Andy Harris,212 West Main Street Suite 204 B,"Salisbury, MD 21801-5026",(443) 944-8624,(443) 944-8625,Harris,21801-5026
+UT02,US Representative,US House of Representatives,The Honorable Jim Matheson,240 East Morris Avenue Suite 235,"Salt Lake City, UT 84115-3296",(801) 486-1236,(801) 486-1417,Matheson,84115-3296
+UT01,US Representative,US House of Representatives,The Honorable Rob W. Bishop,125 South State Street Suite 5420,"Salt Lake City, UT 84138-1102",(801) 532-2344,(801) 532-3583,Bishop,84138-1102
+TX11,US Representative,US House of Representatives,The Honorable Mike Conaway,33 East Twohig Avenue Suite 307,"San Angelo, TX 76903-6451",(325) 659-4010,(325) 659-4014,Conaway,76903-6451
+TX28,US Representative,US House of Representatives,The Honorable Henry Cuellar,615 East Houston Street Suite 451,"San Antonio, TX 78205-2054",(210) 271-2851,(210) 277-6671,Cuellar,78205-2054
+TX20,US Representative,US House of Representatives,The Honorable Charles A. Gonzalez,727 East Durango Boulevard Room B-124,"San Antonio, TX 78206-1286",(210) 472-6195,(210) 472-4009,Gonzalez,78206-1286
+TX21,US Representative,US House of Representatives,The Honorable Lamar S. Smith,1100 NE Loop 410 Suite 640,"San Antonio, TX 78209-1530",(210) 821-5024,(210) 821-5947,Smith,78209-1530
+TX23,US Representative,US House of Representatives,The Honorable Francisco R. Canseco,1313 SE Military Drive Room 101,"San Antonio, TX 78214-2850",(210) 922-7826,(210) 924-3560,Canseco,78214-2850
+TX23,US Representative,US House of Representatives,The Honorable Francisco R. Canseco,6363 Dezavala Road Suite 105,"San Antonio, TX 78249-2104",(210) 561-8855,(210) 877-5835,Canseco,78249-2104
+CA43,US Representative,US House of Representatives,The Honorable Joe Baca,201 North East Street Suite 102,"San Bernardino, CA 92401-1520",(909) 885-2222,(909) 888-5959,Baca,92401-1520
+CA53,US Representative,US House of Representatives,The Honorable Susan A. Davis,2700 Adams Avenue Suite 102,"San Diego, CA 92116-1367",(619) 280-5353,(619) 280-5311,Davis,92116-1367
+CA26,US Representative,US House of Representatives,The Honorable David Dreier,510 East Foothill Boulevard Suite 201,"San Dimas, CA 91773-1254",(909) 575-6226,(909) 575-6266,Dreier,91773-1254
+CA08,US Representative,US House of Representatives,The Honorable Nancy Pelosi,90 7th Street Suite 2-800,"San Francisco, CA 94103-6723",(415) 556-4862,(415) 861-1670,Pelosi,94103-6723
+CA16,US Representative,US House of Representatives,The Honorable Zoe Lofgren,635 North First Street Suite B,"San Jose, CA 95112-5110",(408) 271-8700,(408) 271-8714,Lofgren,95112-5110
+PR01,US Representative,US House of Representatives,The Honorable Pedro R. Pierluisi,Puerta de Tierra 2ndo Piso,"San Juan, PR 00901-2102",(787) 723-6333,(787) 729-7738,Pierluisi,00901-2102
+CA23,US Representative,US House of Representatives,The Honorable Lois Capps,1411 Marsh Street Suite 205,"San Luis Obispo, CA 93401-2923",(805) 546-8348,(805) 546-8368,Capps,93401-2923
+CA12,US Representative,US House of Representatives,The Honorable Jackie Speier,400 South El Camino Real Suite 750,"San Mateo, CA 94402-1761",(650) 342-0300,(650) 375-8270,Speier,94402-1761
+CA06,US Representative,US House of Representatives,The Honorable Lynn C. Woolsey,1050 Northgate Drive Suite 354,"San Rafael, CA 94903-2580",(415) 507-9554,(415) 507-9601,Woolsey,94903-2580
+GA12,US Representative,US House of Representatives,The Honorable John Barrow,PO Box 1017 ,"Sandersville, GA 31082",(478) 553-1923,(478) 553-9215,Barrow,31082
+CA23,US Representative,US House of Representatives,The Honorable Lois Capps,301 East Carrillo Street Suite A,"Santa Barbara, CA 93101-2611",(805) 730-1710,(805) 730-9153,Capps,93101-2611
+CA25,US Representative,US House of Representatives,The Honorable Buck McKeon,26650 The Old Road Suite 203,"Santa Clarita, CA 91381-0750",(661) 254-2111,(661) 254-2380,McKeon,91381-0750
+CA17,US Representative,US House of Representatives,The Honorable Sam Farr,701 Ocean Avenue Room 318,"Santa Cruz, CA 95060-4027",(831) 429-1976,(831) 429-1458,Farr,95060-4027
+CA38,US Representative,US House of Representatives,The Honorable Grace F. Napolitano,11627 East Telegraph Road Suite 100,"Santa Fe Springs, CA 90670-6810",(562) 801-2134,(562) 949-9144,Napolitano,90670-6810
+NM03,US Representative,US House of Representatives,The Honorable Ben Ray Lujan,811 St. Michael's Drive Suite 104,"Santa Fe, NM 87505-7640",(505) 984-8950,(505) 986-5047,Lujan,87505-7640
+CA06,US Representative,US House of Representatives,The Honorable Lynn C. Woolsey,1101 College Avenue Suite 200,"Santa Rosa, CA 95404-3940",(707) 542-7182,(707) 542-2745,Woolsey,95404-3940
+SC06,US Representative,US House of Representatives,The Honorable James E. Clyburn,176 Brooks Boulevard ,"Santee, SC 29142-8644",(803) 854-4700,(803) 854-4900,Clyburn,29142-8644
+FL13,US Representative,US House of Representatives,The Honorable Vern Buchanan,235 North Orange Avenue Suite 201,"Sarasota, FL 34236-8522",(941) 951-6643,(941) 951-2972,Buchanan,34236-8522
+NY20,US Representative,US House of Representatives,The Honorable Chris P. Gibson,513 Broadway ,"Saratoga Springs, NY 12866-6730",(518) 306-5450,(518) 306-5446,Gibson,12866-6730
+GA12,US Representative,US House of Representatives,The Honorable John Barrow,450 Mall Boulevard Suite A,"Savannah, GA 31406-4864",(912) 354-7282,(912) 354-7782,Barrow,31406-4864
+GA01,US Representative,US House of Representatives,The Honorable Jack Kingston,One Diamond Causeway Suite 7,"Savannah, GA 31406-7434",(912) 352-0101,(912) 352-0105,Kingston,31406-7434
+NY21,US Representative,US House of Representatives,The Honorable Paul D. Tonko,105 Jay Street Room 15,"Schenectady, NY 12305-1905",(518) 374-4547,(518) 374-7908,Tonko,12305-1905
+NE03,US Representative,US House of Representatives,The Honorable Adrian M. Smith,416 Valleyview Drive Suite 600,"Scottsbluff, NE 69361-1445",(308) 633-6333,(308) 633-6335,Smith,69361-1445
+AZ05,US Representative,US House of Representatives,The Honorable David Schweikert,10603 North Hayden Road Suite 108,"Scottsdale, AZ 85260-5571",(480) 946-2411,(480) 946-2446,Schweikert,85260-5571
+WA07,US Representative,US House of Representatives,The Honorable Jim McDermott,1809 Seventh Avenue Suite 1212,"Seattle, WA 98101-1399",(206) 553-7170,(206) 553-7175,McDermott,98101-1399
+MO04,US Representative,US House of Representatives,The Honorable Vicky Hartzler,415 South Ohio Avenue Suite 212B,"Sedalia, MO 65301",(573) 634-4884,,Hartzler,65301
+TX28,US Representative,US House of Representatives,The Honorable Henry Cuellar,100 South Austin Street ,"Seguin, TX 78155-5702",(830) 401-0457,(830) 379-0984,Cuellar,78155-5702
+AL07,US Representative,US House of Representatives,The Honorable Terri A. Sewell,908 Alabama Avenue Suite 112,"Selma, AL 36701-4660",(334) 877-4414,(334) 877-4489,Sewell,36701-4660
+FL10,US Representative,US House of Representatives,The Honorable C.W. Bill Young,9210 113th Street Room 606,"Seminole, FL 33772-2800",(727) 394-6950,(727) 394-6955,Young,33772-2800
+MI10,US Representative,US House of Representatives,The Honorable Candice S. Miller,48701 Van Dyke Avenue ,"Shelby Township, MI 48317-2560",(586) 997-5010,(586) 997-5013,Miller,48317-2560
+NC10,US Representative,US House of Representatives,The Honorable Patrick T. McHenry,311 East Marion Street Suite 119,"Shelby, NC 28151-4611",(704) 481-0578,(704) 481-0757,McHenry,28151-4611
+WY01,US Representative,US House of Representatives,The Honorable Cynthia M. Lummis,45 East Loucks Suite 300F,"Sheridan, WY 82801-6331",(307) 673-4608,(307) 673-4982,Lummis,82801-6331
+CA27,US Representative,US House of Representatives,The Honorable Brad J. Sherman,5000 Van Nuys Boulevard Suite 420,"Sherman Oaks, CA 91403-1791",(818) 501-9200,(818) 501-1554,Sherman,91403-1791
+TX04,US Representative,US House of Representatives,The Honorable Ralph M. Hall,101 East Pecan Street Suite 119,"Sherman, TX 75090-5989",(903) 892-1112,(903) 868-0264,Hall,75090-5989
+WA01,US Representative,US House of Representatives,The Honorable Jay Inslee,18560 First Avenue NE Suite E-800,"Shoreline, WA 98155-2150",(206) 361-0233,(206) 361-3959,Inslee,98155-2150
+LA04,US Representative,US House of Representatives,The Honorable John Fleming,6425 Youree Drive Suite 350,"Shreveport, LA 71105-4634",(318) 798-2254,(318) 798-2063,Fleming,71105-4634
+AZ08,US Representative,US House of Representatives,The Honorable Gabrielle Giffords,77 Calle Portal Room B-160,"Sierra Vista, AZ 85635-2981",(520) 459-3115,(520) 459-5419,Giffords,85635-2981
+MD04,US Representative,US House of Representatives,The Honorable Donna F. Edwards,8730 Georgia Avenue Suite 209,"Silver Spring, MD 20910-3651",(301) 562-7960,(301) 562-7964,Edwards,20910-3651
+IA05,US Representative,US House of Representatives,The Honorable Steve A. King,526 Nebraska Street ,"Sioux City, IA 51101-1313",(712) 224-4692,(712) 224-4693,King,51101-1313
+SD01,US Representative,US House of Representatives,The Honorable Kristi L. Noem,2310 West 41st Street Suite 101,"Sioux Falls, SD 57105-6118",(605) 275-2868,(605) 367-8373,Noem,57105-6118
+GA13,US Representative,US House of Representatives,The Honorable David A. Scott,888 Concord Road Suite 100,"Smyrna, GA 30080-4202",(770) 432-5405,(770) 432-5813,Scott,30080-4202
+CA50,US Representative,US House of Representatives,The Honorable Brian P. Bilbray,380 Stevens Avenue Suite 212,"Solana Beach, CA 92075-2069",(858) 350-1150,(858) 350-0750,Bilbray,92075-2069
+CA24,US Representative,US House of Representatives,The Honorable Elton Gallegly,485 Alisal Road Suite G-1a,"Solvang, CA 93463-3701",(805) 522-4487,(805) 888-2588,Gallegly,93463-3701
+KY05,US Representative,US House of Representatives,The Honorable Hal Rogers,551 Clifty Street ,"Somerset, KY 42501-1782",(606) 679-8346,(606) 678-4856,Rogers,42501-1782
+PA09,US Representative,US House of Representatives,The Honorable Bill Shuster,118 West Main Street Suite 104,"Somerset, PA 15501-2047",(814) 443-3918,(814) 443-6373,Shuster,15501-2047
+AZ07,US Representative,US House of Representatives,The Honorable Raul M. Grijalva,201 Bingham Avenue Suite 2,"Somerton, AZ 85350",(928) 343-7933,(928) 343-7949,Grijalva,85350
+IN02,US Representative,US House of Representatives,The Honorable Joe Donnelly,207 West Colfax Avenue ,"South Bend, IN 46601-1606",(574) 288-2780,(574) 288-2825,Donnelly,46601-1606
+NY01,US Representative,US House of Representatives,The Honorable Tim H. Bishop,137 Hampton Road ,"Southampton, NY 11968-4923",(631) 259-8450,(631) 259-8451,Bishop,11968-4923
+SC04,US Representative,US House of Representatives,The Honorable Trey Gowdy,101 West St. John Street Suite 203,"Spartanburg, SC 29306-5167",(864) 583-3264,,Gowdy,29306-5167
+IA05,US Representative,US House of Representatives,The Honorable Steve A. King,PO BOX 650 ,"Spencer, IA 51301",(712) 580-7754,(712) 580-3354,King,51301
+WA05,US Representative,US House of Representatives,The Honorable Cathy McMorris Rodgers,10 North Post Street Suite 625,"Spokane, WA 99201-0712",(509) 353-2374,(509) 353-2412,McMorris Rodgers,99201-0712
+IL18,US Representative,US House of Representatives,The Honorable Aaron Schock,235 South Sixth Street ,"Springfield, IL 62701-1502",(217) 670-1653,(217) 670-1806,Schock,62701-1502
+IL19,US Representative,US House of Representatives,The Honorable John M. Shimkus,3130 Chatham Road Suite C,"Springfield, IL 62704-5379",(217) 492-5090,(217) 492-5096,Shimkus,62704-5379
+MA02,US Representative,US House of Representatives,The Honorable Richard E. Neal,300 State Street Suite 200,"Springfield, MA 01105-1711",(413) 785-0325,(413) 747-0604,Neal,01105-1711
+MO07,US Representative,US House of Representatives,The Honorable Billy Long,3232 East Ridgeview Street ,"Springfield, MO 65804-4076",(417) 889-1800,(417) 889-4915,Long,65804-4076
+OH07,US Representative,US House of Representatives,The Honorable Steve Austria,5 West North Street Suite 200,"Springfield, OH 45504-2544",(937) 325-0474,(937) 325-9188,Austria,45504-2544
+PA07,US Representative,US House of Representatives,The Honorable Pat Meehan,940 Sproul Road ,"Springfield, PA 19064-1255",(610) 690-7323,(610) 690-7329,Meehan,19064-1255
+NC10,US Representative,US House of Representatives,The Honorable Patrick T. McHenry,167 Locust Avenue ,"Spruce Pine, NC 28777-2711",(828) 765-2729,,McHenry,28777-2711
+FL07,US Representative,US House of Representatives,The Honorable John L. Mica,3000 North Ponce de Leon Boulevard Suite 1,"St. Augustine, FL 32084-8600",(904) 810-5048,(904) 810-5091,Mica,32084-8600
+MO02,US Representative,US House of Representatives,The Honorable Todd Akin,PO Box 519 ,"St. Charles, MO 63302",(636) 949-6826,(636) 949-3832,Akin,63302
+VI01,US Representative,US House of Representatives,The Honorable Donna M. Christensen,#1 Estate Cane Fredrikstad Space 204 & 205,"St. Croix, VI 00840-4425",(340) 778-5900,(340) 778-5111,Christensen,00840-4425
+UT02,US Representative,US House of Representatives,The Honorable Jim Matheson,321 North Mall Drive Room E101-B,"St. George, UT 84790-7305",(435) 627-0880,(435) 627-1473,Matheson,84790-7305
+MI06,US Representative,US House of Representatives,The Honorable Fred Upton,800 Ship Street Suite 106,"St. Joseph, MI 49085-2182",(269) 982-1986,(269) 982-0237,Upton,49085-2182
+MO06,US Representative,US House of Representatives,The Honorable Sam Graves,201 South Eight Street Suite 330,"St. Joseph, MO 64501-2275",(816) 233-9818,(816) 233-9848,Graves,64501-2275
+MO01,US Representative,US House of Representatives,The Honorable William Lacy Clay,625 North Euclid Street Suite 326,"St. Louis, MO 63108-1673",(314) 367-1970,(314) 367-1341,Clay,63108-1673
+MO01,US Representative,US House of Representatives,The Honorable William Lacy Clay,8021 West Florissant Avenue Suite F,"St. Louis, MO 63136-1449",(314) 383-5240,(314) 383-8020,Clay,63136-1449
+MO03,US Representative,US House of Representatives,The Honorable Russ Carnahan,8764 Manchester Road Suite 203,"St. Louis, MO 63144-2735",(314) 962-1523,(314) 962-7169,Carnahan,63144-2735
+MN04,US Representative,US House of Representatives,The Honorable Betty McCollum,165 Western Avenue North Suite 17,"St. Paul, MN 55102-4613",(651) 224-9191,(651) 224-3056,McCollum,55102-4613
+FL10,US Representative,US House of Representatives,The Honorable C.W. Bill Young,360 Central Avenue Suite 1480,"St. Petersburg, FL 33701-3838",(727) 893-3191,(727) 893-3126,Young,33701-3838
+VI01,US Representative,US House of Representatives,The Honorable Donna M. Christensen, Suite 207,"St. Thomas, VI 00802-5820",(340) 774-4408,(340) 774-8033,Christensen,00802-5820
+CT04,US Representative,US House of Representatives,The Honorable Jim A. Himes,888 Washington Boulevard 10th Floor,"Stamford, CT 06901-2902",(866) 453-0028,(203) 333-6655,Himes,06901-2902
+MS03,US Representative,US House of Representatives,The Honorable Gregg Harper,One Research Boulevard Suite 206,"Starkville, MS 39759-8749",(662) 324-0007,(662) 324-0033,Harper,39759-8749
+VA06,US Representative,US House of Representatives,The Honorable Bob Goodlatte,7 Court Square ,"Staunton, VA 24401-4281",(540) 885-3861,(540) 885-3930,Goodlatte,24401-4281
+CO04,US Representative,US House of Representatives,The Honorable Cory Gardner,109 South Third Street ,"Sterling, CO 80751-4220",(970) 522-0203,(970) 522-1783,Gardner,80751-4220
+NY13,US Representative,US House of Representatives,The Honorable Michael G. Grimm,265 New Dorp Lane 2nd Floor,"Sterling, NY 10306-3005",(718) 341-1062,(718) 980-0768,Grimm,10306-3005
+OK03,US Representative,US House of Representatives,The Honorable Frank D. Lucas,2222 West 12th Street ,"Stillwater, OK 74074",(405) 624-6407,(405) 624-6467,Lucas,74074
+CA18,US Representative,US House of Representatives,The Honorable Dennis A. Cardoza,137 East Weber Avenue ,"Stockton, CA 95202-2704",(209) 946-0361,(209) 946-0347,Cardoza,95202-2704
+CA11,US Representative,US House of Representatives,The Honorable Jerry McNerney,2222 Grand Canal Boulevard Suite 7,"Stockton, CA 95207-6671",(209) 476-8552,(209) 476-8587,McNerney,95207-6671
+IA05,US Representative,US House of Representatives,The Honorable Steve A. King,800 Oneida Street Suite A,"Storm Lake, IA 50588-3209",(712) 732-4197,(712) 732-4217,King,50588-3209
+FL16,US Representative,US House of Representatives,The Honorable Thomas J. Rooney,171 Southwest Flagler Avenue ,"Stuart, FL 34994-2139",(772) 288-4668,(772) 288-4631,Rooney,34994-2139
+TX22,US Representative,US House of Representatives,The Honorable Pete Olson,1650 Highway 6 Suite 150,"Sugar Land, TX 77478-4921",(281) 494-2690,(281) 494-2649,Olson,77478-4921
+MD04,US Representative,US House of Representatives,The Honorable Donna F. Edwards,5001 Silver Hill Road Suite 106,"Suitland, MD 20746-5208",(301) 516-7601,(301) 516-7608,Edwards,20746-5208
+TX04,US Representative,US House of Representatives,The Honorable Ralph M. Hall,320 Church Street Suite 132,"Sulphur Springs, TX 75482-2606",(903) 885-8138,(903) 439-0874,Hall,75482-2606
+PA10,US Representative,US House of Representatives,The Honorable Tom Marino,160 Arch Street ,"Sunbury, PA 17801-2145",,,Marino,17801-2145
+FL18,US Representative,US House of Representatives,The Honorable Ileana Ros-Lehtinen,9293 Harding Avenue ,"Surfside, FL 33154-3009",(305) 394-9441,,Ros-Lehtinen,33154-3009
+NC11,US Representative,US House of Representatives,The Honorable Heath Shuler,125 Bonnie Lane ,"Sylva, NC 28779-8552",(828) 586-1962,(828) 586-1968,Shuler,28779-8552
+NY25,US Representative,US House of Representatives,The Honorable Ann Marie Buerkle,100 South Clinton Street Room 1340,"Syracuse, NY 13261-6100",(315) 423-5657,(315) 423-5669,Buerkle,13261-6100
+WA09,US Representative,US House of Representatives,The Honorable Adam Smith,2209 Pacific Avenue Suite B,"Tacoma, WA 98402-3005",(253) 593-6600,(253) 593-6776,Smith,98402-3005
+WA06,US Representative,US House of Representatives,The Honorable Norm Dicks,1019 Pacific Avenue Suite 806,"Tacoma, WA 98402-4486",(253) 593-6536,(253) 593-6551,Dicks,98402-4486
+FL02,US Representative,US House of Representatives,The Honorable Steve Southerland,3116 Capital Circle NE Suite 9,"Tallahassee, FL 32308-7791",(850) 561-3979,(850) 681-2902,Southerland,32308-7791
+FL11,US Representative,US House of Representatives,The Honorable Kathy Castor,4144 North Armenia Avenue Suite 300,"Tampa, FL 33607-6435",(813) 871-2817,(813) 871-2864,Castor,33607-6435
+VA01,US Representative,US House of Representatives,The Honorable Rob Wittman,508 Church Lane ,"Tappahannock, VA 22560",(804) 443-0668,(804) 443-0671,Wittman,22560
+MA04,US Representative,US House of Representatives,The Honorable Barney Frank,29 Broadway Street Suite 310,"Taunton, MA 02780-3208",(508) 822-4796,(508) 822-8186,Frank,02780-3208
+PA17,US Representative,US House of Representatives,The Honorable Tim Holden,4918 Kutztown Road ,"Temple, PA 19560-1554",(610) 921-3502,(610) 921-3504,Holden,19560-1554
+TX31,US Representative,US House of Representatives,The Honorable John R. Carter,6544B South General Bruce Drive ,"Temple, TX 76502-5811",(254) 933-1392,(254) 933-1650,Carter,76502-5811
+IN08,US Representative,US House of Representatives,The Honorable Larry Bucshon,901 Wabash Avenue Suite 140,"Terra Haute, IN 47807-3232",(812) 465-6484,(812) 422-4761,Bucshon,47807-3232
+TX04,US Representative,US House of Representatives,The Honorable Ralph M. Hall,4303 Texas Boulevard Suite 2,"Texarkana, TX 75503-3094",(903) 794-4445,(903) 794-5577,Hall,75503-3094
+GA02,US Representative,US House of Representatives,The Honorable Sanford D. Bishop,137 East Jackson Street ,"Thomasville, GA 31729-5136",(229) 226-7789,(229) 226-7860,Bishop,31729-5136
+CO02,US Representative,US House of Representatives,The Honorable Jared Polis,1200 East 78th Avenue Suite 105,"Thornton, CO 80229-5930",(303) 287-4159,(303) 287-4385,Polis,80229-5930
+GA08,US Representative,US House of Representatives,The Honorable Austin Scott,127-B North Central Avenue ,"Tifton, GA 31794-4087",(229) 396-5175,(202) 225-3013,Scott,31794-4087
+MD02,US Representative,US House of Representatives,The Honorable C.A. Dutch Ruppersberger,375 West Padonia Road Suite 200,"Timonium, MD 21093-2130",(410) 628-2701,(410) 628-2708,Ruppersberger,21093-2130
+MP01,US Representative,US House of Representatives,The Honorable Gregorio Kilili Camacho Sablan, ,"Tinian, MP 96952-9999",(670) 433-2647,(670) 433-2648,Sablan,96952-9999
+PA05,US Representative,US House of Representatives,The Honorable Glenn Thompson,127 West Spring Street Suite C,"Titusville, PA 16354-1727",(814) 827-3985,(814) 827-7307,Thompson,16354-1727
+GA10,US Representative,US House of Representatives,The Honorable Paul Broun,194 Remsdale Street ,"Toccoa, GA 30577-1899",(706) 886-1008,(706) 886-1009,Broun,30577-1899
+OH09,US Representative,US House of Representatives,The Honorable Marcy Kaptur,One Maritime Plaza Sixth Floor,"Toledo, OH 43604",(419) 259-7500,(419) 255-9623,Kaptur,43604
+TX10,US Representative,US House of Representatives,The Honorable Michael T. McCaul,990 Village Square Drive Suite B,"Tomball, TX 77375-4269",(281) 255-8372,(281) 255-0034,McCaul,77375-4269
+KY01,US Representative,US House of Representatives,The Honorable Ed Whitfield,200 North Main Street Suite F,"Tompkinsville, KY 42167-1548",(270) 487-9509,(270) 487-0019,Whitfield,42167-1548
+KS02,US Representative,US House of Representatives,The Honorable Lynn Jenkins,3550 SW 5th Street ,"Topeka, KS 66606-1998",(785) 234-5966,(785) 234-5967,Jenkins,66606-1998
+MD03,US Representative,US House of Representatives,The Honorable John P. Sarbanes,600 Baltimore Avenue Suite 303,"Towson, MD 21204-4022",(410) 832-8890,(410) 832-8898,Sarbanes,21204-4022
+PA06,US Representative,US House of Representatives,The Honorable Jim Gerlach,580 Main Street Suite Four,"Trappe, PA 19426-1940",(610) 409-2780,(610) 409-7988,Gerlach,19426-1940
+MI04,US Representative,US House of Representatives,The Honorable Dave Camp,121 East Front Street Suite 202,"Traverse City, MI 49684-2500",(231) 929-4711,(231) 929-4776,Camp,49684-2500
+MI14,US Representative,US House of Representatives,The Honorable John Conyers,2615 West Jefferson ,"Trenton, MI 48183-2802",(734) 675-4084,(734) 675-4218,Conyers,48183-2802
+MI09,US Representative,US House of Representatives,The Honorable Gary C. Peters,560 Kirts Boulevard Suite 105,"Troy, MI 48084-4141",(248) 273-4227,(248) 273-4704,Peters,48084-4141
+OH08,US Representative,US House of Representatives,The Honorable John A. Boehner,12 South Plum Street Suite 2,"Troy, OH 45373-5207",(937) 339-1524,(937) 339-1878,Boehner,45373-5207
+GA04,US Representative,US House of Representatives,The Honorable Hank C. Johnson,3469 Lawrenceville Highway Suite 205,"Tucker, GA 30084-5866",(770) 939-2016,(770) 939-3753,Johnson,30084-5866
+AZ07,US Representative,US House of Representatives,The Honorable Raul M. Grijalva,738 North 5th Avenue Suite 110,"Tucson, AZ 85705-8485",(520) 622-6788,(520) 622-0198,Grijalva,85705-8485
+AZ08,US Representative,US House of Representatives,The Honorable Gabrielle Giffords,1661 North Swan Suite 112,"Tucson, AZ 85712-4051",(520) 881-3588,(520) 322-9490,Giffords,85712-4051
+NM03,US Representative,US House of Representatives,The Honorable Ben Ray Lujan,404 West Route 66 Boulevard ,"Tucumcari, NM 88401-3279",(575) 461-3029,(575) 461-3192,Lujan,88401-3279
+OK01,US Representative,US House of Representatives,The Honorable John A. Sullivan,5727 South Lewis Avenue Room 520,"Tulsa, OK 74105-7146",(918) 749-0014,(918) 749-0781,Sullivan,74105-7146
+PA10,US Representative,US House of Representatives,The Honorable Tom Marino,181 West Tioga Street Suite 2,"Tunkhannock, OR 18657-6604",(570) 838-8020,(570) 836-8026,Marino,18657-6604
+MS01,US Representative,US House of Representatives,The Honorable Alan Nunnelee,337 East Main Street ,"Tupelo, MS 38804-4025",(662) 841-8808,(662) 841-8845,Nunnelee,38804-4025
+AL07,US Representative,US House of Representatives,The Honorable Terri A. Sewell,1118 Greensboro Avenue Suite 336,"Tuscaloosa, AL 35401-2861",(205) 752-5380,(205) 652-5899,Sewell,35401-2861
+AL05,US Representative,US House of Representatives,The Honorable Mo Brooks,1011 George Wallace Boulevard ,"Tuscumbia, AL 35674-1726",(256) 381-3450,(256) 381-7659,Brooks,35674-1726
+ID02,US Representative,US House of Representatives,The Honorable Mike Simpson,1341 Fillmore Street Suite 202,"Twin Falls, ID 83301-3392",(208) 734-7219,(208) 734-7244,Simpson,83301-3392
+OH14,US Representative,US House of Representatives,The Honorable Steven C. LaTourette,10075 Ravenna Road ,"Twinsburg, OH 44087-1718",(330) 425-9291,(330) 425-7071,LaTourette,44087-1718
+TX01,US Representative,US House of Representatives,The Honorable Louie Gohmert,1121 East Southeast Loop 323 Suite 206,"Tyler, TX 75701-9660",(903) 561-6349,(903) 561-7110,Gohmert,75701-9660
+PA12,US Representative,US House of Representatives,The Honorable Mark S. Critz,20 North Gallatin Avenue Suite 216,"Uniontown, PA 15401-3545",(724) 434-2620,(724) 434-2621,Critz,15401-3545
+PA16,US Representative,US House of Representatives,The Honorable Joe R. Pitts,PO Box 837 ,"Unionville, PA 19375-0837",(610) 444-4581,(610) 444-5750,Pitts,19375-0837
+NY24,US Representative,US House of Representatives,The Honorable Richard L. Hanna,258 Genesee Street First Floor,"Utica, NY 13502-4636",(315) 724-9740,(315) 724-9746,Hanna,13502-4636
+GA01,US Representative,US House of Representatives,The Honorable Jack Kingston,PO Box 5264 ,"Valdosta, GA 31603-5264",(229) 247-9188,(229) 247-9189,Kingston,31603-5264
+CA07,US Representative,US House of Representatives,The Honorable George Miller,375 G Street Suite 1,"Vallejo, CA 94592-5706",(707) 645-1888,(707) 645-1870,Miller,94592-5706
+CA28,US Representative,US House of Representatives,The Honorable Howard L. Berman,14546 Hamlin Street Suite 202,"Van Nuys, CA 91411-4102",(818) 994-7200,(818) 994-1050,Berman,91411-4102
+WA03,US Representative,US House of Representatives,The Honorable Jaime Herrera Beutler,750 Anderson Street Suite B,"Vancouver, WA 98661-3853",(360) 695-6292,(360) 695-6197,Herrera Beutler,98661-3853
+TX14,US Representative,US House of Representatives,The Honorable Ron Paul,1501 East Mockingbird Lane Suite 229,"Victoria, TX 77904-2194",(361) 576-1231,(361) 576-0381,Paul,77904-2194
+GA12,US Representative,US House of Representatives,The Honorable John Barrow,107 Old Airport Road Suite A,"Vidalia, GA 30474-8840",(912) 537-9301,(912) 537-9266,Barrow,30474-8840
+VA02,US Representative,US House of Representatives,The Honorable Scott Rigell,4772 Euclid Road Suite E,"Virginia Beach, VA 23462-3800",(757) 687-8290,(757) 687-8298,Rigell,23462-3800
+CA21,US Representative,US House of Representatives,The Honorable Devin G. Nunes,113 North Church Street Suite 208,"Visalia, CA 93291-6300",(559) 733-3861,(559) 733-3865,Nunes,93291-6300
+CA49,US Representative,US House of Representatives,The Honorable Darrell E. Issa,1800 Thibodo Road Suite 310,"Vista, CA 92081-7515",(760) 599-5000,(760) 599-1178,Issa,92081-7515
+TX17,US Representative,US House of Representatives,The Honorable Bill Flores,600 Austin Avenue ,"Waco, TX 76710-2018",(254) 732-0748,(254) 732-1755,Flores,76710-2018
+MN06,US Representative,US House of Representatives,The Honorable Michele M. Bachmann,110 2nd Street South Suite 232,"Waite Park, MI 56387-1313",(320) 253-5931,(320) 240-6905,Bachmann,56387-1313
+MD05,US Representative,US House of Representatives,The Honorable Steny H. Hoyer,401 Post Office Road Suite 202,"Waldorf, MD 20602-2738",(301) 843-1577,(301) 843-1331,Hoyer,20602-2738
+WA05,US Representative,US House of Representatives,The Honorable Cathy McMorris Rodgers,29 South Palouse Street ,"Walla Walla, WA 99362-1925",(509) 529-9358,(509) 353-2412,McMorris Rodgers,99362-1925
+CA10,US Representative,US House of Representatives,The Honorable John Garamendi,1981 North Broadway Suite 220,"Walnut Creek, CA 94596-3877",(925) 932-8899,(925) 932-8159,Garamendi,94596-3877
+GA08,US Representative,US House of Representatives,The Honorable Austin Scott,230 Margie Drive Suite 500,"Warner Robins, GA 31088-7813",(478) 971-1776,(202) 225-3013,Scott,31088-7813
+OH17,US Representative,US House of Representatives,The Honorable Tim Ryan,197 West Market Street ,"Warren, OH 44481-1024",(330) 373-0074,(330) 373-0098,Ryan,44481-1024
+OH11,US Representative,US House of Representatives,The Honorable Marcia L. Fudge,4834 Richmond Road Suite 150,"Warrensville Heights, OH 44128-6408",(216) 522-4900,(216) 522-4908,Fudge,44128-6408
+RI02,US Representative,US House of Representatives,The Honorable Jim Langevin,300 Centerville Road Suite 200S,"Warwick, RI 02886-0212",(401) 732-9400,(401) 737-2982,Langevin,02886-0212
+MO09,US Representative,US House of Representatives,The Honorable Blaine Luetkemeyer,516 Jefferson Street ,"Washington, MO 63090-2706",(636) 239-2276,(636) 239-0478,Luetkemeyer,63090-2706
+CT05,US Representative,US House of Representatives,The Honorable Chris S. Murphy,49 Leavenworth Street ,"Waterbury, CT 06702-2115",(203) 759-7541,,Murphy,06702-2115
+IA01,US Representative,US House of Representatives,The Honorable Bruce L. Braley,501 Sycamore Street Suite 610,"Waterloo, IA 50703-4051",(319) 287-3233,(319) 287-5104,Braley,50703-4051
+NY23,US Representative,US House of Representatives,The Honorable Bill L. Owens,120 Washington Street Suite 200,"Watertown, NY 13601-3370",(315) 782-3150,(315) 782-1291,Owens,13601-3370
+SD01,US Representative,US House of Representatives,The Honorable Kristi L. Noem,"505 12th Street, SE ","Watertown, SD 57201-4973",(202) 225-2801,,Noem,57201-4973
+ME02,US Representative,US House of Representatives,The Honorable Michael H. Michaud,16 Common Street ,"Waterville, ME 04901-6611",(207) 873-5713,(207) 873-5717,Michaud,04901-6611
+WI07,US Representative,US House of Representatives,The Honorable Sean P. Duffy,208 Grand Ave ,"Wausau, WI 54403-6217",(715) 298-9344,,Duffy,54403-6217
+NC01,US Representative,US House of Representatives,The Honorable G.K. Butterfield,PO Box 836 ,"Weldon, NC 27890",(252) 538-4123,(252) 583-6516,Butterfield,27890
+OH08,US Representative,US House of Representatives,The Honorable John A. Boehner,7969 Cincinnati-Dayton Road Suite B,"West Chester, OH 45069-6637",(513) 779-5400,(513) 779-5315,Boehner,45069-6637
+SC02,US Representative,US House of Representatives,The Honorable Joe Wilson,PO Box 2381 ,"West Columbia, SC 29171-2381",(803) 939-0041,(803) 939-0078,Wilson,29171-2381
+IL12,US Representative,US House of Representatives,The Honorable Jerry F. Costello,201 East Nolen Street ,"West Frankfort, IL 62896-2437",(618) 937-6402,(618) 937-3307,Costello,62896-2437
+MS02,US Representative,US House of Representatives,The Honorable Bennie G. Thompson,509 Highway 82 West Suite F,"West Greenwood, MS 38930-5030",(662) 455-9003,(662) 453-0118,Thompson,38930-5030
+UT03,US Representative,US House of Representatives,The Honorable Jason Chaffetz,3895 West 7800 South Suite 201,"West Jordan, UT 84088-4314",(801) 282-5502,(801) 282-6081,Chaffetz,84088-4314
+NJ13,US Representative,US House of Representatives,The Honorable Albio Sires,5500 Palisades Avenue Suite A,"West New York, NJ 07093-2124",(201) 558-0800,(201) 617-2809,Sires,07093-2124
+NY17,US Representative,US House of Representatives,The Honorable Eliot L. Engel,261 West Nyack Road ,"West Nyack, NY 10994-1724",(845) 735-1000,(845) 735-1963,Engel,10994-1724
+FL22,US Representative,US House of Representatives,The Honorable Allen B. West,3111 South Dixie Highway Suite 308,"West Palm Beach, FL 33405-1553",(561) 655-1943,,West,33405-1553
+FL23,US Representative,US House of Representatives,The Honorable Alcee L. Hastings,1755 East Tiffany Drive Suite 208,"West Palm Beach, FL 33407-3224",(561) 881-9618,(561) 881-9879,Hastings,33407-3224
+MO08,US Representative,US House of Representatives,The Honorable Jo Ann Emerson,35 Court Square Suite 300,"West Plains, MO 65775-3453",(417) 255-1515,(573) 255-2009,Emerson,65775-3453
+NJ12,US Representative,US House of Representatives,The Honorable Rush D. Holt,50 Washington Road ,"West Windsor, NJ 08550-1012",(609) 750-9365,(609) 750-0618,Holt,08550-1012
+NJ07,US Representative,US House of Representatives,The Honorable Leonard Lance,425 North Avenue East ,"Westfield, NJ 07090-1537",(908) 518-7733,(908) 518-7751,Lance,07090-1537
+MD06,US Representative,US House of Representatives,The Honorable Roscoe G. Bartlett,412 Malcom Drive Suite 200,"Westminster, MD 21157-6174",(410) 857-1115,(410) 857-3648,Bartlett,21157-6174
+WV01,US Representative,US House of Representatives,The Honorable David B. McKinley,1125 Chapline Street ,"Wheeling, WV 26003-2976",,(304) 232-5722,McKinley,26003-2976
+NY18,US Representative,US House of Representatives,The Honorable Nita M. Lowey,222 Mamaroneck Avenue Suite 310,"White Plains, NY 10605-1316",(914) 428-1707,(914) 328-1505,Lowey,10605-1316
+NJ04,US Representative,US House of Representatives,The Honorable Chris Smith,108 Lacey Road Suite 38-A,"Whiting, NJ 08759-1331",(732) 350-2300,(732) 350-6260,Smith,08759-1331
+TX13,US Representative,US House of Representatives,The Honorable Mac Thornberry,4245 Kemp Boulevard Suite 506,"Wichita Falls, TX 76308-2829",(940) 692-1700,(940) 692-0539,Thornberry,76308-2829
+KS04,US Representative,US House of Representatives,The Honorable Mike Pompeo,155 North Market Street Suite 400,"Wichita, KS 67202-1818",(316) 262-8992,(316) 262-5309,Pompeo,67202-1818
+PA10,US Representative,US House of Representatives,The Honorable Tom Marino,1000 Commerce Park Drive Suite 1A,"Williamsport, PA 17701-5475",,,Marino,17701-5475
+KY04,US Representative,US House of Representatives,The Honorable Geoff Davis,400 North Main Street Suite 145,"Williamstown, KY 41097-1026",(859) 824-3320,(859) 824-3340,Davis,41097-1026
+MN07,US Representative,US House of Representatives,The Honorable Collin C. Peterson,"320 Fourth Street, SW ","Willmar, MN 56201-3300",(320) 235-1061,(320) 235-2651,Peterson,56201-3300
+IL13,US Representative,US House of Representatives,The Honorable Judy Biggert,6262 South Route 83 Suite 305,"Willowbrook, IL 60527-2987",(630) 655-2052,(630) 655-1061,Biggert,60527-2987
+DE01,US Representative,US House of Representatives,The Honorable John C. Carney,201 North Walnut Street Suite 107,"Wilmington, DE 19801-3998",(302) 428-1902,(302) 428-1950,Carney,19801-3998
+NC07,US Representative,US House of Representatives,The Honorable Mike McIntyre,201 North Front Street Suite 410,"Wilmington, NC 28401-5093",(910) 815-4959,(910) 815-4543,McIntyre,28401-5093
+OH03,US Representative,US House of Representatives,The Honorable Michael R. Turner,61 East Main Street Suite One,"Wilmington, OH 45177-2330",(937) 383-8931,(937) 383-8910,Turner,45177-2330
+NC01,US Representative,US House of Representatives,The Honorable G.K. Butterfield,216 West Nash Street Suite B,"Wilson, NC 27893-3802",(252) 237-9816,(252) 291-0356,Butterfield,27893-3802
+VA10,US Representative,US House of Representatives,The Honorable Frank R. Wolf,110 North Cameron Street ,"Winchester, VA 22601-4730",(540) 667-0990,(540) 678-0402,Wolf,22601-4730
+IN03,US Representative,US House of Representatives,The Honorable Marlin A. Stutzman,700 Park Avenue Suite D,"Winona Lake, IN 46590-1066",(574) 269-1940,(574) 269-3112,Stutzman,46590-1066
+FL08,US Representative,US House of Representatives,The Honorable Daniel A. Webster,300 West Plant Street ,"Winter Garden, FL 34787-3009",(407) 654-5705,,Webster,34787-3009
+VA11,US Representative,US House of Representatives,The Honorable Gerald E. Connolly,4308 Ridgewood Center Drive ,"Woodbridge, VA 22192-5307",(703) 670-4989,(703) 670-6042,Connolly,22192-5307
+MN06,US Representative,US House of Representatives,The Honorable Michele M. Bachmann,6043 Hudson Road Suite 330,"Woodbury, MN 55125-1004",(651) 731-5400,(651) 731-6650,Bachmann,55125-1004
+NJ01,US Representative,US House of Representatives,The Honorable Robert E. Andrews,63 North Broad Street ,"Woodbury, NJ 08096-4602",(856) 848-3900,(856) 848-8341,Andrews,08096-4602
+CA01,US Representative,US House of Representatives,The Honorable Mike C. Thompson,712 Main Street Suite 101,"Woodland, CA 95695-3478",(530) 662-5272,(530) 662-5163,Thompson,95695-3478
+OK03,US Representative,US House of Representatives,The Honorable Frank D. Lucas,2728 Williams Avenue Suite F,"Woodward, OK 73801-5853",(580) 256-5752,(580) 254-3047,Lucas,73801-5853
+MA03,US Representative,US House of Representatives,The Honorable Jim P. McGovern,34 Mechanic Street 1st Floor,"Worcester, MA 01608-2424",(508) 831-7356,(508) 754-0982,McGovern,01608-2424
+PA06,US Representative,US House of Representatives,The Honorable Jim Gerlach,840 North Park Road ,"Wyomissing, PA 19610-1307",(610) 376-7630,(610) 376-7633,Gerlach,19610-1307
+WA04,US Representative,US House of Representatives,The Honorable Doc Hastings,402 East Yakima Avenue Suite 760,"Yakima, WA 98901-5410",(509) 452-3243,(509) 452-3438,Hastings,98901-5410
+PA19,US Representative,US House of Representatives,The Honorable Todd Russell Platts,2209 East Market Street ,"York, PA 17402-2853",(717) 600-1919,(717) 757-5001,Platts,17402-2853
+VA01,US Representative,US House of Representatives,The Honorable Rob Wittman,4904-B George Washington Memorial Highway ,"Yorktown, VA 23692-2769",(757) 874-6687,(757) 874-7164,Wittman,23692-2769
+OH17,US Representative,US House of Representatives,The Honorable Tim Ryan,241 West Federal Street ,"Youngstown, OH 44503-1207",(330) 740-0193,(330) 740-0182,Ryan,44503-1207
+MI15,US Representative,US House of Representatives,The Honorable John D. Dingell,301 West Michigan Avenue Suite 305,"Ypsilanti, MI 48197-5450",(734) 481-1100,(734) 481-1112,Dingell,48197-5450
+OK03,US Representative,US House of Representatives,The Honorable Frank D. Lucas,10952 Northwest Expressway Suite B,"Yukon, OK 73099-8214",(405) 373-1958,(405) 373-2046,Lucas,73099-8214
+OH18,US Representative,US House of Representatives,The Honorable Bob Gibbs,1166 Military Road ,"Zanesville, OH 43701-1562",,(740) 452-2557,Gibbs,43701-1562
