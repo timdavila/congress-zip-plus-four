@@ -45,6 +45,12 @@ The output from this stage is in the file **output-deduped.csv**.
 
 Remove Senators and out-of-office Reps from Sunlight's [basic legislator information CSV](http://unitedstates.sunlightfoundation.com/legislators/legislators.csv) and then merge Bioguide ID, Rep. Name, State and District columns into **output-merged.csv**. 
 
+You might find this USPS Zip+4 Lookup equation useful when filling in missing data:
+
+```
+=HYPERLINK("https://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&companyName=&address1="&SUBSTITUTE(A75," ","+")&"&address2=&city="&SUBSTITUTE(B75," ","+")&"&state="&F75&"&urbanCode=&postalCode=&zip="&D75,"USPS Lookup")
+```
+
 #### 6. Profit!
 Find and fill in any missing Districts/Bio IDs -> **output-final.csv**.
 
