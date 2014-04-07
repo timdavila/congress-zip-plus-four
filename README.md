@@ -7,16 +7,18 @@ For the [congress-forms](https://github.com/EFForg/congress-forms/)/[contact-con
 
 #### 1. Find district-office data
 
-I found a list of congressional offices, saved for posterity in the **1- congressional-offices.csv** file, by doing a google search combining a couple of district office addresses (e.g. "3532 Bee Cave Road" + "300 East Eighth Street").
+Find a list of congressional district ofices. The one I used is saved for posterity in the **1- congressional-offices.csv** file, which I found by doing a google search combining a couple of district office addresses (e.g. "3532 Bee Cave Road" + "300 East Eighth Street").
 
 #### 2. Extract data
 
-Since I didn't particularly trust that list to be up to date, and since we need Bio IDs for each rep, extract the key data (first line of address and zip+4) to the **2- address+zip4.csv** file.
+Since we don't particularly trust any list we find to be up to date, and since we need Bio IDs for each rep, extract the key data (first line of address and zip+4) to the **2- address+zip4.csv** file.
 
 #### 3. Run lookup.rb
 
-Then simply run the lookup.rb script (make sure all dependencies are installed). 
+Then simply run the lookup.rb script (make sure all dependencies are installed).
+
 The script looks up each address with Google's geocoder to get a lat/lng, then runs each lat/lng through Sunlight's Congress API to get the Bio-ID and congressional district.
+
 The output is just to console, so copy and paste to spreadsheet software (see **3- output.csv**).
 
 #### 4. Clean up data
@@ -53,4 +55,4 @@ You might find this USPS Zip+4 Lookup equation useful when filling in missing da
 You can see this at work in **6- output-cleanup.xlsx**
 
 #### 6. Profit!
-Take out all extraneous info, which leaves us with **7- output-final.csv**.
+Final, cleaned data is in  **7- output-final.csv**.
