@@ -39,6 +39,12 @@ Sub DelRowsColASame()
     End If
 End Sub
 ```
-The output from this stage is in the file output-deduped.csv
+The output from this stage is in the file **output-deduped.csv**.
 
-#### 5. 
+#### 5. Compare to full list & manually fill in any missing
+
+Remove Senators and out-of-office Reps from Sunlight's [basic legislator information CSV](http://unitedstates.sunlightfoundation.com/legislators/legislators.csv) and then merge Bioguide ID, Rep. Name, State and District columns into **output-merged.csv**. 
+
+#### 6. Profit!
+Find and fill in any missing Districts/Bio IDs -> **output-final.csv**.
+
