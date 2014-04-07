@@ -7,17 +7,17 @@ For the [congress-forms](https://github.com/EFForg/congress-forms/)/[contact-con
 
 #### 1. Find district-office data
 
-I found a list of congressional offices, saved for posterity in the [congressional-offices.csv](https://github.com/sinak/congress-zip-plus-four/blob/master/congressional-offices.csv) file, by doing a google search combining a couple of district office addresses (e.g. "3532 Bee Cave Road" + "300 East Eighth Street").
+I found a list of congressional offices, saved for posterity in the **1- congressional-offices.csv** file, by doing a google search combining a couple of district office addresses (e.g. "3532 Bee Cave Road" + "300 East Eighth Street").
 
 #### 2. Extract data
 
-Since I didn't particularly trust that list to be up to date, and since we need Bio IDs for each rep, extract the key data (first line of address and zip+4) to the **address+zip4.csv** file.
+Since I didn't particularly trust that list to be up to date, and since we need Bio IDs for each rep, extract the key data (first line of address and zip+4) to the **2- address+zip4.csv** file.
 
 #### 3. Run lookup.rb
 
 Then simply run the lookup.rb script (make sure all dependencies are installed). 
 The script looks up each address with Google's geocoder to get a lat/lng, then runs each lat/lng through Sunlight's Congress API to get the Bio-ID and congressional district.
-The output is just to console, so copy and paste to spreadsheet software (see **output.csv**).
+The output is just to console, so copy and paste to spreadsheet software (see **3- output.csv**).
 
 #### 4. Clean up data
 
@@ -39,18 +39,18 @@ Sub DelRowsColASame()
     End If
 End Sub
 ```
-The output from this stage is in the file **output-deduped.csv**.
+The output from this stage is in the file **4- output-deduped.csv**.
 
 #### 5. Compare to full list & manually fill in any missing
 
-Remove Senators and out-of-office Reps from Sunlight's [basic legislator information CSV](http://unitedstates.sunlightfoundation.com/legislators/legislators.csv) and then merge Bioguide ID, Rep. Name, State and District columns into **output-merged.csv**. 
+Remove Senators and out-of-office Reps from Sunlight's [basic legislator information CSV](http://unitedstates.sunlightfoundation.com/legislators/legislators.csv) and then merge Bioguide ID, Rep. Name, State and District columns into **5- output-merged.csv**. 
 
 You might find this USPS Zip+4 Lookup equation useful when filling in missing data:
 
 ```
 =HYPERLINK("https://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&companyName=&address1="&SUBSTITUTE(A75," ","+")&"&address2=&city="&SUBSTITUTE(B75," ","+")&"&state="&F75&"&urbanCode=&postalCode=&zip="&D75,"USPS Lookup")
 ```
+You can see this at work in **6- output-cleanup.xlsx**
 
 #### 6. Profit!
-Find and fill in any missing Districts/Bio IDs -> **output-final.csv**.
-
+Take out all extraneous info, which leaves us with **7- output-final.csv**.
