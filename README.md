@@ -15,7 +15,7 @@ Since we don't particularly trust any list we find to be up to date, and since w
 
 #### 3. Run lookup.rb
 
-Then simply run the lookup.rb script (make sure all dependencies are installed).
+Then simply run the lookup.rb script (make sure all dependencies are installed, and add your own Sunlight API key to the code).
 
 The script looks up each address with Google's geocoder to get a lat/lng, then runs each lat/lng through Sunlight's Congress API to get the Bio-ID and congressional district.
 
