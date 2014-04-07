@@ -7,17 +7,17 @@ For the [https://github.com/EFForg/congress-forms/](congress-forms)/[https://git
 
 #### 1. Find district-office data
 
-I found a list of congressional offices, saved for posterity in ([congressional-offices.csv](https://github.com/sinak/congress-zip-plus-four/blob/master/congressional-offices.csv)), by doing a google search combining a couple of district office addresses (e.g. "3532 Bee Cave Road" + "300 East Eighth Street").
+I found a list of congressional offices, saved for posterity in the [congressional-offices.csv](https://github.com/sinak/congress-zip-plus-four/blob/master/congressional-offices.csv) file, by doing a google search combining a couple of district office addresses (e.g. "3532 Bee Cave Road" + "300 East Eighth Street").
 
 #### 2. Extract data
 
-Since I didn't particularly trust that list to be up to date, and since we need Bio IDs for each rep, extract the key data (first line of address and zip+4) to the [https://github.com/sinak/congress-zip-plus-four/blob/master/address%2Bzip4.csv](address+zip4.csv) file.
+Since I didn't particularly trust that list to be up to date, and since we need Bio IDs for each rep, extract the key data (first line of address and zip+4) to the **address+zip4.csv** file.
 
 #### 3. Run lookup.rb
 
 Then simply run the lookup.rb script (make sure all dependencies are installed). 
 The script looks up each address with Google's geocoder to get a lat/lng, then runs each lat/lng through Sunlight's Congress API to get the Bio-ID and congressional district.
-The output is just to console, so copy and paste to spreadsheet software (output.csv).
+The output is just to console, so copy and paste to spreadsheet software (see **output.csv**).
 
 #### 4. Clean up data
 
