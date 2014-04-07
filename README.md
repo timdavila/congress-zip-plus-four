@@ -1,9 +1,9 @@
 Zip+4s for Congress
 ======================
 
-For the [https://github.com/EFForg/congress-forms/]congress-forms/[https://github.com/unitedstates/contact-congress/](contact-congress) project we needed a valid Zip+4 address for each congressional district to use for testing.
+For the [https://github.com/EFForg/congress-forms/](congress-forms)/[https://github.com/unitedstates/contact-congress/](contact-congress) project we needed a valid Zip+4 address for each congressional district to use for testing.
 
-To make one:
+### Data generation process:
 
 #### 1. Find district-office data
 
