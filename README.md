@@ -56,3 +56,6 @@ You can see this at work in **6- output-cleanup.xlsx**
 
 #### 6. Profit!
 Final, cleaned data is in  **7- output-final.csv**.
+
+#### 7. Extra credit
+I also added Senate addresses, which are in **8- output-final-with-senate.csv**.
