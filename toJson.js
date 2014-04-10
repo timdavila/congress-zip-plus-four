@@ -11,7 +11,9 @@ csv()
   rows.shift();
   var legislators = {};
   _.each(rows, function(row) {
-    /*[ '1726 Kingsley Avenue',
+    /*
+Address to use,City,State,Zip,Plus_Four,State,District,Rep_or_Sen,Name,Bio_ID
+    [ '1726 Kingsley Avenue',
     'Orange Park',
     'FL',
     '32073',
@@ -19,8 +21,9 @@ csv()
     'FL',
     '3',
     'Ted Yoho',
+    'Name'
     'Y000065' ]*/
-    var legislator_id = row[8]
+    var legislator_id = row[9]
     var info = {
       example_address: row[0],
       example_city: row[1],
@@ -28,7 +31,9 @@ csv()
       zip5: row[3],
       zip4: row[4],
       example_state: row[5],
-      example_district: row[6]
+      example_district: row[6],
+      type: row[7],
+      name: row[8]
 
     }
     legislators[legislator_id] = info;
