@@ -5,7 +5,7 @@ var _ = require('lodash');
 var opts = {};
 
 csv()
-.from.path(__dirname+'/7- output-final.csv', { delimiter: ',', escape: '"' })
+.from.path(__dirname+'/8- output-final-with-senate.csv', { delimiter: ',', escape: '"' })
 .to.array( function(rows){
   // Remove header information from array
   rows.shift();
