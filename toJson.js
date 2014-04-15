@@ -39,5 +39,5 @@ Address to use,City,State,Zip,Plus_Four,State,District,Rep_or_Sen,Name,Bio_ID
     legislators[legislator_id] = info;
   })
 
-  fs.writeFileSync('legislators.json', JSON.stringify(legislators, null, 4), 'utf8')
+  fs.writeFileSync('legislators.json', 'define(' + JSON.stringify(legislators, null, 4) + ')', 'utf8')
 });
