@@ -2140,10 +2140,10 @@ define({
         "name": "Derek Kilmer"
     },
     "K000382": {
-        "example_address": "34 Mechanic Street",
-        "example_city": "Lebanon",
+        "example_address": "18 North Main Street",
+        "example_city": "Concord",
         "example_state": "NH",
-        "zip5": "01608",
+        "zip5": "03301",
         "zip4": "2424",
         "example_district": "2",
         "type": "Rep",
