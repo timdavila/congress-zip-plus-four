@@ -113,7 +113,7 @@ define({
         "example_address": "63 North Broad Street",
         "example_city": "Philadelphia",
         "example_state": "PA",
-        "zip5": "08096",
+        "zip5": "19107",
         "zip4": "4602",
         "example_district": "1",
         "type": "Rep",
@@ -1163,7 +1163,7 @@ define({
         "example_address": "50 Washington Road",
         "example_city": "Woodbury",
         "example_state": "CT",
-        "zip5": "08550",
+        "zip5": "06051",
         "zip4": "1012",
         "example_district": "5",
         "type": "Rep",
@@ -2980,11 +2980,11 @@ define({
         "name": "Ed Pastor"
     },
     "P000197": {
-        "example_address": "49 Leavenworth Street",
+        "example_address": "90 7th Street",
         "example_city": "San Francisco",
         "example_state": "CA",
-        "zip5": "06702",
-        "zip4": "2115",
+        "zip5": "94103",
+        "zip4": "6701",
         "example_district": "12",
         "type": "Rep",
         "name": "Nancy Pelosi"
