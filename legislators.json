@@ -3710,11 +3710,11 @@ define({
         "name": "Allyson Schwartz"
     },
     "S001165": {
-        "example_address": "305 4th Street",
-        "example_city": "Newark",
+        "example_address": "121 Newark Avenue",
+        "example_city": "Jersey City",
         "example_state": "NJ",
-        "zip5": "01840",
-        "zip4": "1445",
+        "zip5": "07201",
+        "zip4": "2811",
         "example_district": "8",
         "type": "Rep",
         "name": "Albio Sires"
