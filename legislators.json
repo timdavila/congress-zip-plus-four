@@ -193,8 +193,8 @@ define({
         "example_address": "404 Route 66 Road",
         "example_city": "DeQuincy",
         "example_state": "LA",
-        "zip5": "88401",
-        "zip4": "3279",
+        "zip5": "70501",
+        "zip4": "8239",
         "example_district": "3",
         "type": "Rep",
         "name": "Charles Boustany"
